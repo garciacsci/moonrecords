@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "name": "Ace",
+    "collection": "Base game",
+    "image": "/objectives/base/Ace.jpg",
+    "prestige": 1,
+    "cardText": "Complete a contract with 2 or more Hazard Dice targeting you."
+  },
+  {
+    "id": 2,
+    "name": "Barrage",
+    "collection": "Base game",
+    "image": "/objectives/base/Barrage.jpg",
+    "prestige": 1,
+    "cardText": "Play at least 5 Damage on the same contract."
+  },
+  {
+    "id": 3,
+    "name": "Chain Reaction",
+    "collection": "Base game",
+    "image": "/objectives/base/Chain_Reaction.jpg",
+    "prestige": 1,
+    "cardText": "Play at least 4 Reactor cards on the same contract."
+  },
+  {
+    "id": 4,
+    "name": "Daredevil",
+    "collection": "Base game",
+    "image": "/objectives/base/Daredevil.jpg",
+    "prestige": 1,
+    "cardText": "Play no Shield cards but complete a Rescue contract."
+  },
+  {
+    "id": 5,
+    "name": "Efficiency",
+    "collection": "Base game",
+    "image": "/objectives/base/Efficiency.jpg",
+    "prestige": 1,
+    "cardText": "Play no Thruster cards but complete a Delivery contract."
+  },
+  {
+    "id": 6,
+    "name": "Fire Support",
+    "collection": "Base game",
+    "image": "/objectives/base/Fire_Support.jpg",
+    "prestige": 1,
+    "cardText": "Play no Damage cards, but complete a Kill contract."
+  },
+  {
+    "id": 7,
+    "name": "Generalist",
+    "collection": "Base game",
+    "image": "/objectives/base/Generalist.jpg",
+    "prestige": 1,
+    "cardText": "Have a Magnomi, Henko, Komek, and Ventus ship part attached to your ship."
+  },
+  {
+    "id": 8,
+    "name": "Gun For Hire",
+    "collection": "Base game",
+    "image": "/objectives/base/Gun_For_Hire.jpg",
+    "prestige": 1,
+    "cardText": "Complete a Kill contract alone."
+  },
+  {
+    "id": 9,
+    "name": "Megaton",
+    "collection": "Base game",
+    "image": "/objectives/base/Megaton.jpg",
+    "prestige": 1,
+    "cardText": "Acquire 3 Magnomi ship parts for your ship."
+  },
+  {
+    "id": 10,
+    "name": "Money Bags",
+    "collection": "Base game",
+    "image": "/objectives/base/Money_Bags.jpg",
+    "prestige": 1,
+    "cardText": "Have 8 Credits at the end of your turn."
+  },
+  {
+    "id": 11,
+    "name": "Natural Leader",
+    "collection": "Base game",
+    "image": "/objectives/base/Natural_Leader.jpg",
+    "prestige": 1,
+    "cardText": "Play at least 3 Crew Members on the same contract."
+  },
+  {
+    "id": 12,
+    "name": "Over 9000",
+    "collection": "Base game",
+    "image": "/objectives/base/Over_9000.jpg",
+    "prestige": 1,
+    "cardText": "Acquire 3 Komek ship parts for your ship."
+  },
+  {
+    "id": 13,
+    "name": "Quick Run",
+    "collection": "Base game",
+    "image": "/objectives/base/Quick_Run.jpg",
+    "prestige": 1,
+    "cardText": "Complete a Delivery contract alone."
+  },
+  {
+    "id": 14,
+    "name": "Quick Strike",
+    "collection": "Base game",
+    "image": "/objectives/base/Quick_Strike.jpg",
+    "prestige": 1,
+    "cardText": "Play at least 3 Thruster cards on the same contract."
+  },
+  {
+    "id": 15,
+    "name": "Saboteur",
+    "collection": "Base game",
+    "image": "/objectives/base/Saboteur.jpg",
+    "prestige": 1,
+    "cardText": "Fail a contract as an ally."
+  },
+  {
+    "id": 16,
+    "name": "Santa Maria",
+    "collection": "Base game",
+    "image": "/objectives/base/Santa_Maria.jpg",
+    "prestige": 1,
+    "cardText": "Complete an Explore contract alone."
+  },
+  {
+    "id": 17,
+    "name": "Shield Wall",
+    "collection": "Base game",
+    "image": "/objectives/base/Shield_Wall.jpg",
+    "prestige": 1,
+    "cardText": "Play at least 3 Shield cards on the same contract."
+  },
+  {
+    "id": 18,
+    "name": "Specialist",
+    "collection": "Base game",
+    "image": "/objectives/base/Specialist.jpg",
+    "prestige": 1,
+    "cardText": "Acquire 2 Sorelia ship parts for your ship."
+  },
+  {
+    "id": 19,
+    "name": "Speed Demon",
+    "collection": "Base game",
+    "image": "/objectives/base/Speed_Demon.jpg",
+    "prestige": 1,
+    "cardText": "Acquire 3 Ventus ship parts for your ship."
+  },
+  {
+    "id": 20,
+    "name": "Tank",
+    "collection": "Base game",
+    "image": "/objectives/base/Tank.jpg",
+    "prestige": 1,
+    "cardText": "Acquire 3 Henko ship parts for your ship."
+  },
+  {
+    "id": 21,
+    "name": "Tinker",
+    "collection": "Base game",
+    "image": "/objectives/base/Tinker.jpg",
+    "prestige": 1,
+    "cardText": "After acquiring 4 ship parts, replace a part on your ship."
+  },
+  {
+    "id": 22,
+    "name": "Utopia",
+    "collection": "Base game",
+    "image": "/objectives/base/Utopia.jpg",
+    "prestige": 1,
+    "cardText": "Complete a contract with all other players as allies."
+  },
+  {
+    "id": 23,
+    "name": "You're My Hero",
+    "collection": "Base game",
+    "image": "/objectives/base/Youre_My_Hero.jpg",
+    "prestige": 1,
+    "cardText": "Complete a Rescue contract alone."
+  },
+  {
+    "id": 24,
+    "name": "Alliance",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/Alliance.jpg",
+    "prestige": 1,
+    "cardText": "Have 5 Faction Rep with one faction and 0 with all others."
+  },
+  {
+    "id": 25,
+    "name": "Backup",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/Backup.jpg",
+    "prestige": 1,
+    "cardText": "Gain 4 Faction Rep on the same contract."
+  },
+  {
+    "id": 26,
+    "name": "Brute",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/Brute.jpg",
+    "prestige": 1,
+    "cardText": "Fail a contract as an ally with the player in first or tied for first."
+  },
+  {
+    "id": 27,
+    "name": "Call in Favors",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/Call_in_Favors.jpg",
+    "prestige": 1,
+    "cardText": "Spend 10 Faction Rep on the same turn."
+  },
+  {
+    "id": 28,
+    "name": "For Hire",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/For_Hire.jpg",
+    "prestige": 1,
+    "cardText": "Spend Faction Rep to get 2 objectives in the same turn."
+  },
+  {
+    "id": 29,
+    "name": "Freeloader",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/Freeloader.jpg",
+    "prestige": 1,
+    "cardText": "Join a contract for no reward."
+  },
+  {
+    "id": 30,
+    "name": "Hoarder",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/Hoarder.jpg",
+    "prestige": 1,
+    "cardText": "Have a total of 20 cards between your hand, draw pile, and discard pile."
+  },
+  {
+    "id": 31,
+    "name": "Invest",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/Invest.jpg",
+    "prestige": 1,
+    "cardText": "Spend Faction Rep to gain at least 3 Credits in the same turn."
+  },
+  {
+    "id": 32,
+    "name": "Manifold",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/Manifold.jpg",
+    "prestige": 1,
+    "cardText": "Gain 3 Cards on the same contract using Faction Rep."
+  },
+  {
+    "id": 33,
+    "name": "Responsive",
+    "collection": "Binding ties",
+    "image": "/objectives/binding_ties/Responsive.jpg",
+    "prestige": 1,
+    "cardText": "Gain 3 Actions on the same contract using Faction Rep."
+  },
+  {
+    "id": 34,
+    "name": "Arsenal",
+    "collection": "Overload",
+    "image": "/objectives/overload/Arsenal.jpg",
+    "prestige": 1,
+    "cardText": "Play 3 different types of Damage cards on the same turn."
+  },
+  {
+    "id": 35,
+    "name": "Tactical",
+    "collection": "Overload",
+    "image": "/objectives/overload/Tactical.jpg",
+    "prestige": 1,
+    "cardText": "Play at least 2 Shield cards and 2 Damage cards on the same contract."
+  },
+  {
+    "id": 36,
+    "name": "IO-Adopter",
+    "collection": "Overload",
+    "image": "/objectives/overload/IO-Adopter.jpg",
+    "prestige": 1,
+    "cardText": "Have two cards with at least 1 [IO-Sphere] on them."
+  },
+  {
+    "id": 37,
+    "name": "IO-Hoard",
+    "collection": "Overload",
+    "image": "/objectives/overload/IO-Hoard.jpg",
+    "prestige": 1,
+    "cardText": "Have a total of 6 [IO-Sphere] on your cards."
+  },
+  {
+    "id": 38,
+    "name": "IO-Power",
+    "collection": "Overload",
+    "image": "/objectives/overload/IO-Power.jpg",
+    "prestige": 1,
+    "cardText": "Remove 3 [IO-Sphere] on the same turn."
+  },
+  {
+    "id": 39,
+    "name": "Junker",
+    "collection": "Overload",
+    "image": "/objectives/overload/Junker.jpg",
+    "prestige": 1,
+    "cardText": "Trash at least 2 cards on the same turn."
+  },
+  {
+    "id": 40,
+    "name": "Parasite",
+    "collection": "Overload",
+    "image": "/objectives/overload/Parasite.jpg",
+    "prestige": 1,
+    "cardText": "Complete a contract without playing any cards."
+  },
+  {
+    "id": 41,
+    "name": "Technologic",
+    "collection": "Overload",
+    "image": "/objectives/overload/Technologic.jpg",
+    "prestige": 1,
+    "cardText": "Play 3 different types of Advanced action cards on the same turn."
+  },
+  {
+    "id": 42,
+    "name": "Untouchable",
+    "collection": "Overload",
+    "image": "/objectives/overload/Untouchable.jpg",
+    "prestige": 1,
+    "cardText": "Block 2 Hazard without playing a Shield on the same contract."
+  },
+  {
+    "id": 43,
+    "name": "Weird Flex",
+    "collection": "Overload",
+    "image": "/objectives/overload/Weird_Flex.jpg",
+    "prestige": 1,
+    "cardText": "Complete a contract with Flex requirements alone."
+  },
+  {
+    "id": 44,
+    "name": "Advantageous",
+    "collection": "Nomad",
+    "image": "/objectives/nomad/Advantageous.jpg",
+    "prestige": 1,
+    "cardText": "Trash a card during an Event."
+  },
+  {
+    "id": 45,
+    "name": "Clandestine",
+    "collection": "Nomad",
+    "image": "/objectives/nomad/Clandestine.jpg",
+    "prestige": 1,
+    "cardText": "Complete a Contract on Sorelia with no allies."
+  },
+  {
+    "id": 46,
+    "name": "Harmony",
+    "collection": "Nomad",
+    "image": "/objectives/nomad/Harmony.jpg",
+    "prestige": 1,
+    "cardText": "All players vote unanimously on a Policy."
+  },
+  {
+    "id": 47,
+    "name": "Opulence",
+    "collection": "Nomad",
+    "image": "/objectives/nomad/Opulence.jpg",
+    "prestige": 1,
+    "cardText": "Gain 2 Sorelia Protype Ship Parts."
+  },
+  {
+    "id": 48,
+    "name": "Benefactor",
+    "collection": "Starfall",
+    "image": "/objectives/starfall/Benefactor.jpg",
+    "prestige": 1,
+    "cardText": "Take all Hazard Dice and no Credits on a contract."
+  },
+  {
+    "id": 49,
+    "name": "Blessing",
+    "collection": "Starfall",
+    "image": "/objectives/starfall/Blessing.jpg",
+    "prestige": 1,
+    "cardText": "Roll 2 blanks while rolling Hazard Dice."
+  },
+  {
+    "id": 50,
+    "name": "Glare of Space",
+    "collection": "Starfall",
+    "image": "/objectives/starfall/Glare_of_Space.jpg",
+    "prestige": 1,
+    "cardText": "Roll 2 matching dice on your turn."
+  },
+  {
+    "id": 51,
+    "name": "Ms. Fortune",
+    "collection": "Starfall",
+    "image": "/objectives/starfall/Ms._Fortune.jpg",
+    "prestige": 1,
+    "cardText": "Gain a Bonus Card worth less than 4 Credits."
+  },
+  {
+    "id": 52,
+    "name": "Royale",
+    "collection": "Starfall",
+    "image": "/objectives/starfall/Royale.jpg",
+    "prestige": 1,
+    "cardText": "Gain a Bonus Card worth more than 3 Credits."
+  }
+]
