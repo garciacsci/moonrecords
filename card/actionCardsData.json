@@ -4,104 +4,176 @@
     "name": "Damage",
     "collection": "Base game",
     "image": "/action_cards/base/Damage.jpg",
-    "cardText": "+1 Damage"
+    "cardText": "+1 Damage",
+    "requirements": {
+      "damage": -1
+    },
+    "type": {
+      "damage": true
+    },
+    "discrete": true
   },
   {
     "id": 2,
     "name": "Damage 2",
     "collection": "Base game",
     "image": "/action_cards/base/Damage_2.jpg",
-    "cardText": "+2 Damage"
+    "cardText": "+2 Damage",
+    "requirements": {
+      "damage": -2
+    }
   },
   {
     "id": 3,
     "name": "Damage 3",
     "collection": "Base game",
     "image": "/action_cards/base/Damage_3.jpg",
-    "cardText": "+3 Damage"
+    "cardText": "+3 Damage",
+    "requirements": {
+      "damage": -3
+    }
   },
   {
     "id": 4,
     "name": "Miss",
     "collection": "Base game",
     "image": "/action_cards/base/Miss.jpg",
-    "cardText": "System Error"
+    "cardText": "System Error",
+    "requirements": null,
+    "type": {
+      "miss": true
+    },
+    "discrete": true
+
   },
   {
     "id": 5,
     "name": "Reactor",
     "collection": "Base game",
     "image": "/action_cards/base/Reactor.jpg",
-    "cardText": "+2 Actions"
+    "cardText": "+2 Actions",
+    "requirements": {
+      "reactor": -1
+    },
+    "type": {
+      "reactor": true
+    },
+    "discrete": true
   },
   {
     "id": 6,
     "name": "Shield",
     "collection": "Base game",
     "image": "/action_cards/base/Shield.jpg",
-    "cardText": "Block 1 Hazard"
+    "cardText": "Block 1 Hazard",
+    "effect": {
+      "shieldRequirement": -1,
+      "hazard": -1
+    }
   },
   {
     "id": 7,
     "name": "Thruster",
     "collection": "Base game",
     "image": "/action_cards/base/Thruster.jpg",
-    "cardText": "+2 Cards"
+    "cardText": "+2 Cards",
+    "effect": {
+      "thrusterRequirement": -1,
+      "card": 2
+    }
+
   },
   {
     "id": 8,
     "name": "Damage+",
     "collection": "Overload",
     "image": "/action_cards/overload/Damage_+.jpg",
-    "cardText": "+2 Damage, +1 Action"
+    "cardText": "+2 Damage, +1 Action",
+    "effect": {
+      "damageRequirement": -2,
+      "action": 1
+    }
+
   },
   {
     "id": 9,
     "name": "Reactor+",
     "collection": "Overload",
     "image": "/action_cards/overload/Reactor_+.jpg",
-    "cardText": "+2 Actions, +1 Card"
+    "cardText": "+2 Actions, +1 Card",
+    "effect": {
+      "reactorRequirement": -1,
+      "action": 2,
+      "card": 1
+    }
   },
   {
     "id": 10,
     "name": "Reactorx",
     "collection": "Overload",
     "image": "/action_cards/overload/Reactor_X.jpg",
-    "cardText": "+3 Actions"
+    "cardText": "+3 Actions",
+    "effect": {
+      "reactorRequirement": -1,
+      "action": 3
+    }
+
   },
   {
     "id": 11,
     "name": "Shield+",
     "collection": "Overload",
     "image": "/action_cards/overload/Shield_+.jpg",
-    "cardText": "Block 1 Hazard, +1 Action"
+    "cardText": "Block 1 Hazard, +1 Action",
+    "effect": {
+      "shieldRequirement": -1,
+      "hazard": -1,
+      "action": 1
+    }
+
   },
   {
     "id": 12,
     "name": "Shieldx",
     "collection": "Overload",
     "image": "/action_cards/overload/Shield_X.jpg",
-    "cardText": "Block 2 Hazard"
+    "cardText": "Block 2 Hazard",
+    "effect": {
+      "shieldRequirement": -1,
+      "hazard": -2
+    }
+
   },
   {
     "id": 13,
     "name": "Thruster+",
     "collection": "Overload",
     "image": "/action_cards/overload/Thruster_+.jpg",
-    "cardText": "+2 Cards, +1 Action"
+    "cardText": "+2 Cards, +1 Action",
+    "effect": {
+      "thrusterRequirement": -1,
+      "action": 1,
+      "card": 2
+    }
+
   },
   {
     "id": 14,
     "name": "Thrusterx",
     "collection": "Overload",
     "image": "/action_cards/overload/Thruster_X.jpg",
-    "cardText": "+3 Cards"
+    "cardText": "+3 Cards",
+    "effect": {
+      "thrusterRequirement": -1,
+      "card": 3
+    }
   },
   {
     "id": 15,
     "name": "Dark Matter",
     "collection": "Dark Matter",
     "image": "/action_cards/dark_matter/Dark_Matter.jpg",
-    "cardText": "Idle Substance"
+    "cardText": "Idle Substance",
+    "effect": {}
   }
 ]

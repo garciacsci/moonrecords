@@ -100,8 +100,10 @@ CREATE TABLE IF NOT EXISTS
     "id" SERIAL PRIMARY KEY,
     "block_hazard" INTEGER,
     "block_hazard_die" INTEGER,
-    "card" INTEGER REFERENCES "action_card" ("id"),
     "action" INTEGER,
+    "card" INTEGER REFERENCES "action_card" ("id"),
+    "requirement_id" INTEGER REFERENCES "requirement" ("id")
+
     -- "is_system_error" BOOLEAN DEFAULT FALSE,
     -- "is_idle_substance" BOOLEAN DEFAULT FALSE
   );
