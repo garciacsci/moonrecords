@@ -86,9 +86,9 @@ CREATE TABLE IF NOT EXISTS
     "name" TEXT NOT NULL,
     "image" TEXT NOT NULL,
     "card_text" TEXT NOT NULL,
-    "discrete" INTEGER NOT NULL,
     "collection" collection_type NOT NULL,
     "card_type" card_type_enum NOT NULL,
+    "discrete" INTEGER NOT NULL,
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
     "effect_id" INTEGER REFERENCES "action_card_effect" ("id")
   );
@@ -99,10 +99,11 @@ CREATE TABLE IF NOT EXISTS
   "action_card_effect" (
     "id" SERIAL PRIMARY KEY,
     "block_hazard" INTEGER,
-    "card" INTEGER,
+    "block_hazard_die" INTEGER,
+    "card" INTEGER REFERENCES "action_card" ("id"),
     "action" INTEGER,
-    "is_system_error" BOOLEAN DEFAULT FALSE,
-    "is_idle_substance" BOOLEAN DEFAULT FALSE
+    -- "is_system_error" BOOLEAN DEFAULT FALSE,
+    -- "is_idle_substance" BOOLEAN DEFAULT FALSE
   );
 
 -- create Game Element as an array of ENUMS?
