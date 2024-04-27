@@ -174,7 +174,7 @@ CREATE TABLE IF NOT EXISTS
 CREATE TABLE IF NOT EXISTS
   "game_element" (
     "id" SERIAL PRIMARY KEY,
-    "card_type" card_type,
+    "card_type" card_type[],
     "block_hazard" INTEGER,
     "block_hazard_die" INTEGER,
     "negate_hazard" INTEGER,

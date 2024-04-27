@@ -311,7 +311,7 @@
     "hazard": 0,
     "action": 0,
     "card": 0,
-    "is_default_loadout": true,
+    "is_default_loadout": false,
     "discrete": true
   }
 ]
