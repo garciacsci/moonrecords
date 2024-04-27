@@ -185,10 +185,10 @@ CREATE TABLE IF NOT EXISTS
     "spend_io" INTEGER,
     "faction_rep" INTEGER,
     "prestiege" INTEGER,
-    "credit", INTEGER,
+    "credit" INTEGER,
     "allies" INTEGER,
-    "objective_card": INTEGER,
-    "armory": BOOLEAN,
+    "objective_card" INTEGER,
+    "armory" BOOLEAN,
   );
 
 CREATE TABLE IF NOT EXISTS
@@ -207,8 +207,8 @@ CREATE TABLE IF NOT EXISTS
     "card_text" TEXT NOT NULL,
     "wiki_description" TEXT NOT NULL,
     "rule_clarification" jsonb[],
-    "play_as" INTEGER[] REFERENCES action_card ("id"),
-    "interacts" INTEGER REFERENCES game_element ("id")
+    "play_as_id" INTEGER REFERENCES action_card ("id"),
+    "interact_id" INTEGER REFERENCES game_element ("id")
 );
 
 CREATE TABLE IF NOT EXISTS
@@ -224,6 +224,26 @@ CREATE TABLE IF NOT EXISTS
     "card_text" TEXT NOT NULL,
     "wiki_description" TEXT NOT NULL,
     "rule_clarifications" jsonb[],
-    "play_as" INTEGER[] REFERENCES action_card ("id"),
-    "interacts" INTEGER REFERENCES game_element ("id")
+    "play_as_id" INTEGER[] REFERENCES action_card ("id"),
+    "interact_id" INTEGER REFERENCES game_element ("id")
+  );
+
+CREATE TABLE IF NOT EXISTS
+  "conditon" (
+    "id" SERIAL PRIMARY KEY,
+    "requirement_id" INTEGER REFERENCES requirement ("id"),
+    "contract_type" contract_type,
+    "interact_id" INTEGER REFERENCES game_element ("id"),
+
+  )
+
+CREATE TABLE IF NOT EXISTS
+  "objective" (
+    "id" SERIAL PRIMARY KEY,
+    "name" TEXT NOT NULL,
+    "collection" collection_type NOT NULL,
+    "image" TEXT NOT NULL,
+    "prestige" INTEGER NOT NULL,
+    "card_text" TEXT NOT NULL,
+    "condition" INTEGER REFERENCES conditon ("id")
   );
