@@ -28,7 +28,11 @@ CREATE TYPE "card_type" AS ENUM(
   'Crew',
   'Flex',
   'Dark Matter',
-  'Miss'
+  'Miss',
+  'Contract',
+  'Ship Part',
+  'Objective',
+  'Event'
 );
 
 CREATE TYPE "contract_type" AS ENUM(
@@ -148,7 +152,8 @@ CREATE TABLE IF NOT EXISTS
     "holographic" BOOLEAN NOT NULL,
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
     "hazard_die" INTEGER NOT NULL,
-    "reward_id" INTEGER REFERENCES "reward" ("id")
+    "reward_id" INTEGER REFERENCES "reward" ("id"),
+    "card_type" card_type NOT NULL
   );
 
 CREATE TABLE IF NOT EXISTS
@@ -159,9 +164,10 @@ CREATE TABLE IF NOT EXISTS
     "card_text" TEXT NOT NULL,
     "collection" collection_type NOT NULL,
     "card_type" card_type_enum NOT NULL,
-    "block_hazard" INTEGER NOT NULL, -- applies to pips, not dice
+    "block_hazard" INTEGER NOT NULL,
     "action" INTEGER NOT NULL,
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
+    "is_default_loadout" BOOLEAN NOT NULL DEFAULT FALSE,
     "discrete" BOOLEAN NOT NULL DEFAULT FALSE,
   );
 
@@ -170,12 +176,16 @@ CREATE TABLE IF NOT EXISTS
 CREATE TABLE IF NOT EXISTS
   "effect" (
     "id" SERIAL PRIMARY KEY,
-    "block_hazard" INTEGER,  --block is for hazard pips
+    "block_hazard" INTEGER,
+    "block_hazard_die" INTEGER,
     "negate_hazard" INTEGER, --negate is for die
+    "negate_hazard_die" INTEGER,
+    "roll_hazard_die" INTEGER,
+    "roll_moonroller_die" INTEGER,
     "action" INTEGER,
-    "requirement_id" INTEGER REFERENCES "requirement" ("id")
-    -- "is_system_error" BOOLEAN DEFAULT FALSE,
-    -- "is_idle_substance" BOOLEAN DEFAULT FALSE
+    "requirement_id" INTEGER REFERENCES "requirement" ("id"),
+    "play_as" INTEGER REFERENCES "action_card" ("id"),
+    "interact" INTEGER REFERENCES "game_element" ("id")
   );
 
 -- create Game Element as an array of ENUMS?
