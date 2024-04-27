@@ -189,4 +189,24 @@ CREATE TABLE IF NOT EXISTS
     "allies" INTEGER,
     "objective_card": INTEGER,
     "armory": BOOLEAN,
-  );"
+  );
+
+CREATE TABLE IF NOT EXISTS
+  "crew_card" (
+    "id" SERIAL PRIMARY KEY,
+    "name" TEXT NOT NULL,
+    "image" TEXT NOT NULL,
+    "cost" INTEGER NOT NULL,
+    "faction" faction_type NOT NULL,
+    "role" crew_role NOT NULL,
+    "type" crew_type NOT NULL,
+    "height" INTEGER NOT NULL,
+    "is_holographic" BOOLEAN NOT NULL,
+    "is_gold_holographic" BOOLEAN NOT NULL DEFAULT FALSE,
+    "alt_print" BOOLEAN NOT NULL,
+    "card_text" TEXT NOT NULL,
+    "wiki_description" TEXT NOT NULL,
+    "rule_clarification" jsonb[],
+    "play_as" INTEGER REFERENCES action_card ("id"),
+    "interacts" INTEGER REFERENCES game_element ("id")
+);"
