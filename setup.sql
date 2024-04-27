@@ -166,7 +166,6 @@ CREATE TABLE IF NOT EXISTS
     "card_type" card_type_enum NOT NULL,
     "is_default_loadout" BOOLEAN NOT NULL DEFAULT FALSE,
     "discrete" BOOLEAN NOT NULL DEFAULT FALSE,
-    "type" card_type NOT NULL
   );
 
 -- set either as null or as 0 when that specific card has no effect
