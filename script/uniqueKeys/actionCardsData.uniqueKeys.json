@@ -1,0 +1,149 @@
+{
+  "filename": "card/actionCardsData.json",
+  "keys": {
+    "id": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "name": [
+      "Damage",
+      "Damage 2",
+      "Damage 3",
+      "Miss",
+      "Reactor",
+      "Shield",
+      "Thruster",
+      "Damage+",
+      "Reactor+",
+      "Reactorx",
+      "Shield+",
+      "Shieldx",
+      "Thruster+",
+      "Thrusterx",
+      "Dark Matter"
+    ],
+    "collection": [
+      "Base game",
+      "Overload",
+      "Dark Matter"
+    ],
+    "image": [
+      "/action_cards/base/Damage.jpg",
+      "/action_cards/base/Damage_2.jpg",
+      "/action_cards/base/Damage_3.jpg",
+      "/action_cards/base/Miss.jpg",
+      "/action_cards/base/Reactor.jpg",
+      "/action_cards/base/Shield.jpg",
+      "/action_cards/base/Thruster.jpg",
+      "/action_cards/overload/Damage_+.jpg",
+      "/action_cards/overload/Reactor_+.jpg",
+      "/action_cards/overload/Reactor_X.jpg",
+      "/action_cards/overload/Shield_+.jpg",
+      "/action_cards/overload/Shield_X.jpg",
+      "/action_cards/overload/Thruster_+.jpg",
+      "/action_cards/overload/Thruster_X.jpg",
+      "/action_cards/dark_matter/Dark_Matter.jpg"
+    ],
+    "cardText": [
+      "+1 Damage",
+      "+2 Damage",
+      "+3 Damage",
+      "System Error",
+      "+2 Actions",
+      "Block 1 Hazard",
+      "+2 Cards",
+      "+2 Damage, +1 Action",
+      "+2 Actions, +1 Card",
+      "+3 Actions",
+      "Block 1 Hazard, +1 Action",
+      "Block 2 Hazard",
+      "+2 Cards, +1 Action",
+      "+3 Cards",
+      "Idle Substance"
+    ],
+    "requirements": [
+      {
+        "damage": -1
+      },
+      {
+        "damage": -2
+      },
+      {
+        "damage": -3
+      },
+      null,
+      {
+        "reactor": -1
+      }
+    ],
+    "type": [
+      {
+        "damage": true
+      },
+      {
+        "miss": true
+      },
+      {
+        "reactor": true
+      }
+    ],
+    "discrete": [
+      true
+    ],
+    "effect": [
+      {
+        "shieldRequirement": -1,
+        "hazard": -1
+      },
+      {
+        "thrusterRequirement": -1,
+        "card": 2
+      },
+      {
+        "damageRequirement": -2,
+        "action": 1
+      },
+      {
+        "reactorRequirement": -1,
+        "action": 2,
+        "card": 1
+      },
+      {
+        "reactorRequirement": -1,
+        "action": 3
+      },
+      {
+        "shieldRequirement": -1,
+        "hazard": -1,
+        "action": 1
+      },
+      {
+        "shieldRequirement": -1,
+        "hazard": -2
+      },
+      {
+        "thrusterRequirement": -1,
+        "action": 1,
+        "card": 2
+      },
+      {
+        "thrusterRequirement": -1,
+        "card": 3
+      },
+      {}
+    ]
+  }
+}

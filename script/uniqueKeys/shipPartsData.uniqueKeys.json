@@ -1,0 +1,1385 @@
+{
+  "filename": "card/shipPartsData.json",
+  "keys": {
+    "id": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123,
+      124
+    ],
+    "name": [
+      "Absorption K2",
+      "Accelerator mk3",
+      "Barrier A3",
+      "Cloaking Device",
+      "Daburu mk1",
+      "Dark Matter mk3",
+      "Defender 5000",
+      "Duo 1000",
+      "Emulator mk2",
+      "Escape Jets E1",
+      "Flash",
+      "Jump Jets E2",
+      "MG Charge Core",
+      "MG Phase core",
+      "MG Support Core",
+      "MG Warp",
+      "MG1 Kinetic",
+      "MG1 Rail Gun",
+      "MG2 Laser Turrets",
+      "MG2 Quad Laser",
+      "Multi Stage M1",
+      "Predator mk1",
+      "Projector S2",
+      "Pulsor mk1",
+      "Replicator mk1",
+      "Sapphire mk2",
+      "Swarm mk1",
+      "Symbiote 9000",
+      "The Clone Bay",
+      "The Dauntless",
+      "The Gatling Laser",
+      "The Leech",
+      "The Pursuer",
+      "The Quantum Driver",
+      "Titan 3000",
+      "Twin Jets E4",
+      "Vector Jets E3",
+      "Doom",
+      "Fission",
+      "Ghost",
+      "Siphon",
+      "SOS",
+      "EM - TR4",
+      "Flare Shard",
+      "Hypershift",
+      "Refractor",
+      "Shard Spear",
+      "Artifact 205-A",
+      "Artifact 205-B",
+      "Comms Array C5",
+      "Envoy Shuttle",
+      "Flak Mine",
+      "LR Targeting Core",
+      "Proto Warning System",
+      "Pulse Exchange",
+      "Pulse Recycler",
+      "Radar Repeater",
+      "Aclimator 6050",
+      "Augmentor 2050",
+      "Catalyzer mk2",
+      "Contributor mk2",
+      "Devotion 3050",
+      "Inverter mk2",
+      "IO Buffer 2050",
+      "IO Cache 3050",
+      "IO Exhaust E1",
+      "IO Gen mk1",
+      "IO Hotshot 1050",
+      "IO Hub mk2",
+      "IO Pivot H2",
+      "IO Spark mk1",
+      "IO Surge E2",
+      "Magnetite M1",
+      "MG IO Charge",
+      "MG IO Core",
+      "MG IO Overkill",
+      "MG Overcharger",
+      "MG Raid",
+      "MG Reformer",
+      "MG Tractor Beam",
+      "MG Upgrade Core",
+      "Modulator T3",
+      "Phase Drive mk3",
+      "Precari 4050",
+      "Staged Burst E3",
+      "Tesselator mk1",
+      "The Arbiter",
+      "The Eternal",
+      "The Mill",
+      "The Reclaimer",
+      "The Tributor",
+      "Thrust Tuner E2",
+      "Twin Probe E2",
+      "Underwriter 1050",
+      "The Automaton",
+      "The Conductor",
+      "The Decoder",
+      "The Icarus",
+      "The Initiator",
+      "The Intrepid",
+      "The Providence",
+      "The Resolute",
+      "The Seer",
+      "The Spectre",
+      "Pandorum Box",
+      "Panic Drones",
+      "Spark Root",
+      "STF Proto Field",
+      "The Oracle",
+      "Bulwark 5040",
+      "Fragmentor mk3",
+      "Injector T9",
+      "LR-42 AUTO",
+      "Photon Cannon",
+      "Pod Coils",
+      "Prism Canister",
+      "Security Buffer",
+      "The Lattice",
+      "The Transponder",
+      "MG Impact Warheads",
+      "Octingency 8050",
+      "Tertiary Drive mk1",
+      "The Hexahedron",
+      "Trajectory Array K4"
+    ],
+    "collection": [
+      "Base game",
+      "1st encounter",
+      "Shard",
+      "Binding ties",
+      "Overload",
+      "Nomad",
+      "Starfall",
+      "Dark Matter",
+      "Intrepid"
+    ],
+    "image": [
+      "/ship_parts/base/Absorption_K2.jpg",
+      "/ship_parts/base/Accelerator_mk3.jpg",
+      "/ship_parts/base/Barrier_A3.jpg",
+      "/ship_parts/base/Cloaking_Device.jpg",
+      "/ship_parts/base/Daburu_mk1.jpg",
+      "/ship_parts/base/Dark_Matter_mk3.jpg",
+      "/ship_parts/base/Defender_5000.jpg",
+      "/ship_parts/base/Duo_1000.jpg",
+      "/ship_parts/base/Emulator_mk2.jpg",
+      "/ship_parts/base/Escape_Jets_E1.jpg",
+      "/ship_parts/base/Flash.jpg",
+      "/ship_parts/base/Jump_Jets_E2.jpg",
+      "/ship_parts/base/MG_Charge_Core.jpg",
+      "/ship_parts/base/MG_Phase_core.jpg",
+      "/ship_parts/base/MG_Support_Core.jpg",
+      "/ship_parts/base/MG_Warp.jpg",
+      "/ship_parts/base/MG1_Kinetic.jpg",
+      "/ship_parts/base/MG1_Rail_Gun.jpg",
+      "/ship_parts/base/MG2_Laser_Turrets.jpg",
+      "/ship_parts/base/MG2_Quad_Laser.jpg",
+      "/ship_parts/base/Multi_Stage_M1.jpg",
+      "/ship_parts/base/Predator_mk1.jpg",
+      "/ship_parts/base/Projector_S2.jpg",
+      "/ship_parts/base/Pulsor_mk1.jpg",
+      "/ship_parts/base/Replicator_mk1.jpg",
+      "/ship_parts/base/Sapphire_mk2.jpg",
+      "/ship_parts/base/Swarm_mk1.jpg",
+      "/ship_parts/base/Symbiote_9000.jpg",
+      "/ship_parts/base/The_Clone_Bay.jpg",
+      "/ship_parts/base/The_Dauntless.jpg",
+      "/ship_parts/base/The_Gatling_Laser.jpg",
+      "/ship_parts/base/The_Leech.jpg",
+      "/ship_parts/base/The_Pursuer.jpg",
+      "/ship_parts/base/The_Quantum_Driver.jpg",
+      "/ship_parts/base/Titan_3000.jpg",
+      "/ship_parts/base/Twin_Jets_E4.jpg",
+      "/ship_parts/base/Vector_Jets_E3.jpg",
+      "/ship_parts/1st_encounter/Doom.jpg",
+      "/ship_parts/1st_encounter/Fission.jpg",
+      "/ship_parts/1st_encounter/Ghost.jpg",
+      "/ship_parts/1st_encounter/Siphon.jpg",
+      "/ship_parts/1st_encounter/SOS.jpg",
+      "/ship_parts/shard/EM_-_TR4.jpg",
+      "/ship_parts/shard/Flare_Shard.jpg",
+      "/ship_parts/shard/Hypershift.jpg",
+      "/ship_parts/shard/Refractor.jpg",
+      "/ship_parts/shard/Shard_Spear.jpg",
+      "/ship_parts/binding_ties/Artifact_205-A.jpg",
+      "/ship_parts/binding_ties/Artifact_205-B.jpg",
+      "/ship_parts/binding_ties/Comms_Array_C5.jpg",
+      "/ship_parts/binding_ties/Envoy_Shuttle.jpg",
+      "/ship_parts/binding_ties/Flak_Mine.jpg",
+      "/ship_parts/binding_ties/LR_Targeting_Core.jpg",
+      "/ship_parts/binding_ties/Proto_Warning_System.jpg",
+      "/ship_parts/binding_ties/Pulse_Exchange.jpg",
+      "/ship_parts/binding_ties/Pulse_Recycler.jpg",
+      "/ship_parts/binding_ties/Radar_Repeater.jpg",
+      "/ship_parts/overload/Aclimator_6050.jpg",
+      "/ship_parts/overload/Augmentor_2050.jpg",
+      "/ship_parts/overload/Catalyzer_mk2.jpg",
+      "/ship_parts/overload/Contributor_mk2.jpg",
+      "/ship_parts/overload/Devotion_3050.jpg",
+      "/ship_parts/overload/Inverter_mk2.jpg",
+      "/ship_parts/overload/IO_Buffer_2050.jpg",
+      "/ship_parts/overload/IO_Cache_3050.jpg",
+      "/ship_parts/overload/IO_Exhaust_E1.jpg",
+      "/ship_parts/overload/IO_Gen_mk1.jpg",
+      "/ship_parts/overload/IO_Hotshot_1050.jpg",
+      "/ship_parts/overload/IO_Hub_mk2.jpg",
+      "/ship_parts/overload/IO_Pivot_H2.jpg",
+      "/ship_parts/overload/IO_Spark_mk1.jpg",
+      "/ship_parts/overload/IO_Surge_E2.jpg",
+      "/ship_parts/overload/Magnetite_M1.jpg",
+      "/ship_parts/overload/MG_IO_Charge.jpg",
+      "/ship_parts/overload/MG_IO_Core.jpg",
+      "/ship_parts/overload/MG_IO_Overkill.jpg",
+      "/ship_parts/overload/MG_Overcharger.jpg",
+      "/ship_parts/overload/MG_Raid.jpg",
+      "/ship_parts/overload/MG_Reformer.jpg",
+      "/ship_parts/overload/MG_Tractor_Beam.jpg",
+      "/ship_parts/overload/MG_Upgrade_Core.jpg",
+      "/ship_parts/overload/Modulator_T3.jpg",
+      "/ship_parts/overload/Phase_Drive_mk3.jpg",
+      "/ship_parts/overload/Precari_4050.jpg",
+      "/ship_parts/overload/Staged_Burst_E3.jpg",
+      "/ship_parts/overload/Tesselator_mk1.jpg",
+      "/ship_parts/overload/The_Arbiter.jpg",
+      "/ship_parts/overload/The_Eternal.jpg",
+      "/ship_parts/overload/The_Mill.jpg",
+      "/ship_parts/overload/The_Reclaimer.jpg",
+      "/ship_parts/overload/The_Tributor.jpg",
+      "/ship_parts/overload/Thrust_Tuner_E2.jpg",
+      "/ship_parts/overload/Twin_Probe_E2.jpg",
+      "/ship_parts/overload/Underwriter_1050.jpg",
+      "/ship_parts/nomad/The_Automaton.jpg",
+      "/ship_parts/nomad/The_Conductor.jpg",
+      "/ship_parts/nomad/The_Decoder.jpg",
+      "/ship_parts/nomad/The_Icarus.jpg",
+      "/ship_parts/nomad/The_Initiator.jpg",
+      "/ship_parts/nomad/The_Intrepid.jpg",
+      "/ship_parts/nomad/The_Providence.jpg",
+      "/ship_parts/nomad/The_Resolute.jpg",
+      "/ship_parts/nomad/The_Seer.jpg",
+      "/ship_parts/nomad/The_Spectre.jpg",
+      "/ship_parts/starfall/Pandorum_Box.jpg",
+      "/ship_parts/starfall/Panic_Drones.jpg",
+      "/ship_parts/starfall/Spark_Root.jpg",
+      "/ship_parts/starfall/STF_Proto_Field.jpg",
+      "/ship_parts/starfall/The_Oracle.jpg",
+      "/ship_parts/dark_matter/Bulwark_5040.jpg",
+      "/ship_parts/dark_matter/Fragmentor_mk3.jpg",
+      "/ship_parts/dark_matter/Injector_T9.jpg",
+      "/ship_parts/dark_matter/LR-42_AUTO.jpg",
+      "/ship_parts/dark_matter/Photon_Cannon.jpg",
+      "/ship_parts/dark_matter/Pod_Coils.jpg",
+      "/ship_parts/dark_matter/Prism_Canister.jpg",
+      "/ship_parts/dark_matter/Security_Buffer.jpg",
+      "/ship_parts/dark_matter/The_Lattice.jpg",
+      "/ship_parts/dark_matter/The_Transponder.jpg",
+      "/ship_parts/intrepid/MG_Impact_Warheads.jpg",
+      "/ship_parts/intrepid/Octingency_8050.jpg",
+      "/ship_parts/intrepid/Tertiary_Drive_mk1.jpg",
+      "/ship_parts/intrepid/The_Hexahedron.jpg",
+      "/ship_parts/intrepid/Trajectory_Array_K4.jpg"
+    ],
+    "cost": [
+      3,
+      4,
+      2,
+      5,
+      6,
+      7,
+      0
+    ],
+    "faction": [
+      "Ventus",
+      "Komek",
+      "Henko",
+      "Magnomi",
+      "Sorelia"
+    ],
+    "cards": [
+      {
+        "reactor": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "shield": 1
+      },
+      {},
+      {},
+      {
+        "damage2": 1
+      },
+      {
+        "shield": 1
+      },
+      {
+        "shield": 1
+      },
+      {
+        "shield": 1
+      },
+      {
+        "thruster": 1
+      },
+      {},
+      {
+        "thruster": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "reactor": 2
+      },
+      {
+        "thruster": 1
+      },
+      {
+        "damage": 2,
+        "miss": 1
+      },
+      {
+        "damage2": 1,
+        "miss": 1
+      },
+      {
+        "damage": 2
+      },
+      {
+        "damage3": 1
+      },
+      {
+        "thruster": 2
+      },
+      {
+        "damage2": 1,
+        "miss": 1
+      },
+      {
+        "shield": 2
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "thruster": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "damage2": 1,
+        "miss": 1
+      },
+      {
+        "shield": 1
+      },
+      {},
+      {
+        "shield": 2
+      },
+      {
+        "damage3": 1,
+        "miss": 1
+      },
+      {
+        "reactor": 2
+      },
+      {
+        "thruster": 2
+      },
+      {
+        "damage3": 1,
+        "miss": 1
+      },
+      {
+        "shield": 1
+      },
+      {
+        "thruster": 1
+      },
+      {
+        "thruster": 1
+      },
+      {
+        "damage3": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "thruster": 1
+      },
+      {
+        "shield": 1
+      },
+      {
+        "miss": 1
+      },
+      {},
+      {
+        "shield": 1
+      },
+      {
+        "thruster": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "damage2": 1
+      },
+      {},
+      {},
+      {
+        "thruster": 1
+      },
+      {
+        "miss": 1
+      },
+      {
+        "shield": 1
+      },
+      {
+        "damage2": 1
+      },
+      {
+        "shield": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "damage2": 1
+      },
+      {
+        "shield+": 1,
+        "shieldx": 1
+      },
+      {
+        "shield": 1
+      },
+      {
+        "reactor+": 1
+      },
+      {
+        "thruster+": 1
+      },
+      {
+        "shield+": 1,
+        "reactor+": 1,
+        "thruster+": 1,
+        "damage+": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "shield+": 1
+      },
+      {
+        "shieldx": 1
+      },
+      {
+        "thruster+": 1
+      },
+      {
+        "reactorx": 1,
+        "miss": 1
+      },
+      {
+        "shield+": 1
+      },
+      {
+        "reactor+": 1,
+        "miss": 1
+      },
+      {
+        "thruster+": 1
+      },
+      {
+        "reactorx": 1,
+        "miss": 1
+      },
+      {
+        "thrusterx": 1,
+        "miss": 1
+      },
+      {
+        "thrusterx": 1
+      },
+      {
+        "damage+": 1
+      },
+      {
+        "damage+": 1,
+        "damage": 1
+      },
+      {
+        "damage2": 2
+      },
+      {
+        "damage+": 1
+      },
+      {
+        "thruster+": 1,
+        "miss": 2
+      },
+      {
+        "damage+": 1,
+        "miss": 1
+      },
+      {
+        "damage+": 1
+      },
+      {
+        "damage": 1
+      },
+      {
+        "thrusterx": 1
+      },
+      {
+        "reactor+": 1,
+        "damage": 1
+      },
+      {
+        "shield+": 1,
+        "shieldx": 1
+      },
+      {
+        "thruster": 1
+      },
+      {
+        "reactorx": 1,
+        "miss": 1
+      },
+      {
+        "miss": 1
+      },
+      {
+        "damage+": 1,
+        "damage": 2,
+        "miss": 2
+      },
+      {
+        "reactorx": 1
+      },
+      {
+        "reactorx": 1,
+        "miss": 1
+      },
+      {
+        "reactor+": 1,
+        "miss": 4
+      },
+      {
+        "thrusterx": 1
+      },
+      {
+        "thrusterx": 1
+      },
+      {
+        "shield+": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "flex": 1
+      },
+      {
+        "thruster": 1
+      },
+      {
+        "shield": 1
+      },
+      {
+        "reactor": 1
+      },
+      {
+        "miss": 1
+      },
+      {},
+      {
+        "darkMatter": 1
+      },
+      {
+        "darkMatter": 1
+      },
+      {
+        "darkMatter": 1
+      },
+      {
+        "darkMatter": 1
+      },
+      {
+        "darkMatter": 1
+      },
+      {
+        "darkMatter": 1
+      },
+      {
+        "darkMatter": 1
+      },
+      {
+        "darkMatter": 1
+      },
+      {
+        "darkMatter": 1
+      },
+      {
+        "darkMatter": 1
+      },
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "holographic": [
+      true,
+      false
+    ],
+    "altPrint": [
+      false
+    ],
+    "cardText": [
+      "At the start of a contract, +1 Card if you have no Reactors in your hand.",
+      "Your first Reactor played gives an extra Action.",
+      "At the start of a contract, +1 Card if you have no Shields in your hand.",
+      "Roll 1 less Hazard Die",
+      "Start every contract with +1 Action.",
+      "As 1 Action, discard a Damage 1 and a Damage 2 to deal 5 Damage.",
+      "Discard any 2 cards as 1 Action to play as a Shield.",
+      "Your first Shield played counts as 2 Shields.",
+      "Play your first Shield without using an Action.",
+      "At the start of a contract, +1 Card if you have no Thrusters in your hand.",
+      "Your hand limit becomes 6 instead of 5.",
+      "Allies receive +1 Card at the start of a contract.",
+      "As 1 Action, you may play a Damage 1 as a Damage 3. Then add a Miss to your discard.",
+      "If you play 2 or more Reactors, the requirement for Damage is 1 less.",
+      "Play your first Damage card without using an Action.",
+      "+2 Cards when you play your first Damage card.",
+      "Trash a Damage 1 from your hand, requirement for Damage is 3 less.",
+      "Requirement is 2 less for Damage if you don't play a Shield.",
+      "As 1 Action, discard 2 Damage 1 cards to deal 4 Damage.",
+      "At the start of a contract, +2 Cards if you have no Damage cards in your hand.",
+      "Once per contract, you may discard up to 3 Cards, allies then draw an equal number.",
+      "All players can play 1 Damage 1 without using an Action.",
+      "+1 Card per Hazard Dice targeting you.",
+      "Allies start with an extra Action.",
+      "Discard 2 of the same card as 1 Action to play as a Shield, Thruster, Reactor, or Damage 1.",
+      "Requirement for Reactors is 1 less.",
+      "Discard a Damage 1 from your hand, +2 Actions.",
+      "Once per contract, you may block 1 HAzard by trashing a card from your hand.",
+      "Once per contract, you may play a Crew Member twice, Each use requires an Action.",
+      "Each Shield played also reduces the Damage requirement by 1.",
+      "Requirement for Damage is 1 less.",
+      "As Mission Leader or ally, gain +1 Action for each ally.",
+      "Once per contract, you may discard up to 3 Cards, then draw an equal number.",
+      "Once per contract, play a Damage 1 as a Damage 3.",
+      "Requirement for Shields is 1 less.",
+      "Requirement for Thrusters is 1 less.",
+      "As Mission Leader, +1 Card at the start of a contract.",
+      "When you stay at base, gain 4 Credits instead of 1.",
+      "Reactor cards don't require an Action to play.",
+      "Your first Thruster played negates a Hazard Die.",
+      "Gain an Action for each Hazard you block with a Shield.",
+      "You may play Miss cards as a Shield, Thruster, Reactor, or Damage 1.",
+      "Once per Contract, you may pay 2 Credits to draw a default loadout card from the supply to your hand.",
+      "Gain +1 Credit for each of your Hazard blocked.",
+      "Before playing cards, you may discard your entire hand. If you do, +5 Cards.",
+      "You may trash a Reactor to gain +4 Actions.",
+      "You may trash a Damage and a Card from your hand to add a Damage of one tier higher into your hand.",
+      "Prestige costs 1 less Faction Rep.",
+      "All Faction Rep rewards except Prestige cost 1 less, minimum 1.",
+      "Trading Faction Rep is now a 2:1 ratio.",
+      "Once per contract, you may trash a card to gain 1 Faction Rep in your lowest faction.",
+      "You may roll 1 additional Hazard Die. Gain Faction Rep equal to Hazard rolled on that dice.",
+      "You may spend any amount of Faction Rep to reduce the requirement for Damage an equal amount.",
+      "Once per contract, you may spend a Faction Rep to block 1 Hazard.",
+      "Once per contract, you may spend a Faction Rep to gain +1 Action.",
+      "Once per contract, you may trash a Reactor card from your hand to gain a Faction Rep.",
+      "Once per contract, you may spend a Faction Rep to reduce a requirement by 1.",
+      "You may choose to change 1 of the contract requirement type to Shields. This applies to everyone on the contract.",
+      "Once per contract, you may trash a shield from your hand and add a Shield+ to your discard pile.",
+      "Once per contract, if you play 2 Reactor cards in a row, draw +2 Cards.",
+      "Once per contract, you may give an ally a Reactor or a Thruster card from the supply into their hand.",
+      "You may only buy this if you have 2 other Henko ship parts installed on your ship.",
+      "Once per contract, you may trash a Reactor from your hand and add a Reactor + to your discard pile.",
+      "Discard any Shield from your hand to add 1 [IO] to this card. Remove 1 [IO] to subtract 1 Shield requirement.",
+      "Discard 2 cards from your hand to add 1 [IO] to this card. Remove 2 [IO] to block 1 Hazard.",
+      "Add 1 [IO] to this ship part to draw +1 Card. When this card has 4 [IO] on it, remove this ship part.",
+      "Add 1 [IO] to this card for every contract you complete. Remove 3 [IO] to play any card twice as 1 Action.",
+      "Twice per contract, you may roll a Hazard Dice and add 1 [IO]. Remove 1 [IO] to subtract 1 from any requirement.",
+      "Discard any Reactor from your hand to add 1 [IO] to this card. Remove 3 [IO] to add a Reactor+ to your discard.",
+      "After a contract, add 1 [IO] for every unblocked Hazard. Remove 1 [IO] to re-roll a Hazard Die targeting you.",
+      "Discard any Reactor from your hand to add 1 [IO] to this card. Remove 1 [IO] for +1 Action.",
+      "Discard any Thruster from your hand to add 1 [IO] to this card. Remove 1 [IO] for +1 Card.",
+      "Once per contract, each ally may choose to give you 1 card from their hand. You may trash it, or place it into your hand.",
+      "Add 1 [IO] to this card for every Hazard you block. Remvoe 2 [IO] to deal 1 Damage.",
+      "Discard 2 Damage cards from your hand to add 1 [IO] to this card. Remove 1 [IO] to deal 1 Damage.",
+      "Add 1 [IO] to this card every time you play a Damage 2. Remove 4 [IO] from this card to double your played Damage.",
+      "Once per contract, spend 1 additional Action when playing a Damage card to double it's Damage value.",
+      "At the start of a contract, if there is a Miss in your hand, draw +2 Cards.",
+      "Once per contract, you must either trash a card or add 1 Miss to your discard pile.",
+      "When any other player trashes a card, you may add that card to your discard pile.",
+      "Once per contract, you may trash a Damage from your hand and add a Damage+ to your discard pile.",
+      "Once per contract, you and an ally may trade 1 card from your hands.",
+      "Once per contract, you may take a card form your hand and give it to an ally. They must put that card into their hand.",
+      "If there are 2 or more Hazard Dice targeting you, gain 1 Credit.",
+      "Once per contract, you may trash a Thruster from your hand and add a Thruster+ to your discard pile.",
+      "When discarding your cards at the end of a contract, you may add 1 of the discarded cards to the top of your draw pile.",
+      "Discard 2 cards to add 1 [IO] to this card. Spend 3 [IO] to add a copy of any action card in your hand to your discard pile.",
+      "Once per contract, you may trash a card from your hand to add 1 [IO] to this card. Remvove 4 [IO] for +1 Prestige.",
+      "Once per contract, discard the top card of your draw pile. If it isn't a Crew, add a copy of that card to your discard pile.",
+      "Anytime you trash a card, gain 2 Credits.",
+      "Once per contract, you may trash 2 cards from your hand to subtract 3 from any 1 requirement",
+      "When playing any Thruster, you may discard the first card drawn and draw an additional card.",
+      "Once per contract, look at the top card of your draw pile. Return this card back to the top of your draw pile or discard it.",
+      "If you fail a contract, gain 3 Credits.",
+      "You may discard a Crew to reduce Crew contract requirement by 2.",
+      "Once per turn, you may trash a card to gain +2 Actions.",
+      "As Mission Leader, draw 5 contracts instead of 3 when you travel to a sector.",
+      "Roll an additional Hazard Die every contract. All Thruster cards draw an additional card.",
+      "Once per contract, discard 3 unique cards to reduce a contract requirement by 2.",
+      "When drawing an Event, draw 3 and choose 1. Return the other 2 to the bottom of the Event deck.",
+      "At the start of a contract, draw and play the top card of your draw pile without using an Action.",
+      "If you are alone in a sector, reduce any contract requirement by 2.",
+      "Without changing the order, you may look at the top 2 cards in your draw pile at any time.",
+      "As Mission Leader or ally, you may travel freely to any sector including your current sector.",
+      "Draw +2 Cards everytime you roll a Double Hazard.",
+      "Subtract 1 from the result of every dice you roll.",
+      "Gain +1 Action every time an ally rolls a die.",
+      "Once per contract, you may re-roll any 1 of your dice that was rolled for any reason.",
+      "At the start of a contract, guess a card type. All allies +1 Card, gain 1 Credit for each matching card.",
+      "Trash 1 Shield to gain a Dark Matter card. Play a Dark Matter card to block 2 Hazard.",
+      "Trash 1 Reactor to gain a Dark Matter card. Play a Dark matter card to reduce Reactor requirements by 2.",
+      "Trash 1 Thruster to gain a Dark Matter card. Play a Dark Matter card to reduce Thruster requirements by 2.",
+      "Trash 1 Damage to gain a Dark Matter card. As 1 Action, play 2 Dark Matter cards to deal 6 Damage.",
+      "Trash 1 Damage to gain a Dark Matter card. Play a Dark Matter card to deal 2 Damage.",
+      "Trash 1 Thruster to gain a Dark Matter card. Play a Dark Matter card for +3 Cards.",
+      "Trash 1 Reactor to gain a Dark Matter card. Play a Dark Matter card for +3 Actions.",
+      "Trash 1 Shield to gain a Dark Matter card. Play a Dark Matter card to reduce Shield requirements by 2.",
+      "Trash a Miss to gain a Dark Matter card. For every Dark Matter card you play, +2 Credits.",
+      "Trash a Miss to gain a Dark Matter card. As 1 Action, play 2 Dark Matter cards to gain an Objective card.",
+      "At the start of a contract, roll a [[Moonrollers die]]. On [[Damage]], add a Damage 2 to your hand. On [[Wild]], you must trash a card.",
+      "Roll a [[Moonrollers die]] for each Hazard Dice targeting you. Block a Hazard Die for each [[Wild]] or [[Shield]] rolled.",
+      "Once per contract, roll 2 [[Moonrollers dice]]. Play 1 matching card without using an Action. Play any card on [[Wild]] or Crew on [[Extra die]].",
+      "Once per contract, roll a [[Moonrollers die]]. Reduce a matching contract requirement by 2. Any requirement on [[Wild]] or [[Extra die]].",
+      "Once per contract, roll 4 [[Moonrollers dice]]. Allies gain +1 Actions for each [[Reactor]] and draw +1 Cards for each [[Thruster]]."
+    ],
+    "wikiDescription": [
+      "Absorption K2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
+      "Accelerator mk3 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
+      "Barrier A3 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
+      "Cloaking Device is a [[Ship Part]] from the Base game. It was manufactured in the [[Henko]] sector.",
+      "Daburu mk1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
+      "Dark Matter mk3 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
+      "Defender 5000 is a [[Ship Part]] from the Base game. It was manufactured in the [[Henko]] sector.",
+      "Duo 1000 is a [[Ship Part]] from the Base game. It was manufactured in the [[Henko]] sector.",
+      "Emulator mk2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
+      "Escape Jets E1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
+      "Flash is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
+      "Jump Jets E2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
+      "MG Charge Core is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
+      "MG Phase core is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
+      "MG Support Core is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
+      "MG Warp is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
+      "MG1 Kinetic is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
+      "MG1 Rail Gun is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
+      "MG2 Laser Turrets is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
+      "MG2 Quad Laser is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
+      "Multi Stage M1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
+      "Predator mk1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
+      "Projector S2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
+      "Pulsor mk1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
+      "Replicator mk1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
+      "Sapphire mk2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
+      "Swarm mk1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
+      "Symbiote 9000 is a [[Ship Part]] from the Base game. It was manufactured in the [[Henko]] sector.",
+      "The Clone Bay is a [[Ship Part]] from the Base game. It was manufactured in the [[Sorelia]] sector.",
+      "The Dauntless is a [[Ship Part]] from the Base game. It was manufactured in the [[Sorelia]] sector.",
+      "The Gatling Laser is a [[Ship Part]] from the Base game. It was manufactured in the [[Sorelia]] sector.",
+      "The Leech is a [[Ship Part]] from the Base game. It was manufactured in the [[Sorelia]] sector.",
+      "The Pursuer is a [[Ship Part]] from the Base game. It was manufactured in the [[Sorelia]] sector.",
+      "The Quantum Driver is a [[Ship Part]] from the Base game. It was manufactured in the [[Sorelia]] sector.",
+      "Titan 3000 is a [[Ship Part]] from the Base game. It was manufactured in the [[Henko]] sector.",
+      "Twin Jets E4 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
+      "Vector Jets E3 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
+      "Doom is a [[Ship Part]] from the 1st encounter micro expansion. It was manufactured in the [[Magnomi]] sector.",
+      "Fission is a [[Ship Part]] from the 1st encounter micro expansion. It was manufactured in the [[Komek]] sector.",
+      "Ghost is a [[Ship Part]] from the 1st encounter micro expansion. It was manufactured in the [[Ventus]] sector.",
+      "Siphon is a [[Ship Part]] from the 1st encounter micro expansion. It was manufactured in the [[Henko]] sector.",
+      "SOS is a [[Ship Part]] from the 1st encounter micro expansion. It was manufactured in the [[Sorelia]] sector.",
+      "EM - TR4 is a [[Ship Part]] from the Shard micro expansion. It was manufactured in the [[Sorelia]] sector.",
+      "Flare Shard is a [[Ship Part]] from the Shard micro expansion. It was manufactured in the [[Henko]] sector.",
+      "Hypershift is a [[Ship Part]] from the Shard micro expansion. It was manufactured in the [[Ventus]] sector.",
+      "Refractor is a [[Ship Part]] from the Shard micro expansion. It was manufactured in the [[Komek]] sector.",
+      "Shard Spear is a [[Ship Part]] from the Shard micro expansion. It was manufactured in the [[Magnomi]] sector.",
+      "Artifact 205-A is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Sorelia]] sector.",
+      "Artifact 205-B is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Sorelia]] sector.",
+      "Comms Array C5 is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Ventus]] sector.",
+      "Envoy Shuttle is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Ventus]] sector.",
+      "Flak Mine is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Henko]] sector.",
+      "LR Targeting Core is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Magnomi]] sector.",
+      "Proto Warning System is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Henko]] sector.",
+      "Pulse Exchange is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Komek]] sector.",
+      "Pulse Recycler is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Komek]] sector.",
+      "Radar Repeater is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Magnomi]] sector.",
+      "Aclimator 6050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
+      "Augmentor 2050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
+      "Catalyzer mk2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
+      "Contributor mk2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
+      "Devotion 3050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
+      "Inverter mk2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
+      "IO Buffer 2050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
+      "IO Cache 3050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
+      "IO Exhaust E1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
+      "IO Gen mk1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
+      "IO Hotshot 1050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
+      "IO Hub mk2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
+      "IO Pivot H2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
+      "IO Spark mk1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
+      "IO Surge E2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
+      "Magnetite M1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
+      "MG IO Charge is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
+      "MG IO Core is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
+      "MG IO Overkill is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
+      "MG Overcharger is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
+      "MG Raid is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
+      "MG Reformer is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
+      "MG Tractor Beam is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
+      "MG Upgrade Core is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
+      "Modulator T3 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
+      "Phase Drive mk3 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
+      "Precari 4050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
+      "Staged Burst E3 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
+      "Tesselator mk1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
+      "The Arbiter is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Eternal is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Mill is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Reclaimer is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Tributor is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
+      "Thrust Tuner E2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
+      "Twin Probe E2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
+      "Underwriter 1050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
+      "The Automaton is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Conductor is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Decoder is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Icarus is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Initiator is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Intrepid is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Providence is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Resolute is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Seer is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Spectre is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
+      "Pandorum Box is a [[Ship Part]] from the Starfall expansion. It was manufactured in the [[Ventus]] sector.",
+      "Panic Drones is a [[Ship Part]] from the Starfall expansion. It was manufactured in the [[Henko]] sector.",
+      "Spark Root is a [[Ship Part]] from the Starfall expansion. It was manufactured in the [[Komek]] sector.",
+      "STF Proto Field is a [[Ship Part]] from the Starfall expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Oracle is a [[Ship Part]] from the Starfall expansion. It was manufactured in the [[Sorelia]] sector.",
+      "Bulwark 5040 is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Henko]] sector.",
+      "Fragmentor mk3 is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Komek]] sector.",
+      "Injector T9 is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Ventus]] sector.",
+      "LR-42 AUTO is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Magnomi]] sector.",
+      "Photon Cannon is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Magnomi]] sector.",
+      "Pod Coils is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Ventus]] sector.",
+      "Prism Canister is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Komek]] sector.",
+      "Security Buffer is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Henko]] sector.",
+      "The Lattice is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Sorelia]] sector.",
+      "The Transponder is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Sorelia]] sector.",
+      "MG Impact Warheads is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Magnomi]] sector.",
+      "Octingency 8050 is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Henko]] sector.",
+      "Tertiary Drive mk1 is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Komek]] sector.",
+      "The Hexahedron is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Sorelia]] sector.",
+      "Trajectory Array K4 is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Ventus]] sector."
+    ],
+    "ruleClarifications": [
+      [],
+      [],
+      [],
+      [
+        {
+          "id": "Cloaking_Device_rule_1",
+          "description": "You can choose to not roll any [[Hazard Dice]] you have to roll, including those from contracts and abilities.",
+          "source": "https://boardgamegeek.com/thread/2555433/may-cloaking-device-ship-part-affect-any-abilities"
+        }
+      ],
+      [],
+      [
+        {
+          "id": "Dark_Matter_mk3_rule_1",
+          "description": "When using this [[Ship Part]], you cannot search in the deck for required cards with {{crew/Zek Zarag}}.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/786231283579617340"
+        }
+      ],
+      [
+        {
+          "id": "Defender_5000_rule_1",
+          "description": "You can discard any 2 [[Cards]] even if they are of different types.",
+          "source": "https://boardgamegeek.com/thread/2515278/rule-clarification-some-ship-parts"
+        },
+        {
+          "id": "Defender_5000_rule_2",
+          "description": "The used [[Shield]] is treated as a [[Shield]] card.",
+          "source": "https://boardgamegeek.com/thread/2515278/rule-clarification-some-ship-parts"
+        }
+      ],
+      [
+        {
+          "id": "Duo_1000_rule_1",
+          "description": "All types of [[Shield]] can trigger this, including [[Shield+]] (2 [[Hazards]] blocked and [[+2 Actions]]) and [[Shield×]] (4 [[Hazards]] blocked)."
+        },
+        {
+          "id": "Duo_1000_rule_2",
+          "description": "Both [[Shields]] trigger effects regarding [[Shields]], but only the first (actually played) [[Shield]] trigger effects regarding [[Shield]] cards.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/789734313200451606"
+        },
+        {
+          "id": "Duo_1000_rule_3",
+          "description": "“Play as“ cards, such as {{crew/[REDACTED]}}, also counts as a [[Shield]] card and can be played for free."
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "id": "Flash_rule_1",
+          "description": "Draw 6 instead of 5 cards anytime you refresh your hand.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/964323957228601476"
+        }
+      ],
+      [],
+      [
+        {
+          "id": "MG_Charge_Core_rule_1",
+          "description": "You cannot use “play as” cards to activate this [[Ship Part]]. This includes {{shipParts/SOS}} and {{shipParts/The Dauntless}}.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/949319152420679700"
+        },
+        {
+          "id": "MG_Charge_Core_rule_2",
+          "description": "If there are no more [[Miss]] in the armory, you get nothing.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1076365839651057734"
+        }
+      ],
+      [
+        {
+          "id": "MG_Phase_core_rule_1",
+          "description": "It is a one-time ability per contract.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/765009199742582784"
+        }
+      ],
+      [],
+      [
+        {
+          "id": "MG_Warp_rule_1",
+          "description": "[TBC] {{crew/Crusse Parke}} cannot activate this [[Ship Part]] (as there is no [[Damage]] 4 card).",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/999707161959612518"
+        }
+      ],
+      [
+        {
+          "id": "MG1_Kinetic_rule_1",
+          "description": "You may trash a card even if there is no [[Damage]] requirement in a Contract.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/765009199742582784"
+        }
+      ],
+      [],
+      [
+        {
+          "id": "MG2_Laser_Turrets_rule_1",
+          "description": "The 2 [[Damage 1]] cards played for this [[Ship Part]] cannot stack with {{crew/Kary Powak}}'s ability.",
+          "source": "https://boardgamegeek.com/thread/2554177/mg2-laser-turrets-kary-powak-interaction"
+        }
+      ],
+      [],
+      [
+        {
+          "id": "Multi_Stage_M1_rule_1",
+          "description": "Each ally draws the amount of [[Cards]] you discarded.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/771737617779785809"
+        },
+        {
+          "id": "Multi_Stage_M1_rule_2",
+          "description": "Aside from your turn, the Contract Leader decides the timing when you can choose to activate this [[Ship Part]].",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/792152045305593886"
+        },
+        {
+          "id": "Multi_Stage_M1_rule_3",
+          "description": "You cannot stack this with {{shipParts/The Pursuer}}. Meaning you cannot discard up to 3 [[Cards]] to activate both [[Ship Parts]].",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/856262171280015400"
+        }
+      ],
+      [
+        {
+          "id": "Predator_mk1_rule_1",
+          "description": "\"All players\" means those who participate in a contract that you are in.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/764306046121934878"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "id": "Symbiote_9000_rule_1",
+          "description": "[TBC] You may not trash a [[Card]] if there is no [[Hazard]] to negate.",
+          "source": "https://boardgamegeek.com/thread/2679957/symbiote-9000-no-hazardsblock-vs-negate-hazard"
+        }
+      ],
+      [
+        {
+          "id": "The_Clone_Bay_rule_1",
+          "description": "You don't have to play the repeated [[Crew]] consecutively.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/774481727401623552"
+        },
+        {
+          "id": "The_Clone_Bay_rule_2",
+          "description": "If you play [[Crews]] with [[IO Sphere]] stacked on them twice, 2 individual [[IO Sphere]] pools (of 3) are created. You may remove one [[IO Sphere]] from each pool per contract. This includes {{crew/IO MK8}}, {{crew/IO L1-ON}}, {{crew/IO-MG21}}, {{crew/IO Wraith 3000}}, {{crew/IO Mirage}}.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1000963857436647464"
+        },
+        {
+          "id": "The_Clone_Bay_rule_3",
+          "description": "[Special] You can play {{crew/B3-AR}} again but cannot use it to retrieve the first {{crew/B3-AR}}.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/795774355925106778"
+        },
+        {
+          "id": "The_Clone_Bay_rule_4",
+          "description": "[TBC] You cannot play a [[Crew]] from the Mercenary twice.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/796891591562100796"
+        }
+      ],
+      [
+        {
+          "id": "The_Dauntless_rule_1",
+          "description": "The [[1 Damage]] does not trigger effects regarding [[Damage]] cards. This includes {{shipParts/MG Charge Core}}, {{shipParts/The Quantum Driver}}, {{shipParts/MG Warp}}, {{objectives/Fire Support}}, {{crew/Kary Powalk}}.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1002971705905528912"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "id": "The_Pursuer_rule_1",
+          "description": "You cannot stack this with {{shipParts/Multi Stage M1}}. Meaning you cannot discard up to 3 [[Cards]] to activate both [[Ship Parts]].",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/856262171280015400"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "id": "Fission_rule_1",
+          "description": "You may play a [[Reactor]] even if you have run out of [[actions]].",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/855201295761801256"
+        },
+        {
+          "id": "Fission_rule_2",
+          "description": "[[Cards]] that are played as a [[Reactor]] can activate Fission, e.g. [[Miss]] from {{shipParts/SOS}}.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/896874692089114645"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "id": "Flare_Shard_rule_1",
+          "description": "The [[Credits]] are rewarded after the contract has ended.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1071972865911562280"
+        },
+        {
+          "id": "Flare_Shard_rule_2",
+          "description": "This applies to negated [[Hazards]].",
+          "source": "https://discord.com/channels/611272410880016390/619963252272660490/800847666002001960"
+        }
+      ],
+      [
+        {
+          "id": "Hypershift_rule_1",
+          "description": "You may redraw indefinitely before playing any cards but this is not recommended.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/970323453729206393"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "id": "Aclimator_6050_rule_1",
+          "description": "You have to change the requirements before any cards are played.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1002608595243901079"
+        },
+        {
+          "id": "Aclimator_6050_rule_2",
+          "description": "This can apply to head-to-head contracts.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1002608495876649010"
+        }
+      ],
+      [],
+      [],
+      [],
+      [
+        {
+          "id": "Devotion_3050_rule_1",
+          "description": "[Unruled] If this is acquired from other means than buying (e.g. gaining a bonus card), you can ignore the requirement of Henko ship parts.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1073969381882732585"
+        }
+      ],
+      [],
+      [],
+      [
+        {
+          "id": "IO_Cache_3050_rule_1",
+          "description": "[Contradiction] One can essentially continually discard cards and gaining benefits from [[Ship Parts]], then refill the cards using {{shipParts/Hypershift}}.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/946077511182340096"
+        },
+        {
+          "id": "IO_Cache_3050_rule_2",
+          "description": "Source contradicting above above ruling.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/795774355925106778"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "id": "MG_Reformer_rule_1",
+          "description": "Trashed cards from any other means do not fulfill this requirement.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1091019673908281446"
+        }
+      ],
+      [
+        {
+          "id": "MG_Tractor_Beam_rule_1",
+          "description": "[Unruled] Discarding and replacing cards from the Armory (using [[Credits]] or as a free action in the expansions) does not qualify for this [[Ship Part]].",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1059748915446026241"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "id": "Underwriter_1050_rule_1",
+          "description": "Head to head contracts would not be failed.",
+          "source": "https://discord.com/channels/611272410880016390/611286336141393940/1096637344154648576"
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [
+        {
+          "id": "The_Oracle_rule_1",
+          "description": "After guessing a card type, all allies draw one card. The one with this ship part then gains 1 [[Credit]] for each card drawn that matches the guessed type."
+        }
+      ],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+      []
+    ]
+  }
+}

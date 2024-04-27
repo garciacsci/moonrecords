@@ -1,0 +1,2476 @@
+{
+  "filename": "card/contractData.json",
+  "keys": {
+    "id": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110,
+      111,
+      112,
+      113,
+      114,
+      115,
+      116,
+      117,
+      118,
+      119,
+      120
+    ],
+    "name": [
+      "Abandoned Vessel",
+      "Admiral's Flagship",
+      "Ancient Ruins",
+      "Assault on Vilonia",
+      "Asteroid Field",
+      "Black Hole",
+      "Blockade Run",
+      "Bomber Screen",
+      "Bounty Hunters",
+      "Claim Bounty",
+      "Core World Ace",
+      "Cryogenic Pods",
+      "Derelict Planet",
+      "Distress Beacon",
+      "Elite Squadron",
+      "Emergency Meds",
+      "Envoy in Distress",
+      "Escape Pods",
+      "Escort Duty",
+      "Fuel Shortage",
+      "Icarus Run",
+      "Kill Slavers",
+      "Martial Law",
+      "Munitions Stockpile",
+      "Negotiation Insurance",
+      "Nova Bloom",
+      "Pirate Treasure",
+      "Prison Moon",
+      "Probe Recovery",
+      "Proof of Life",
+      "Reactor Failure",
+      "Refugee Crisis",
+      "Resistance Leader",
+      "Rival Pirate Gang",
+      "Royal Cargo",
+      "Scout Cruiser",
+      "Space Anomaly",
+      "Stim Run",
+      "Supernova Escape",
+      "Transport Rescue",
+      "Boarding Action",
+      "Decoy Target",
+      "First Contact",
+      "Focused Fire",
+      "Gauntlet Run",
+      "Decoy Convoy",
+      "Deep Space Scan",
+      "Hostage Extraction",
+      "Hunt the Hunter",
+      "Illegal Munitions",
+      "Emergency Council",
+      "Infiltration Plan",
+      "Minil Horde",
+      "Mythic Monstrosity",
+      "Precious Cargo",
+      "Solar Flares",
+      "Solar Shield",
+      "Starfall Anomaly",
+      "The Veil",
+      "Traders Peril",
+      "Battle Simulation",
+      "Brawlers Cup",
+      "Concealed Core",
+      "Concealed Parcel",
+      "Cryptic Shadow",
+      "Energy Transfer",
+      "Guerilla Ambush",
+      "Last Ship Standing",
+      "Nameless Ruins",
+      "Nebula Sprint",
+      "Payload Delivery",
+      "Protect The Target",
+      "Readiness Inspection",
+      "The Alpha Nebula",
+      "The Beta Nebula",
+      "The Omega Nebula",
+      "Uncharted Nebula",
+      "Undisclosed Refuge",
+      "War Games",
+      "Weapons Testing",
+      "Aggressive Negotiation",
+      "Avoid Entrapment",
+      "Border Skirmish",
+      "Bounty Drones",
+      "Broadside Cover",
+      "Dignitary Escort",
+      "Emergency Orders",
+      "Fatal Extraction",
+      "Feint Attack",
+      "Hostile Arbitration",
+      "Moon Defense",
+      "Nova Scout",
+      "Orbital Loop",
+      "Path to Absolution",
+      "Patrol Survey",
+      "Readiness Drills",
+      "Sector Infiltration",
+      "Sector Scan",
+      "Supply Raid",
+      "The Academy",
+      "Celestial Probe",
+      "Celestial Sprint",
+      "Destructive Expedition",
+      "Divine Sprint",
+      "Energy Pilgrimage",
+      "Hostile Intent",
+      "Impending Impact",
+      "Left Behind",
+      "Requisite Offering",
+      "Treacherous Pursuit",
+      "Chaotic Confluence",
+      "Contingency Shelter",
+      "Ethereal Well",
+      "Gossamer Vault",
+      "Helix Guardian",
+      "Imperial Envoy",
+      "Lattice Network",
+      "Rift Watcher",
+      "Semestral Haul",
+      "Tear of Convergence"
+    ],
+    "collection": [
+      "Base game",
+      "1st encounter",
+      "Shard",
+      "Binding ties",
+      "Overload",
+      "Nomad",
+      "Starfall",
+      "Intrepid"
+    ],
+    "image": [
+      "/contracts/base/Abandoned_Vessel.jpg",
+      "/contracts/base/Admirals_Flagship.jpg",
+      "/contracts/base/Ancient_Ruins.jpg",
+      "/contracts/base/Assault_on_Vilonia.jpg",
+      "/contracts/base/Asteroid_Field.jpg",
+      "/contracts/base/Black_Hole.jpg",
+      "/contracts/base/Blockade_Run.jpg",
+      "/contracts/base/Bomber_Screen.jpg",
+      "/contracts/base/Bounty_Hunters.jpg",
+      "/contracts/base/Claim_Bounty.jpg",
+      "/contracts/base/Core_World_Ace.jpg",
+      "/contracts/base/Cryogenic_Pods.jpg",
+      "/contracts/base/Derelict_Planet.jpg",
+      "/contracts/base/Distress_Beacon.jpg",
+      "/contracts/base/Elite_Squadron.jpg",
+      "/contracts/base/Emergency_Meds.jpg",
+      "/contracts/base/Envoy_in_Distress.jpg",
+      "/contracts/base/Escape_Pods.jpg",
+      "/contracts/base/Escort_Duty.jpg",
+      "/contracts/base/Fuel_Shortage.jpg",
+      "/contracts/base/Icarus_Run.jpg",
+      "/contracts/base/Kill_Slavers.jpg",
+      "/contracts/base/Martial_Law.jpg",
+      "/contracts/base/Munitions_Stockpile.jpg",
+      "/contracts/base/Negotiation_Insurance.jpg",
+      "/contracts/base/Nova_Bloom.jpg",
+      "/contracts/base/Pirate_Treasure.jpg",
+      "/contracts/base/Prison_Moon.jpg",
+      "/contracts/base/Probe_Recovery.jpg",
+      "/contracts/base/Proof_of_Life.jpg",
+      "/contracts/base/Reactor_Failure.jpg",
+      "/contracts/base/Refugee_Crisis.jpg",
+      "/contracts/base/Resistance_Leader.jpg",
+      "/contracts/base/Rival_Pirate_Gang.jpg",
+      "/contracts/base/Royal_Cargo.jpg",
+      "/contracts/base/Scout_Cruiser.jpg",
+      "/contracts/base/Space_Anomaly.jpg",
+      "/contracts/base/Stim_Run.jpg",
+      "/contracts/base/Supernova_Escape.jpg",
+      "/contracts/base/Transport_Rescue.jpg",
+      "/contracts/1st_encounter/Boarding_Action.jpg",
+      "/contracts/1st_encounter/Decoy_Target.jpg",
+      "/contracts/1st_encounter/First_Contact.jpg",
+      "/contracts/1st_encounter/Focused_Fire.jpg",
+      "/contracts/1st_encounter/Gauntlet_Run.jpg",
+      "/contracts/shard/Decoy_Convoy.jpg",
+      "/contracts/shard/Deep_Space_Scan.jpg",
+      "/contracts/shard/Hostage_Extraction.jpg",
+      "/contracts/shard/Hunt_the_Hunter.jpg",
+      "/contracts/shard/Illegal_Munitions.jpg",
+      "/contracts/binding_ties/Emergency_Council.jpg",
+      "/contracts/binding_ties/Infiltration_Plan.jpg",
+      "/contracts/binding_ties/Minil_Horde.jpg",
+      "/contracts/binding_ties/Mythic_Monstrosity.jpg",
+      "/contracts/binding_ties/Precious_Cargo.jpg",
+      "/contracts/binding_ties/Solar_Flares.jpg",
+      "/contracts/binding_ties/Solar_Shield.jpg",
+      "/contracts/binding_ties/Starfall_Anomaly.jpg",
+      "/contracts/binding_ties/The_Veil.jpg",
+      "/contracts/binding_ties/Traders_Peril.jpg",
+      "/contracts/overload/Battle_Simulation.jpg",
+      "/contracts/overload/Brawlers_Cup.jpg",
+      "/contracts/overload/Concealed_Core.jpg",
+      "/contracts/overload/Concealed_Parcel.jpg",
+      "/contracts/overload/Cryptic_Shadow.jpg",
+      "/contracts/overload/Energy_Transfer.jpg",
+      "/contracts/overload/Guerilla_Ambush.jpg",
+      "/contracts/overload/Last_Ship_Standing.jpg",
+      "/contracts/overload/Nameless_Ruins.jpg",
+      "/contracts/overload/Nebula_Sprint.jpg",
+      "/contracts/overload/Payload_Delivery.jpg",
+      "/contracts/overload/Protect_The_Target.jpg",
+      "/contracts/overload/Readiness_Inspection.jpg",
+      "/contracts/overload/The_Alpha_Nebula.jpg",
+      "/contracts/overload/The_Beta_Nebula.jpg",
+      "/contracts/overload/The_Omega_Nebula.jpg",
+      "/contracts/overload/Uncharted_Nebula.jpg",
+      "/contracts/overload/Undisclosed_Refuge.jpg",
+      "/contracts/overload/War_Games.jpg",
+      "/contracts/overload/Weapons_Testing.jpg",
+      "/contracts/nomad/Aggressive_Negotiation.jpg",
+      "/contracts/nomad/Avoid_Entrapment.jpg",
+      "/contracts/nomad/Border_Skirmish.jpg",
+      "/contracts/nomad/Bounty_Drones.jpg",
+      "/contracts/nomad/Broadside_Cover.jpg",
+      "/contracts/nomad/Dignitary_Escort.jpg",
+      "/contracts/nomad/Emergency_Orders.jpg",
+      "/contracts/nomad/Fatal_Extraction.jpg",
+      "/contracts/nomad/Feint_Attack.jpg",
+      "/contracts/nomad/Hostile_Arbitration.jpg",
+      "/contracts/nomad/Moon_Defense.jpg",
+      "/contracts/nomad/Nova_Scout.jpg",
+      "/contracts/nomad/Orbital_Loop.jpg",
+      "/contracts/nomad/Path_to_Absolution.jpg",
+      "/contracts/nomad/Patrol_Survey.jpg",
+      "/contracts/nomad/Readiness_Drills.jpg",
+      "/contracts/nomad/Sector_Infiltration.jpg",
+      "/contracts/nomad/Sector_Scan.jpg",
+      "/contracts/nomad/Supply_Raid.jpg",
+      "/contracts/nomad/The_Academy.jpg",
+      "/contracts/starfall/Celestial_Probe.jpg",
+      "/contracts/starfall/Celestial_Sprint.jpg",
+      "/contracts/starfall/Destructive_Expedition.jpg",
+      "/contracts/starfall/Divine_Sprint.jpg",
+      "/contracts/starfall/Energy_Pilgrimage.jpg",
+      "/contracts/starfall/Hostile_Intent.jpg",
+      "/contracts/starfall/Impending_Impact.jpg",
+      "/contracts/starfall/Left_Behind.jpg",
+      "/contracts/starfall/Requisite_Offering.jpg",
+      "/contracts/starfall/Treacherous_Pursuit.jpg",
+      "/contracts/intrepid/Chaotic_Confluence.jpg",
+      "/contracts/intrepid/Contingency_Shelter.jpg",
+      "/contracts/intrepid/Ethereal_Well.jpg",
+      "/contracts/intrepid/Gossamer_Vault.jpg",
+      "/contracts/intrepid/Helix_Guardian.jpg",
+      "/contracts/intrepid/Imperial_Envoy.jpg",
+      "/contracts/intrepid/Lattice_Network.jpg",
+      "/contracts/intrepid/Rift_Watcher.jpg",
+      "/contracts/intrepid/Semestral_Haul.jpg",
+      "/contracts/intrepid/Tear_of_Convergence.jpg"
+    ],
+    "type": [
+      "Explore Contract",
+      "Kill Contract",
+      "Delivery Contract",
+      "Rescue Contract",
+      "Head to Head",
+      "Redacted Contract",
+      "Unstable Contract"
+    ],
+    "contractId": [
+      "30794",
+      "10068",
+      "13583",
+      "13893",
+      "12017",
+      "20070",
+      "31172",
+      "19371",
+      "20320",
+      "21008",
+      "24273",
+      "32186",
+      "30655",
+      "15325",
+      "14673",
+      "15307",
+      "34103",
+      "34402",
+      "10854",
+      "27016",
+      "23642",
+      "31673",
+      "12305",
+      "10514",
+      "10866",
+      "20706",
+      "34903",
+      "30513",
+      "24722",
+      "32052",
+      "18875",
+      "17576",
+      "17217",
+      "29152",
+      "17010",
+      "30332",
+      "28043",
+      "10089",
+      "32169",
+      "21014",
+      "56787",
+      "05765",
+      "23457",
+      "13468",
+      "78185",
+      "19728",
+      "97531",
+      "34985",
+      "67910",
+      "14716",
+      "53879",
+      "33878",
+      "65524",
+      "62844",
+      "32665",
+      "51518",
+      "39823",
+      "94603",
+      "67075",
+      "30098",
+      "42603",
+      "59571",
+      "66046",
+      "02589",
+      "12896",
+      "43079",
+      "25076",
+      "85438",
+      "96370",
+      "68233",
+      "81458",
+      "80497",
+      "32067",
+      "74001",
+      "26299",
+      "13802",
+      "58023",
+      "98398",
+      "10321",
+      "81691",
+      "35912",
+      "10918",
+      "98707",
+      "51657",
+      "53813",
+      "90343",
+      "81094",
+      "44200",
+      "15127",
+      "08166",
+      "93040",
+      "93084",
+      "45176",
+      "96159",
+      "96685",
+      "89913",
+      "80800",
+      "06367",
+      "23805",
+      "18745",
+      "90026",
+      "06923",
+      "68566",
+      "58346",
+      "40441",
+      "49589",
+      "32401",
+      "23417",
+      "78657"
+    ],
+    "cardText": [
+      "",
+      "All players may choose to participate. The most total Damage and Shield requirements reduced wins.",
+      "All players may choose to participate. The most total Thruster and Crew requirements reduced wins.",
+      "All players may choose to participate. The most total Thruster and Reactor requirements reduced wins.",
+      "All players may choose to participate. The most total Shield and Reactor requirements reduced wins.",
+      "All players may choose to participate. The most total Shield and Thruster requirements reduced wins.",
+      "All players may choose to participate. The most total Damage and Thruster requirements reduced wins.",
+      "All players may choose to participate. The most total Crew and Shields requirements reduced wins.",
+      "All players may choose to participate. The most total Reactors and Crew requirements reduced wins.",
+      "All players may choose to participate. The most total Crew and Damage requirements reduced wins.",
+      "All players may choose to participate. The most total Reactor and Damage requirements reduced wins.",
+      "Roll a die and add requirements: [[0 hazardDice]] [[+1 Reactor]] [[1 Hazard]] [[+1 Shield]] [[2 hazardDice]] [[+1 Reactor]], [[+1 Shield]]",
+      "Participating players [must] have a Ventus ship part.",
+      "Roll a die and add requirements: [[0 hazardDice]] [[+1 Damage]] [[1 Hazard]] [[+1 Thruster]] [[2 hazardDice]] [[+1 Damage]], [[+1 Thruster]]",
+      "Roll a die and add requirements: [[0 hazardDice]] [[+1 Thruster]] [[1 Hazard]] [[+1 Reactor]] [[2 hazardDice]] [[+1 Thruster]], [[+1 Reactor]]",
+      "Participating players [discard] 4 [[Credits]], combined.",
+      "Roll a die and add requirements: [[0 hazardDice]] [[+1 Crew]] [[1 Hazard]] [[+1 Damage]] [[2 hazardDice]] [[+1 Crew]], [[+1 Damage]]",
+      "Participating players [discard] a card to attempt.",
+      "1 Participating player trashes [[1 Crew]] at the end of the contract.",
+      "Participating players gain a [[Miss]] to attempt.",
+      "Roll a die and add requirements: [[0 hazardDice]] [[+1 Shield]] [[1 Hazard]] [[+1 Thruster]] [[2 hazardDice]] [[+1 Damage]], [[+1 Thruster]]"
+    ],
+    "sector": [
+      "Komek",
+      "Magnomi",
+      "Sorelia",
+      "Ventus",
+      "Henko"
+    ],
+    "holographic": [
+      false
+    ],
+    "requirements": [
+      {
+        "reactors": 3,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 5,
+        "damage": 8,
+        "thrusters": 0,
+        "shields": 5,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 0,
+        "thrusters": 4,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 8,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 3,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 0,
+        "thrusters": 4,
+        "shields": 0,
+        "crew": 5,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 1,
+        "shields": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 6,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 6,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 2,
+        "flex": 0
+      },
+      {
+        "reactors": 2,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 5,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 4,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 5,
+        "damage": 0,
+        "thrusters": 2,
+        "shields": 0,
+        "crew": 3,
+        "flex": 0
+      },
+      {
+        "reactors": 3,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 1,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 8,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 3,
+        "damage": 4,
+        "thrusters": 4,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 2,
+        "thrusters": 0,
+        "shields": 2,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 1,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 2,
+        "thrusters": 2,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 1,
+        "thrusters": 1,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 2,
+        "crew": 2,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 4,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 1,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 5,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 2,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 2,
+        "thrusters": 4,
+        "shields": 5,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 3,
+        "damage": 0,
+        "thrusters": 2,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 0,
+        "thrusters": 4,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 1,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 2,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 2,
+        "shields": 4,
+        "crew": 2,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 2,
+        "thrusters": 0,
+        "shields": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 5,
+        "thrusters": 5,
+        "shields": 0,
+        "crew": 2,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 5,
+        "thrusters": 0,
+        "shields": 2,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 1,
+        "damage": 1,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 1,
+        "damage": 0,
+        "thrusters": 2,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 1,
+        "shields": 2,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 2,
+        "crew": 1,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 5,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 4,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 4,
+        "shields": 4,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 5,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 6,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 4,
+        "thrusters": 4,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 4,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 2,
+        "crew": 3,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 7,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 4,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 3,
+        "flex": 0
+      },
+      {
+        "reactors": 5,
+        "damage": 5,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 5,
+        "flex": 0
+      },
+      {
+        "reactors": 2,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 5,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 1,
+        "shields": 0,
+        "crew": 1,
+        "flex": 0
+      },
+      {
+        "reactors": 2,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 2,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 2,
+        "thrusters": 0,
+        "shields": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 5,
+        "shields": 4,
+        "crew": 4,
+        "flex": 0
+      },
+      {
+        "reactors": 6,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 2,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 4,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 1,
+        "thrusters": 0,
+        "shields": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 1,
+        "shields": 0,
+        "crew": 1,
+        "flex": 0
+      },
+      {
+        "reactors": 4,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 10
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 0,
+        "flex": 8
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 1,
+        "flex": 6
+      },
+      {
+        "reactors": 1,
+        "damage": 0,
+        "thrusters": 1,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 4,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 8
+      },
+      {
+        "reactors": 1,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 2,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 6
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 1,
+        "shields": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 1,
+        "thrusters": 1,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 1,
+        "crew": 1,
+        "flex": 0
+      },
+      {
+        "reactors": 1,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 1,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 12
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 14
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 16
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 3,
+        "flex": 10
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 1,
+        "crew": 0,
+        "flex": 6
+      },
+      {
+        "reactors": 0,
+        "damage": 1,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 1,
+        "flex": 0
+      },
+      {
+        "reactors": 1,
+        "damage": 1,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 3,
+        "damage": 6,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 3,
+        "flex": 0
+      },
+      {
+        "reactors": 2,
+        "damage": 0,
+        "thrusters": 2,
+        "shields": 2,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 4,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 2,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 5,
+        "thrusters": 0,
+        "shields": 4,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 5,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 3,
+        "flex": 0
+      },
+      {
+        "reactors": 3,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 9,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 2,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 2,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 4,
+        "shields": 5,
+        "crew": 3,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 4,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 5,
+        "damage": 5,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 5,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 5,
+        "shields": 0,
+        "crew": 6,
+        "flex": 0
+      },
+      {
+        "reactors": 10,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 4,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 3,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 4,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 2,
+        "flex": 0
+      },
+      {
+        "reactors": 7,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 3,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 6,
+        "flex": 0
+      },
+      {
+        "reactors": 3,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 5,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 3,
+        "thrusters": 2,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 5,
+        "damage": 0,
+        "thrusters": 5,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 6,
+        "damage": 0,
+        "thrusters": 4,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 8,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 4,
+        "flex": 0
+      },
+      {
+        "reactors": 2,
+        "damage": 1,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 5,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 3,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 8,
+        "thrusters": 0,
+        "shields": 4,
+        "crew": 4,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 1,
+        "thrusters": 3,
+        "shields": 4,
+        "crew": 0,
+        "flex": 0
+      },
+      {
+        "reactors": 0,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0,
+        "dice": 4
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 2,
+        "crew": 0,
+        "flex": 0,
+        "dice": 3
+      },
+      {
+        "reactors": 2,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0,
+        "dice": 3
+      },
+      {
+        "reactors": 4,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0,
+        "dice": 4
+      },
+      {
+        "reactors": 0,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0,
+        "dice": 3
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 2,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0,
+        "dice": 3
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 3,
+        "crew": 0,
+        "flex": 0,
+        "dice": 5
+      },
+      {
+        "reactors": 0,
+        "damage": 3,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0,
+        "dice": 6
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 3,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0,
+        "dice": 6
+      },
+      {
+        "reactors": 0,
+        "damage": 0,
+        "thrusters": 0,
+        "shields": 0,
+        "crew": 0,
+        "flex": 0,
+        "dice": 12
+      }
+    ],
+    "hazardDice": [
+      2,
+      4,
+      0,
+      3,
+      1,
+      -1
+    ],
+    "rewards": [
+      {
+        "prestige": 1,
+        "credits": 4,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 5,
+        "credits": 11,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 5,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 5,
+        "credits": 12,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 0,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 9,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 4,
+        "credits": 6,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 2,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 2,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 0,
+        "credits": 4,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 4,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 2,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 2,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 5,
+        "credits": 10,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 2,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 4,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 0,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 4,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 5,
+        "credits": 10,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 0,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 2,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 4,
+        "credits": 0,
+        "bonusCard": 2,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 0,
+        "bonusCard": 3,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 0,
+        "bonusCard": 2,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 0,
+        "bonusCard": 3,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 0,
+        "bonusCard": 2,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "Sorelia",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 5,
+        "credits": 10,
+        "bonusCard": 0,
+        "factionRep": "Ventus",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 0,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "Magnomi",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "Komek",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 0,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "Ventus",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 0,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "Komek",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 0,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "Henko",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 5,
+        "credits": 10,
+        "bonusCard": 0,
+        "factionRep": "Henko",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "Magnomi",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "Sorelia",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 2,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 2,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 2,
+        "credits": 4,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 4,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 3
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 4,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 4,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 4,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 4,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 4,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 4,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 1,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 5,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 3,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 12,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 4,
+        "credits": 8,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 5,
+        "credits": 12,
+        "bonusCard": 1,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 9,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 2,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 1,
+        "credits": 6,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 8,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 3,
+        "credits": 7,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      },
+      {
+        "prestige": 4,
+        "credits": 9,
+        "bonusCard": 0,
+        "factionRep": "",
+        "prototype": 0,
+        "secondPlace": 0
+      }
+    ]
+  }
+}

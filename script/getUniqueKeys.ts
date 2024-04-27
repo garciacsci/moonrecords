@@ -1,4 +1,5 @@
 import * as fs from 'fs';
+import * as path from 'path';
 
 interface UniqueKeys {
   [key: string]: Set<string>;
@@ -16,9 +17,9 @@ function processFile(filename: string): UniqueKeys {
         uniqueKeys[key] = new Set();
       }
       const value = item[key];
-      if (typeof value === 'string') {
+      //if (typeof value === 'string') {
         uniqueKeys[key].add(value);
-      }
+      //}
     });
   });
 
@@ -34,14 +35,20 @@ const filenames = [
   'card/eventsData.json'
 ];
 
+
+
 filenames.forEach((filename) => {
   const uniqueKeys = processFile(filename);
-  console.log(`Unique keys and values in ${filename}:`);
+  let output: { filename: string; keys: { [key: string]: string[] } } = { filename: filename, keys: {} };
+
   Object.entries(uniqueKeys).forEach(([key, values]) => {
-    console.log(`Key: ${key}`);
-    console.log(`Values: ${Array.from(values).join(', ')}`);
-    console.log('---');
+    output.keys[key] = Array.from(values);
   });
-  console.log('\n');
-  fs.writeFileSync(`${filename}.uniqueKeys.json`, JSON.stringify(uniqueKeys, null, 2));
+
+  console.log(output);
+
+  const baseName = path.basename(filename, '.json');
+  const newFilename = path.join('./script/uniqueKeys', `${baseName}.uniqueKeys.json`);
+
+  fs.writeFileSync(newFilename, JSON.stringify(output, null, 2));
 });

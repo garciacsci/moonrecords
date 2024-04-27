@@ -6,11 +6,15 @@
     "image": "/action_cards/base/Damage.jpg",
     "cardText": "+1 Damage",
     "requirements": {
-      "damage": -1
+      "reactor": 0,
+      "damage": -1,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
     },
-    "type": {
-      "damage": true
-    },
+    "hazard": 0,
+    "action": 0,
     "discrete": true
   },
   {
@@ -21,7 +25,10 @@
     "cardText": "+2 Damage",
     "requirements": {
       "damage": -2
-    }
+    },
+    "hazard": 0,
+    "action": 0,
+    "discrete": true
   },
   {
     "id": 3,
