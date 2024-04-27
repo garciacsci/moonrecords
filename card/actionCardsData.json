@@ -313,6 +313,363 @@
     "card": 0,
     "is_default_loadout": false,
     "discrete": true
+  },
+  {
+    "id": 16,
+    "name": "Damage",
+    "collection": "Base game",
+    "image": "/action_cards/base/Damage.jpg",
+    "cardText": "+1 Damage",
+    "requirements": {
+      "reactor": 0,
+      "damage": 1,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "damage",
+    "hazard": 0,
+    "action": 0,
+    "card": 0,
+    "is_default_loadout": true,
+    "discrete": false
+  },
+  {
+    "id": 17,
+    "name": "Damage 2",
+    "collection": "Base game",
+    "image": "/action_cards/base/Damage_2.jpg",
+    "cardText": "+2 Damage",
+    "requirements": {
+      "reactor": 0,
+      "damage": 2,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "damage",
+    "hazard": 0,
+    "action": 0,
+    "card": 0,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 18,
+    "name": "Damage 3",
+    "collection": "Base game",
+    "image": "/action_cards/base/Damage_3.jpg",
+    "cardText": "+3 Damage",
+    "requirements": {
+      "reactor": 0,
+      "damage": 3,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "damage",
+    "hazard": 0,
+    "action": 0,
+    "card": 0,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 19,
+    "name": "Miss",
+    "collection": "Base game",
+    "image": "/action_cards/base/Miss.jpg",
+    "cardText": "System Error",
+    "requirements": {
+      "reactor": 0,
+      "damage": 0,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "miss",
+    "hazard": 0,
+    "action": 0,
+    "card": 0,
+    "is_default_loadout": true,
+    "discrete": false
+  },
+  {
+    "id": 20,
+    "name": "Reactor",
+    "collection": "Base game",
+    "image": "/action_cards/base/Reactor.jpg",
+    "cardText": "+2 Actions",
+    "requirements": {
+      "reactor": 1,
+      "damage": 0,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "reactor",
+    "hazard": 0,
+    "action": 2,
+    "card": 0,
+    "is_default_loadout": true,
+    "discrete": false
+  },
+  {
+    "id": 21,
+    "name": "Shield",
+    "collection": "Base game",
+    "image": "/action_cards/base/Shield.jpg",
+    "cardText": "Block 1 Hazard",
+    "requirements": {
+      "reactor": 0,
+      "damage": 0,
+      "thruster": 0,
+      "shield": 1,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "shield",
+    "hazard": 1,
+    "action": 0,
+    "card": 0,
+    "is_default_loadout": true,
+    "discrete": false
+  },
+  {
+    "id": 22,
+    "name": "Thruster",
+    "collection": "Base game",
+    "image": "/action_cards/base/Thruster.jpg",
+    "cardText": "+2 Cards",
+    "requirements": {
+      "reactor": 0,
+      "damage": 0,
+      "thruster": 1,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "thruster",
+    "hazard": 0,
+    "action": 0,
+    "card": 2,
+    "is_default_loadout": true,
+    "discrete": false
+  },
+  {
+    "id": 23,
+    "name": "Damage+",
+    "collection": "Overload",
+    "image": "/action_cards/overload/Damage_+.jpg",
+    "cardText": "+2 Damage, +1 Action",
+    "requirements": {
+      "reactor": 0,
+      "damage": 2,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "damage",
+    "hazard": 0,
+    "action": 1,
+    "card": 0,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 24,
+    "name": "Reactor+",
+    "collection": "Overload",
+    "image": "/action_cards/overload/Reactor_+.jpg",
+    "cardText": "+2 Actions, +1 Card",
+    "requirements": {
+      "reactor": 1,
+      "damage": 0,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "reactor",
+    "hazard": 0,
+    "action": 2,
+    "card": 1,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 25,
+    "name": "Reactorx",
+    "collection": "Overload",
+    "image": "/action_cards/overload/Reactor_X.jpg",
+    "cardText": "+3 Actions",
+    "requirements": {
+      "reactor": 1,
+      "damage": 0,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "reactor",
+    "hazard": 0,
+    "action": 3,
+    "card": 0,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 26,
+    "name": "Shield+",
+    "collection": "Overload",
+    "image": "/action_cards/overload/Shield_+.jpg",
+    "cardText": "Block 1 Hazard, +1 Action",
+    "requirements": {
+      "reactor": 0,
+      "damage": 0,
+      "thruster": 0,
+      "shield": 1,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "shield",
+    "hazard": 0,
+    "action": 1,
+    "card": 0,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 27,
+    "name": "Shieldx",
+    "collection": "Overload",
+    "image": "/action_cards/overload/Shield_X.jpg",
+    "cardText": "Block 2 Hazard",
+    "requirements": {
+      "reactor": 0,
+      "damage": 0,
+      "thruster": 0,
+      "shield": 1,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "shield",
+    "hazard": 2,
+    "action": 0,
+    "card": 0,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 28,
+    "name": "Thruster+",
+    "collection": "Overload",
+    "image": "/action_cards/overload/Thruster_+.jpg",
+    "cardText": "+2 Cards, +1 Action",
+    "requirements": {
+      "reactor": 0,
+      "damage": 0,
+      "thruster": 1,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "thruster",
+    "hazard": 0,
+    "action": 1,
+    "card": 2,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 29,
+    "name": "Thrusterx",
+    "collection": "Overload",
+    "image": "/action_cards/overload/Thruster_X.jpg",
+    "cardText": "+3 Cards",
+    "requirements": {
+      "reactor": 0,
+      "damage": 0,
+      "thruster": 1,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "thruster",
+    "hazard": 0,
+    "action": 0,
+    "card": 3,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 30,
+    "name": "Dark Matter",
+    "collection": "Dark Matter",
+    "image": "/action_cards/dark_matter/Dark_Matter.jpg",
+    "cardText": "Idle Substance",
+    "requirements": {
+      "reactor": 0,
+      "damage": 0,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "dark_matter",
+    "hazard": 0,
+    "action": 0,
+    "card": 0,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 31,
+    "name": "Damage 4",
+    "collection": "Base game",
+    "image": "/action_cards/base/Damage_3.jpg",
+    "cardText": "+3 Damage",
+    "requirements": {
+      "reactor": 0,
+      "damage": 4,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "damage",
+    "hazard": 0,
+    "action": 0,
+    "card": 0,
+    "is_default_loadout": false,
+    "discrete": false
+  },
+  {
+    "id": 32,
+    "name": "Damage 5",
+    "collection": "Base game",
+    "image": "/action_cards/base/Damage_3.jpg",
+    "cardText": "+3 Damage",
+    "requirements": {
+      "reactor": 0,
+      "damage": 5,
+      "thruster": 0,
+      "shield": 0,
+      "crew": 0,
+      "flex": 0
+    },
+    "cardType": "damage",
+    "hazard": 0,
+    "action": 0,
+    "card": 0,
+    "is_default_loadout": false,
+    "discrete": false
   }
 ]
 
