@@ -17,7 +17,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 4,
@@ -25,8 +25,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 2,
@@ -46,7 +45,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 11,
@@ -54,8 +53,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 3,
@@ -75,7 +73,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 7,
@@ -83,8 +81,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 4,
@@ -104,7 +101,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 5,
@@ -112,8 +109,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 5,
@@ -133,7 +129,7 @@
       "crew": 3,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
@@ -141,8 +137,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 6,
@@ -162,7 +157,7 @@
       "crew": 5,
       "flex": 0
     },
-    "hazardDice": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 12,
@@ -170,8 +165,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 7,
@@ -191,7 +185,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 0,
+    "hazards": 0,
     "rewards": {
       "prestige": 0,
       "credits": 3,
@@ -199,8 +193,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 8,
@@ -220,7 +213,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 9,
@@ -228,8 +221,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 9,
@@ -249,7 +241,7 @@
       "crew": 2,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 6,
@@ -257,8 +249,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 10,
@@ -278,7 +269,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
@@ -286,8 +277,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 11,
@@ -307,7 +297,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -315,8 +305,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 12,
@@ -336,7 +325,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -344,8 +333,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 13,
@@ -365,7 +353,7 @@
       "crew": 3,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -373,8 +361,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 14,
@@ -394,7 +381,7 @@
       "crew": 1,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
@@ -402,8 +389,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 15,
@@ -423,7 +409,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 4,
       "credits": 6,
@@ -431,8 +417,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 16,
@@ -452,7 +437,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -460,8 +445,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 17,
@@ -481,7 +465,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 2,
@@ -489,8 +473,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 18,
@@ -510,7 +493,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 7,
@@ -518,8 +501,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 19,
@@ -539,7 +521,7 @@
       "crew": 1,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 2,
@@ -547,8 +529,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 20,
@@ -568,7 +549,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
@@ -576,8 +557,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 21,
@@ -597,7 +577,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
@@ -605,8 +585,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 22,
@@ -626,7 +605,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 0,
+    "hazards": 0,
     "rewards": {
       "prestige": 0,
       "credits": 4,
@@ -634,8 +613,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 23,
@@ -655,7 +633,7 @@
       "crew": 2,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 4,
@@ -663,8 +641,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 24,
@@ -684,7 +661,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -692,8 +669,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 25,
@@ -713,7 +689,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 2,
@@ -721,8 +697,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 26,
@@ -742,7 +717,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -750,8 +725,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 27,
@@ -771,7 +745,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 2,
@@ -779,8 +753,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 28,
@@ -800,7 +773,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 10,
@@ -808,8 +781,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 29,
@@ -829,7 +801,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 2,
@@ -837,8 +809,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 30,
@@ -858,7 +829,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 4,
@@ -866,8 +837,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 31,
@@ -887,7 +857,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 0,
+    "hazards": 0,
     "rewards": {
       "prestige": 0,
       "credits": 3,
@@ -895,8 +865,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 32,
@@ -916,7 +885,7 @@
       "crew": 2,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 7,
@@ -924,8 +893,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 33,
@@ -945,7 +913,7 @@
       "crew": 2,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 4,
       "credits": 6,
@@ -953,8 +921,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 34,
@@ -974,7 +941,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
@@ -982,8 +949,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 35,
@@ -1003,7 +969,7 @@
       "crew": 2,
       "flex": 0
     },
-    "hazardDice": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 10,
@@ -1011,8 +977,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 36,
@@ -1032,7 +997,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 6,
@@ -1040,8 +1005,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 37,
@@ -1061,7 +1025,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 0,
+    "hazards": 0,
     "rewards": {
       "prestige": 0,
       "credits": 3,
@@ -1069,8 +1033,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 38,
@@ -1090,7 +1053,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 2,
@@ -1098,8 +1061,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 39,
@@ -1119,7 +1081,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
@@ -1127,8 +1089,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 40,
@@ -1148,7 +1109,7 @@
       "crew": 1,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
@@ -1156,8 +1117,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 41,
@@ -1177,7 +1137,7 @@
       "crew": 4,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 4,
       "credits": 0,
@@ -1185,8 +1145,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 42,
@@ -1206,7 +1165,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 0,
@@ -1214,8 +1173,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 43,
@@ -1235,7 +1193,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 0,
@@ -1243,8 +1201,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 44,
@@ -1264,7 +1221,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 0,
@@ -1272,8 +1229,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 45,
@@ -1293,7 +1249,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 0,
@@ -1301,8 +1257,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 46,
@@ -1322,7 +1277,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
@@ -1330,8 +1285,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 47,
@@ -1351,7 +1305,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 2,
       "credits": 8,
@@ -1359,8 +1313,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 48,
@@ -1380,7 +1333,7 @@
       "crew": 3,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 6,
@@ -1388,8 +1341,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 49,
@@ -1409,7 +1361,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -1417,8 +1369,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 50,
@@ -1438,7 +1389,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
@@ -1446,8 +1397,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 51,
@@ -1467,7 +1417,7 @@
       "crew": 3,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
@@ -1475,8 +1425,7 @@
       "factionRep": "Sorelia",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 52,
@@ -1496,7 +1445,7 @@
       "crew": 5,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 5,
       "credits": 10,
@@ -1504,8 +1453,7 @@
       "factionRep": "Ventus",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 53,
@@ -1525,7 +1473,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 0,
       "credits": 5,
@@ -1533,8 +1481,7 @@
       "factionRep": "Magnomi",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 54,
@@ -1554,7 +1501,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 5,
@@ -1562,8 +1509,7 @@
       "factionRep": "Komek",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 55,
@@ -1583,7 +1529,7 @@
       "crew": 1,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 0,
       "credits": 3,
@@ -1591,8 +1537,7 @@
       "factionRep": "Ventus",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 56,
@@ -1612,7 +1557,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 0,
       "credits": 3,
@@ -1620,8 +1565,7 @@
       "factionRep": "Komek",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 57,
@@ -1641,7 +1585,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 0,
       "credits": 3,
@@ -1649,8 +1593,7 @@
       "factionRep": "Henko",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 58,
@@ -1670,7 +1613,7 @@
       "crew": 4,
       "flex": 0
     },
-    "hazardDice": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 10,
@@ -1678,8 +1621,7 @@
       "factionRep": "Henko",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 59,
@@ -1699,7 +1641,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 5,
@@ -1707,8 +1649,7 @@
       "factionRep": "Magnomi",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 60,
@@ -1728,7 +1669,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 2,
       "credits": 6,
@@ -1736,8 +1677,7 @@
       "factionRep": "Sorelia",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 61,
@@ -1757,7 +1697,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -1765,8 +1705,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 62,
@@ -1786,7 +1725,7 @@
       "crew": 1,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -1794,8 +1733,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 63,
@@ -1815,7 +1753,7 @@
       "crew": 0,
       "flex": 10
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
@@ -1823,8 +1761,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 64,
@@ -1844,7 +1781,7 @@
       "crew": 0,
       "flex": 8
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
@@ -1852,8 +1789,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 65,
@@ -1873,7 +1809,7 @@
       "crew": 1,
       "flex": 6
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -1881,8 +1817,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 66,
@@ -1902,7 +1837,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -1910,8 +1845,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 67,
@@ -1931,7 +1865,7 @@
       "crew": 0,
       "flex": 8
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
@@ -1939,8 +1873,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 68,
@@ -1960,7 +1893,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -1968,8 +1901,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 69,
@@ -1989,7 +1921,7 @@
       "crew": 0,
       "flex": 6
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -1997,8 +1929,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 70,
@@ -2018,7 +1949,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -2026,8 +1957,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 71,
@@ -2047,7 +1977,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -2055,8 +1985,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 72,
@@ -2076,7 +2005,7 @@
       "crew": 1,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -2084,8 +2013,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 73,
@@ -2105,7 +2033,7 @@
       "crew": 1,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -2113,8 +2041,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 74,
@@ -2134,7 +2061,7 @@
       "crew": 0,
       "flex": 12
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 4,
@@ -2142,8 +2069,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 75,
@@ -2163,7 +2089,7 @@
       "crew": 0,
       "flex": 14
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 5,
@@ -2171,8 +2097,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 76,
@@ -2192,7 +2117,7 @@
       "crew": 0,
       "flex": 16
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -2200,8 +2125,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 77,
@@ -2221,7 +2145,7 @@
       "crew": 3,
       "flex": 10
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -2229,8 +2153,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 78,
@@ -2250,7 +2173,7 @@
       "crew": 0,
       "flex": 6
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 4,
@@ -2258,8 +2181,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 79,
@@ -2279,7 +2201,7 @@
       "crew": 1,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -2287,8 +2209,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 80,
@@ -2308,7 +2229,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -2316,8 +2237,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 3
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 81,
@@ -2337,7 +2257,7 @@
       "crew": 3,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -2345,8 +2265,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 82,
@@ -2366,7 +2285,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 4,
@@ -2374,8 +2293,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 83,
@@ -2395,7 +2313,7 @@
       "crew": 2,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 4,
@@ -2403,8 +2321,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 84,
@@ -2424,7 +2341,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -2432,8 +2349,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 85,
@@ -2453,7 +2369,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -2461,8 +2377,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 86,
@@ -2482,7 +2397,7 @@
       "crew": 3,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 4,
@@ -2490,8 +2405,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 87,
@@ -2511,7 +2425,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 2,
       "credits": 5,
@@ -2519,8 +2433,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 88,
@@ -2540,7 +2453,7 @@
       "crew": 2,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 6,
@@ -2548,8 +2461,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 89,
@@ -2569,7 +2481,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 6,
@@ -2577,8 +2489,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 90,
@@ -2598,7 +2509,7 @@
       "crew": 3,
       "flex": 0
     },
-    "hazardDice": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 4,
       "credits": 8,
@@ -2606,8 +2517,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 91,
@@ -2627,7 +2537,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 2,
       "credits": 4,
@@ -2635,8 +2545,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 92,
@@ -2656,7 +2565,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -2664,8 +2573,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 93,
@@ -2685,7 +2593,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -2693,8 +2601,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 94,
@@ -2714,7 +2621,7 @@
       "crew": 6,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -2722,8 +2629,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 95,
@@ -2743,7 +2649,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 4,
       "credits": 8,
@@ -2751,8 +2657,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 96,
@@ -2772,7 +2677,7 @@
       "crew": 3,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 7,
@@ -2780,8 +2685,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 97,
@@ -2801,7 +2705,7 @@
       "crew": 2,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
@@ -2809,8 +2713,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 98,
@@ -2830,7 +2733,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
@@ -2838,8 +2741,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 99,
@@ -2859,7 +2761,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -2867,8 +2769,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 100,
@@ -2888,7 +2789,7 @@
       "crew": 6,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
@@ -2896,8 +2797,7 @@
       "factionRep": "",
       "prototype": 1,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 101,
@@ -2906,7 +2806,7 @@
     "image": "/contracts/starfall/Celestial_Probe.jpg",
     "type": "Explore Contract",
     "contractId": "08166",
-    "cardText": "Roll a die and add requirements: [[0 hazardDice]] [[+1 Reactor]] [[1 Hazard]] [[+1 Shield]] [[2 hazardDice]] [[+1 Reactor]], [[+1 Shield]]",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Reactor]] [[1 Hazard]] [[+1 Shield]] [[2 Hazards]] [[+1 Reactor]], [[+1 Shield]]",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
@@ -2917,7 +2817,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
@@ -2925,8 +2825,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 102,
@@ -2946,7 +2845,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 2,
       "credits": 7,
@@ -2954,8 +2853,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 103,
@@ -2964,7 +2862,7 @@
     "image": "/contracts/starfall/Destructive_Expedition.jpg",
     "type": "Kill Contract",
     "contractId": "93084",
-    "cardText": "Roll a die and add requirements: [[0 hazardDice]] [[+1 Damage]] [[1 Hazard]] [[+1 Thruster]] [[2 hazardDice]] [[+1 Damage]], [[+1 Thruster]]",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Damage]] [[1 Hazard]] [[+1 Thruster]] [[2 Hazards]] [[+1 Damage]], [[+1 Thruster]]",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
@@ -2975,7 +2873,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 2,
       "credits": 3,
@@ -2983,8 +2881,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 104,
@@ -2993,7 +2890,7 @@
     "image": "/contracts/starfall/Divine_Sprint.jpg",
     "type": "Delivery Contract",
     "contractId": "45176",
-    "cardText": "Roll a die and add requirements: [[0 hazardDice]] [[+1 Thruster]] [[1 Hazard]] [[+1 Reactor]] [[2 hazardDice]] [[+1 Thruster]], [[+1 Reactor]]",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Thruster]] [[1 Hazard]] [[+1 Reactor]] [[2 Hazards]] [[+1 Thruster]], [[+1 Reactor]]",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
@@ -3004,7 +2901,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -3012,8 +2909,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 105,
@@ -3033,7 +2929,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 12,
@@ -3041,8 +2937,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 106,
@@ -3051,7 +2946,7 @@
     "image": "/contracts/starfall/Hostile_Intent.jpg",
     "type": "Redacted Contract",
     "contractId": "96685",
-    "cardText": "Roll a die and add requirements: [[0 hazardDice]] [[+1 Crew]] [[1 Hazard]] [[+1 Damage]] [[2 hazardDice]] [[+1 Crew]], [[+1 Damage]]",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Crew]] [[1 Hazard]] [[+1 Damage]] [[2 Hazards]] [[+1 Crew]], [[+1 Damage]]",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
@@ -3062,7 +2957,7 @@
       "crew": 4,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 4,
       "credits": 8,
@@ -3070,8 +2965,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 107,
@@ -3091,7 +2985,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 6,
@@ -3099,8 +2993,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 108,
@@ -3120,7 +3013,7 @@
       "crew": 3,
       "flex": 0
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -3128,8 +3021,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 109,
@@ -3149,7 +3041,7 @@
       "crew": 4,
       "flex": 0
     },
-    "hazardDice": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 12,
@@ -3157,8 +3049,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 110,
@@ -3167,7 +3058,7 @@
     "image": "/contracts/starfall/Treacherous_Pursuit.jpg",
     "type": "Rescue Contract",
     "contractId": "23805",
-    "cardText": "Roll a die and add requirements: [[0 hazardDice]] [[+1 Shield]] [[1 Hazard]] [[+1 Thruster]] [[2 hazardDice]] [[+1 Damage]], [[+1 Thruster]]",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Shield]] [[1 Hazard]] [[+1 Thruster]] [[2 Hazards]] [[+1 Damage]], [[+1 Thruster]]",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
@@ -3178,7 +3069,7 @@
       "crew": 0,
       "flex": 0
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 9,
@@ -3186,8 +3077,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 111,
@@ -3208,7 +3098,7 @@
       "flex": 0,
       "dice": 4
     },
-    "hazardDice": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -3216,8 +3106,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 112,
@@ -3238,7 +3127,7 @@
       "flex": 0,
       "dice": 3
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 7,
@@ -3246,8 +3135,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 113,
@@ -3268,7 +3156,7 @@
       "flex": 0,
       "dice": 3
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 6,
@@ -3276,8 +3164,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 114,
@@ -3298,7 +3185,7 @@
       "flex": 0,
       "dice": 4
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
@@ -3306,8 +3193,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 115,
@@ -3328,7 +3214,7 @@
       "flex": 0,
       "dice": 3
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 7,
@@ -3336,8 +3222,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 116,
@@ -3358,7 +3243,7 @@
       "flex": 0,
       "dice": 3
     },
-    "hazardDice": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 6,
@@ -3366,8 +3251,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 117,
@@ -3388,7 +3272,7 @@
       "flex": 0,
       "dice": 5
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -3396,8 +3280,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 118,
@@ -3418,7 +3301,7 @@
       "flex": 0,
       "dice": 6
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
@@ -3426,8 +3309,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 119,
@@ -3448,7 +3330,7 @@
       "flex": 0,
       "dice": 6
     },
-    "hazardDice": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
@@ -3456,8 +3338,7 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   },
   {
     "id": 120,
@@ -3478,7 +3359,7 @@
       "flex": 0,
       "dice": 12
     },
-    "hazardDice": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 4,
       "credits": 9,
@@ -3486,7 +3367,6 @@
       "factionRep": "",
       "prototype": 0,
       "secondPlace": 0
-    },
-    "cardType": "Ship Part"
+    }
   }
 ]
