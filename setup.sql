@@ -21,19 +21,16 @@ CREATE TYPE "faction_type" AS ENUM(
 );
 
 CREATE TYPE "card_type" AS ENUM(
-  'Reactor',
-  'Damage',
-  'Thrusters',
-  'Shields',
-  'Crew',
-  'Flex',
-  'Dark Matter',
-  'Miss',
-  'Contract',
-  'Ship Part',
-  'Objective',
-  'Event'
+  'reactor',
+  'damage',
+  'thruster',
+  'shield',
+  'crew',
+  'flex',
+  'dark_matter',
+  'miss'
 );
+
 
 CREATE TYPE "contract_type" AS ENUM(
   'Explore Contract',
@@ -163,10 +160,12 @@ CREATE TABLE IF NOT EXISTS
     "image" TEXT NOT NULL,
     "card_text" TEXT NOT NULL,
     "collection" collection_type NOT NULL,
-    "card_type" card_type_enum NOT NULL,
     "block_hazard" INTEGER NOT NULL,
     "action" INTEGER NOT NULL,
+    "card" INTEGER NOT NULL,
+
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
+    "card_type" card_type_enum NOT NULL,
     "is_default_loadout" BOOLEAN NOT NULL DEFAULT FALSE,
     "discrete" BOOLEAN NOT NULL DEFAULT FALSE,
   );
