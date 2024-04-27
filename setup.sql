@@ -172,26 +172,21 @@ CREATE TABLE IF NOT EXISTS
 -- set either as null or as 0 when that specific card has no effect
 -- maybe set this as json instead of table?
 CREATE TABLE IF NOT EXISTS
-  "effect" (
+  "game_element" (
     "id" SERIAL PRIMARY KEY,
+    "card_type" card_type,
     "block_hazard" INTEGER,
     "block_hazard_die" INTEGER,
-    "negate_hazard" INTEGER, --negate is for die
+    "negate_hazard" INTEGER,
     "negate_hazard_die" INTEGER,
     "roll_hazard_die" INTEGER,
     "roll_moonroller_die" INTEGER,
-    "action" INTEGER,
-    "requirement_id" INTEGER REFERENCES "requirement" ("id"),
-    "play_as" INTEGER REFERENCES "action_card" ("id"),
-    "interact" INTEGER REFERENCES "game_element" ("id")
-  );
-
-CREATE TABLE IF NOT EXISTS
-  "game_mechanic" (
-    "id" SERIAL PRIMARY KEY,
-    ""
-
-  )
-
-
--- create Game Element as an array of ENUMS?
+    "gain_io" INTEGER,
+    "spend_io" INTEGER,
+    "faction_rep" INTEGER,
+    "prestiege" INTEGER,
+    "credit", INTEGER,
+    "allies" INTEGER,
+    "objective_card": INTEGER,
+    "armory": BOOLEAN,
+  );"
