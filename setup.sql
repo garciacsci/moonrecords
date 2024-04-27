@@ -207,6 +207,23 @@ CREATE TABLE IF NOT EXISTS
     "card_text" TEXT NOT NULL,
     "wiki_description" TEXT NOT NULL,
     "rule_clarification" jsonb[],
-    "play_as" INTEGER REFERENCES action_card ("id"),
+    "play_as" INTEGER[] REFERENCES action_card ("id"),
     "interacts" INTEGER REFERENCES game_element ("id")
-);"
+);
+
+CREATE TABLE IF NOT EXISTS
+  "ship_part" (
+    "id" SERIAL PRIMARY KEY,
+    "collection" collection_type NOT NULL,
+    "image" TEXT NOT NULL,
+    "cost" INTEGER NOT NULL,
+    "faction" faction_type NOT NULL,
+    "cards" INTEGER[] REFERENCES action_card ("id")
+    "holographic" BOOLEAN NOT NULL,
+    "alt_print" BOOLEAN NOT NULL,
+    "card_text" TEXT NOT NULL,
+    "wiki_description" TEXT NOT NULL,
+    "rule_clarifications" jsonb[],
+    "play_as" INTEGER[] REFERENCES action_card ("id"),
+    "interacts" INTEGER REFERENCES game_element ("id")
+  );
