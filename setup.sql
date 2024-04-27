@@ -163,7 +163,6 @@ CREATE TABLE IF NOT EXISTS
     "block_hazard" INTEGER NOT NULL,
     "action" INTEGER NOT NULL,
     "card" INTEGER NOT NULL,
-
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
     "card_type" card_type_enum NOT NULL,
     "is_default_loadout" BOOLEAN NOT NULL DEFAULT FALSE,
@@ -186,5 +185,13 @@ CREATE TABLE IF NOT EXISTS
     "play_as" INTEGER REFERENCES "action_card" ("id"),
     "interact" INTEGER REFERENCES "game_element" ("id")
   );
+
+CREATE TABLE IF NOT EXISTS
+  "game_mechanic" (
+    "id" SERIAL PRIMARY KEY,
+    ""
+
+  )
+
 
 -- create Game Element as an array of ENUMS?
