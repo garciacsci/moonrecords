@@ -127,7 +127,7 @@ CREATE TABLE IF NOT EXISTS
 CREATE TABLE IF NOT EXISTS
   "reward" (
     "id" SERIAL PRIMARY KEY,
-    "prestiege" INTEGER NOT NULL,
+    "prestige" INTEGER NOT NULL,
     "credits" INTEGER NOT NULL,
     "bonus_card" INTEGER NOT NULL,
     "prototype" INTEGER NOT NULL,
@@ -182,7 +182,7 @@ CREATE TABLE IF NOT EXISTS
     "gain_io" INTEGER,
     "spend_io" INTEGER,
     "faction_rep" INTEGER,
-    "prestiege" INTEGER,
+    "prestige" INTEGER,
     "credit" INTEGER,
     "allies" INTEGER,
     "objective_card" INTEGER,
@@ -238,7 +238,7 @@ CREATE TABLE IF NOT EXISTS
   );
 
 CREATE TABLE IF NOT EXISTS
-  "conditon" (
+  "condition" (
     "id" SERIAL PRIMARY KEY,
     "requirement_id" INTEGER REFERENCES requirement ("id"),
     "contract_type" contract_type,
@@ -254,5 +254,5 @@ CREATE TABLE IF NOT EXISTS
     "image" TEXT NOT NULL,
     "prestige" INTEGER NOT NULL,
     "card_text" TEXT NOT NULL,
-    "condition" INTEGER REFERENCES conditon ("id")
+    "condition" INTEGER REFERENCES condition ("id")
   );
