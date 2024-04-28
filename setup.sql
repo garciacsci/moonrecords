@@ -225,7 +225,7 @@ CREATE TABLE IF NOT EXISTS
     "image" TEXT NOT NULL,
     "cost" INTEGER NOT NULL,
     "faction" faction_type NOT NULL,
-    "cards" INTEGER[] REFERENCES action_card ("id")
+    "cards" INTEGER REFERENCES action_card ("id")
     "is_holographic" BOOLEAN NOT NULL,
     "alt_print" BOOLEAN NOT NULL,
     "card_text" TEXT NOT NULL,
