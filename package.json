@@ -13,9 +13,11 @@
   "type": "module",
   "dependencies": {
     "@supabase/supabase-js": "^2.42.7",
+    "deep-equal": "^2.2.3",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
+    "@types/deep-equal": "^1.0.4",
     "@types/node": "^20.12.7",
     "tsx": "^4.7.3",
     "typescript": "^5.4.5"

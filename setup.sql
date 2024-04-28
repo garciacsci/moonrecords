@@ -201,19 +201,20 @@ CREATE TABLE IF NOT EXISTS
 CREATE TABLE IF NOT EXISTS
   "crew_card" (
     "id" SERIAL PRIMARY KEY,
+    "collection" collection_type NOT NULL,
     "name" TEXT NOT NULL,
     "image" TEXT NOT NULL,
     "cost" INTEGER NOT NULL,
     "faction" faction_type NOT NULL,
     "role" crew_role NOT NULL,
     "type" crew_type NOT NULL,
-    "height" INTEGER NOT NULL,
+    "height"varchar(16) NOT NULL,
     "is_holographic" BOOLEAN NOT NULL,
     "is_gold_holographic" BOOLEAN NOT NULL DEFAULT FALSE,
     "alt_print" BOOLEAN NOT NULL,
     "card_text" TEXT NOT NULL,
     "wiki_description" TEXT NOT NULL,
-    "rule_clarification" jsonb[],
+    "rule_clarifications" jsonb,
     "play_as_id" INTEGER REFERENCES action_card ("id"),
     "requirement_id" INTEGER REFERENCES requirement ("id"),
     "interact_id" INTEGER REFERENCES game_element ("id")
@@ -227,11 +228,11 @@ CREATE TABLE IF NOT EXISTS
     "cost" INTEGER NOT NULL,
     "faction" faction_type NOT NULL,
     "cards" INTEGER[] REFERENCES action_card ("id")
-    "holographic" BOOLEAN NOT NULL,
+    "is_holographic" BOOLEAN NOT NULL,
     "alt_print" BOOLEAN NOT NULL,
     "card_text" TEXT NOT NULL,
     "wiki_description" TEXT NOT NULL,
-    "rule_clarifications" jsonb[],
+    "rule_clarifications" jsonb,
     "play_as_id" INTEGER REFERENCES action_card ("id"),
     "requirement_id" INTEGER REFERENCES requirement ("id"),
     "interact_id" INTEGER REFERENCES game_element ("id")
