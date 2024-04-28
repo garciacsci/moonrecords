@@ -26,7 +26,6 @@ CREATE TYPE "card_type" AS ENUM(
   'thruster',
   'shield',
   'crew',
-  'flex',
   'dark_matter',
   'miss'
 );
@@ -188,6 +187,15 @@ CREATE TABLE IF NOT EXISTS
     "allies" INTEGER,
     "objective_card" INTEGER,
     "armory" BOOLEAN,
+    "trash" BOOLEAN,
+    "discard" BOOLEAN,
+    "discard_pile" BOOLEAN,
+    "supply" BOOLEAN,
+    "played" BOOLEAN,
+    "draw_pile" BOOLEAN,
+    "hand" BOOLEAN,
+    "action" INTEGER,
+    "card" INTEGER
   );
 
 CREATE TABLE IF NOT EXISTS
@@ -207,6 +215,7 @@ CREATE TABLE IF NOT EXISTS
     "wiki_description" TEXT NOT NULL,
     "rule_clarification" jsonb[],
     "play_as_id" INTEGER REFERENCES action_card ("id"),
+    "requirement_id" INTEGER REFERENCES requirement ("id"),
     "interact_id" INTEGER REFERENCES game_element ("id")
 );
 
@@ -223,7 +232,8 @@ CREATE TABLE IF NOT EXISTS
     "card_text" TEXT NOT NULL,
     "wiki_description" TEXT NOT NULL,
     "rule_clarifications" jsonb[],
-    "play_as_id" INTEGER[] REFERENCES action_card ("id"),
+    "play_as_id" INTEGER REFERENCES action_card ("id"),
+    "requirement_id" INTEGER REFERENCES requirement ("id"),
     "interact_id" INTEGER REFERENCES game_element ("id")
   );
 
