@@ -26,7 +26,7 @@
                 "source": "https://discord.com/channels/611272410880016390/611286336141393940/764655440771940363"
             }
         ],
-        "play_as_id": 0,
+        "play_as_id": 21,
         "interact_id": [
             {
                 "id": null,
@@ -44,7 +44,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -82,7 +91,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -91,12 +100,21 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 3,
+                "card": 0
             }
         ],
         "requirements": [
             {
-                "reactor": 0,
+                "reactor": 1,
                 "damage": 0,
                 "thruster": 0,
                 "shield": 0,
@@ -131,16 +149,16 @@
                 "source": "https://discord.com/channels/611272410880016390/611286336141393940/789733930076995595"
             }
         ],
-        "play_as_id": 0,
+        "play_as_id": 16,
         "interact_id": [
             {
                 "id": null,
                 "card_type": null,
                 "block_hazard": 0,
                 "block_hazard_die": 0,
-                "negate_hazard": 0,
-                "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "negate_hazard": null,
+                "negate_hazard_die": 1,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -149,7 +167,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -203,12 +230,12 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["crew"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -217,7 +244,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": true,
+                "supply": false,
+                "played": true,
+                "draw_pile": false,
+                "hand": false,
+                "action": 1,
+                "card": 0
             }
         ],
         "requirements": [
@@ -253,9 +289,9 @@
                 "card_type": null,
                 "block_hazard": 0,
                 "block_hazard_die": 0,
-                "negate_hazard": 0,
+                "negate_hazard": 1,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -264,7 +300,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 1,
+                "card": 1
             }
         ],
         "requirements": [
@@ -272,7 +317,7 @@
                 "reactor": 0,
                 "damage": 0,
                 "thruster": 0,
-                "shield": 0,
+                "shield": 1,
                 "crew": 0,
                 "flex": 0
             }
@@ -309,7 +354,7 @@
                 "source": "https://discord.com/channels/611272410880016390/611286336141393940/771451281088053298"
             }
         ],
-        "play_as_id": 0,
+        "play_as_id": 31,
         "interact_id": [
             {
                 "id": null,
@@ -318,7 +363,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -327,7 +372,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": true,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": true,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -355,7 +409,7 @@
         "altPrint": false,
         "cardText": "Play as a 1 Damage 3, +1 Action.",
         "wikiDescription": "Dana Powalki is a [[Crew]] card from the Base Game. They belong to the [[Magnomi]] faction.",
-        "play_as_id": 0,
+        "play_as_id": 3,
         "interact_id": [
             {
                 "id": null,
@@ -364,7 +418,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -373,7 +427,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 1,
+                "card": 0
             }
         ],
         "requirements": [
@@ -410,7 +473,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -419,7 +482,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": true,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": true,
+                "action": 0,
+                "card": 2
             }
         ],
         "requirements": [
@@ -478,21 +550,30 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["damage"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
-                "allies": 0,
+                "allies": null,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 1,
+                "card": 0
             }
         ],
         "requirements": [
@@ -536,7 +617,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -545,7 +626,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": true,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": true,
+                "hand": false,
+                "action": 1,
+                "card": 0
             }
         ],
         "requirements": [
@@ -589,7 +679,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -598,7 +688,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -647,7 +746,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -656,7 +755,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -701,7 +809,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -710,7 +818,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -748,7 +865,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -757,7 +874,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -795,7 +921,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -804,7 +930,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -853,7 +988,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -862,7 +997,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -900,7 +1044,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -909,7 +1053,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -953,7 +1106,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -962,7 +1115,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1000,7 +1162,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1009,7 +1171,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1058,7 +1229,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1067,7 +1238,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1111,7 +1291,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1120,7 +1300,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1158,7 +1347,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1167,7 +1356,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1216,7 +1414,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1225,7 +1423,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1274,7 +1481,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1283,7 +1490,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1327,7 +1543,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1336,7 +1552,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1380,7 +1605,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1389,7 +1614,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1427,7 +1661,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1436,7 +1670,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1480,7 +1723,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1489,7 +1732,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1527,7 +1779,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1536,7 +1788,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1574,7 +1835,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1583,7 +1844,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1621,7 +1891,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1630,7 +1900,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1668,7 +1947,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1677,7 +1956,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1715,7 +2003,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1724,7 +2012,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1768,7 +2065,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1777,7 +2074,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1821,7 +2127,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1830,7 +2136,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1868,7 +2183,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1877,7 +2192,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1915,7 +2239,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1924,7 +2248,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -1962,7 +2295,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -1971,7 +2304,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2020,7 +2362,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2029,7 +2371,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2067,7 +2418,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2076,7 +2427,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2114,7 +2474,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2123,7 +2483,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2161,7 +2530,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2170,7 +2539,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2208,7 +2586,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2217,7 +2595,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2261,7 +2648,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2270,7 +2657,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2308,7 +2704,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2317,7 +2713,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2355,7 +2760,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2364,7 +2769,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2402,7 +2816,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2411,7 +2825,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2449,7 +2872,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2458,7 +2881,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2502,7 +2934,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2511,7 +2943,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2549,7 +2990,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2558,7 +2999,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2596,7 +3046,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2605,7 +3055,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2643,7 +3102,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2652,7 +3111,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2690,7 +3158,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2699,7 +3167,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2737,7 +3214,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2746,7 +3223,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2784,7 +3270,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2793,7 +3279,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2831,7 +3326,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2840,7 +3335,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2889,7 +3393,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2898,7 +3402,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2942,7 +3455,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2951,7 +3464,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -2995,7 +3517,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3004,7 +3526,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3048,7 +3579,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3057,7 +3588,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3101,7 +3641,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3110,7 +3650,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3154,7 +3703,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3163,7 +3712,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3201,7 +3759,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3210,7 +3768,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3248,7 +3815,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3257,7 +3824,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3295,7 +3871,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3304,7 +3880,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3353,7 +3938,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3362,7 +3947,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3400,7 +3994,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3409,7 +4003,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3447,7 +4050,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3456,7 +4059,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3494,7 +4106,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3503,7 +4115,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3541,7 +4162,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3550,7 +4171,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3588,7 +4218,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3597,7 +4227,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3635,7 +4274,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3644,7 +4283,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3682,7 +4330,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3691,7 +4339,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3729,7 +4386,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3738,7 +4395,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3776,7 +4442,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3785,7 +4451,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3823,7 +4498,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3832,7 +4507,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3870,7 +4554,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3879,7 +4563,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3917,7 +4610,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3926,7 +4619,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -3964,7 +4666,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3973,7 +4675,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -4011,7 +4722,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4020,7 +4731,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -4058,7 +4778,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4067,7 +4787,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -4105,7 +4834,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4114,7 +4843,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -4152,7 +4890,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4161,7 +4899,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -4199,7 +4946,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4208,7 +4955,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [
@@ -4246,7 +5002,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": null,
+                "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4255,7 +5011,16 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false
+                "armory": false,
+                "trash": false,
+                "discard": false,
+                "discard_pile": false,
+                "supply": false,
+                "played": false,
+                "draw_pile": false,
+                "hand": false,
+                "action": 0,
+                "card": 0
             }
         ],
         "requirements": [

@@ -11,7 +11,7 @@ data_to_add = {
             "block_hazard_die": 0,
             "negate_hazard": 0,
             "negate_hazard_die": 0,
-            "roll_hazard_die": None,
+            "roll_hazard_die": 0,
             "roll_moonroller_die": 0,
             "gain_io": 0,
             "spend_io": 0,
@@ -20,7 +20,16 @@ data_to_add = {
             "credit": 0,
             "allies": 0,
             "objective_card": 0,
-            "armory": False
+            "armory": False,
+            "trash": False,
+            "discard": False,
+            "discard_pile": False,
+            "supply": False,
+            "played": False,
+            "draw_pile": False,
+            "hand": False,
+            "action": 0,
+            "card": 0
         }
     ],
     "requirements": [
