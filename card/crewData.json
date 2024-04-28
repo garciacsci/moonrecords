@@ -27,24 +27,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 2,
@@ -62,24 +74,36 @@
         "wikiDescription": "Ada Massa is a [[Crew]] card from the Base Game. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 3,
@@ -108,24 +132,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 4,
@@ -164,24 +200,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 5,
@@ -199,24 +247,36 @@
         "wikiDescription": "Bill Bendo is a [[Crew]] card from the Base Game. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 6,
@@ -250,24 +310,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 7,
@@ -284,24 +356,36 @@
         "cardText": "Play as a 1 Damage 3, +1 Action.",
         "wikiDescription": "Dana Powalki is a [[Crew]] card from the Base Game. They belong to the [[Magnomi]] faction.",
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 8,
@@ -318,24 +402,36 @@
         "cardText": "+2 Cards. Optional: Trash 1 Card from your hand.",
         "wikiDescription": "Kal Damar is a [[Crew]] card from the Base Game. They belong to the [[Ventus]] faction.",
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 9,
@@ -379,24 +475,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 10,
@@ -420,24 +528,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 11,
@@ -461,24 +581,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 12,
@@ -507,24 +639,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 13,
@@ -549,24 +693,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 14,
@@ -584,24 +740,36 @@
         "wikiDescription": "Myla Dystra is a [[Crew]] card from the Base Game. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 15,
@@ -619,24 +787,36 @@
         "wikiDescription": "Nella van Daval is a [[Crew]] card from the Base Game. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 16,
@@ -665,24 +845,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 17,
@@ -700,24 +892,36 @@
         "wikiDescription": "Ryle al Wren is a [[Crew]] card from the Base Game. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 18,
@@ -741,24 +945,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 19,
@@ -776,24 +992,36 @@
         "wikiDescription": "Tantin al Vale is a [[Crew]] card from the Base Game. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 20,
@@ -822,24 +1050,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 21,
@@ -863,24 +1103,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 22,
@@ -898,24 +1150,36 @@
         "wikiDescription": "Karma Kesa is a [[Crew]] card from the 1st Encounter micro expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 23,
@@ -944,24 +1208,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 24,
@@ -990,24 +1266,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 25,
@@ -1031,24 +1319,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 26,
@@ -1072,24 +1372,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 27,
@@ -1107,24 +1419,36 @@
         "wikiDescription": "Jes Ofra is a [[Crew]] card from the Shard micro expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 28,
@@ -1148,24 +1472,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 29,
@@ -1183,24 +1519,36 @@
         "wikiDescription": "Rez Vondu is a [[Crew]] card from the Shard micro expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 30,
@@ -1218,24 +1566,36 @@
         "wikiDescription": "Sol Forst is a [[Crew]] card from the Shard micro expansion. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 31,
@@ -1253,24 +1613,36 @@
         "wikiDescription": "Agamar is a [[Crew]] card from the Endless micro expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 32,
@@ -1288,24 +1660,36 @@
         "wikiDescription": "Aponi is a [[Crew]] card from the Endless micro expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 33,
@@ -1323,24 +1707,36 @@
         "wikiDescription": "Belan is a [[Crew]] card from the Endless micro expansion. They belong to a [[Special]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 34,
@@ -1364,24 +1760,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 35,
@@ -1405,24 +1813,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 36,
@@ -1440,24 +1860,36 @@
         "wikiDescription": "Naka is a [[Crew]] card from the Endless micro expansion. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 37,
@@ -1475,24 +1907,36 @@
         "wikiDescription": "Namari is a [[Crew]] card from the Endless micro expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 38,
@@ -1510,24 +1954,36 @@
         "wikiDescription": "Pentha is a [[Crew]] card from the Endless micro expansion. They belong to a [[Special]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 39,
@@ -1556,24 +2012,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 40,
@@ -1591,24 +2059,36 @@
         "wikiDescription": "Saghari is a [[Crew]] card from the Endless micro expansion. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 41,
@@ -1626,24 +2106,36 @@
         "wikiDescription": "Ark Tii is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 42,
@@ -1661,24 +2153,36 @@
         "wikiDescription": "Detra Lar is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 43,
@@ -1696,24 +2200,36 @@
         "wikiDescription": "Finneal Lee is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 44,
@@ -1737,24 +2253,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 45,
@@ -1772,24 +2300,36 @@
         "wikiDescription": "Kinta Lar is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 46,
@@ -1807,24 +2347,36 @@
         "wikiDescription": "Kyas IV is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 47,
@@ -1842,24 +2394,36 @@
         "wikiDescription": "Linus Farno is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 48,
@@ -1877,24 +2441,36 @@
         "wikiDescription": "Lynna Tragel is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 49,
@@ -1918,24 +2494,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 50,
@@ -1953,24 +2541,36 @@
         "wikiDescription": "The Warden is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 51,
@@ -1988,24 +2588,36 @@
         "wikiDescription": "Anka Kramer is a [[Crew]] card from the Overload expansion. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 52,
@@ -2023,24 +2635,36 @@
         "wikiDescription": "Armitage is a [[Crew]] card from the Overload expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 53,
@@ -2058,24 +2682,36 @@
         "wikiDescription": "Dae Arum is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 54,
@@ -2093,24 +2729,36 @@
         "wikiDescription": "Domi is a [[Crew]] card from the Overload expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 55,
@@ -2128,24 +2776,36 @@
         "wikiDescription": "FT-1000 is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 56,
@@ -2163,24 +2823,36 @@
         "wikiDescription": "Grinar Flok is a [[Crew]] card from the Overload expansion. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 57,
@@ -2209,24 +2881,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 58,
@@ -2250,24 +2934,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 59,
@@ -2291,24 +2987,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 60,
@@ -2332,24 +3040,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 61,
@@ -2373,24 +3093,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 62,
@@ -2414,24 +3146,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 63,
@@ -2449,24 +3193,36 @@
         "wikiDescription": "Ivan Guyril is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 64,
@@ -2484,24 +3240,36 @@
         "wikiDescription": "Kin Tobor is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 65,
@@ -2519,24 +3287,36 @@
         "wikiDescription": "Kurt Bilar is a [[Crew]] card from the Overload expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 66,
@@ -2565,24 +3345,36 @@
             }
         ],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 67,
@@ -2600,24 +3392,36 @@
         "wikiDescription": "Lyantoba Ga is a [[Crew]] card from the Overload expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 68,
@@ -2635,24 +3439,36 @@
         "wikiDescription": "Miska Rose is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 69,
@@ -2670,24 +3486,36 @@
         "wikiDescription": "Oleg Ali is a [[Crew]] card from the Overload expansion. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 70,
@@ -2705,24 +3533,36 @@
         "wikiDescription": "Pat Nungar is a [[Crew]] card from the Overload expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 71,
@@ -2740,24 +3580,36 @@
         "wikiDescription": "Amper is a [[Crew]] card from the Starfall expansion. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 72,
@@ -2775,24 +3627,36 @@
         "wikiDescription": "Avari is a [[Crew]] card from the Starfall expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 73,
@@ -2810,24 +3674,36 @@
         "wikiDescription": "Salatar is a [[Crew]] card from the Starfall expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 74,
@@ -2845,24 +3721,36 @@
         "wikiDescription": "Thegor is a [[Crew]] card from the Starfall expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 75,
@@ -2880,24 +3768,36 @@
         "wikiDescription": "Yarcon is a [[Crew]] card from the Starfall expansion. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 76,
@@ -2915,24 +3815,36 @@
         "wikiDescription": "Dr. Umbrage is a [[Crew]] card from the Dark Matter expansion. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 77,
@@ -2950,24 +3862,36 @@
         "wikiDescription": "HAZ3 is a [[Crew]] card from the Dark Matter expansion. They belong to a [[Special]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 78,
@@ -2985,24 +3909,36 @@
         "wikiDescription": "Imdar Shade is a [[Crew]] card from the Dark Matter expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 79,
@@ -3020,24 +3956,36 @@
         "wikiDescription": "Vanta Sae is a [[Crew]] card from the Dark Matter expansion. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 80,
@@ -3055,24 +4003,36 @@
         "wikiDescription": "Vila Noir is a [[Crew]] card from the Dark Matter expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 81,
@@ -3090,24 +4050,36 @@
         "wikiDescription": "AN-D3RS is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 82,
@@ -3125,24 +4097,36 @@
         "wikiDescription": "Fortunatus is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Sorelia]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 83,
@@ -3160,24 +4144,36 @@
         "wikiDescription": "Omnitus is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 84,
@@ -3195,24 +4191,36 @@
         "wikiDescription": "Oparia is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     },
     {
         "id": 85,
@@ -3230,23 +4238,35 @@
         "wikiDescription": "S4-LADCAT is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
         "play_as_id": 0,
-        "interact_id": {
-            "id": null,
-            "card_type": null,
-            "block_hazard": 0,
-            "block_hazard_die": 0,
-            "negate_hazard": 0,
-            "negate_hazard_die": 0,
-            "roll_hazard_die": null,
-            "roll_moonroller_die": 0,
-            "gain_io": 0,
-            "spend_io": 0,
-            "faction_rep": 0,
-            "prestiege": 0,
-            "credit": 0,
-            "allies": 0,
-            "objective_card": 0,
-            "armory": false
-        }
+        "interact_id": [
+            {
+                "id": null,
+                "card_type": null,
+                "block_hazard": 0,
+                "block_hazard_die": 0,
+                "negate_hazard": 0,
+                "negate_hazard_die": 0,
+                "roll_hazard_die": null,
+                "roll_moonroller_die": 0,
+                "gain_io": 0,
+                "spend_io": 0,
+                "faction_rep": 0,
+                "prestiege": 0,
+                "credit": 0,
+                "allies": 0,
+                "objective_card": 0,
+                "armory": false
+            }
+        ],
+        "requirements": [
+            {
+                "reactor": 0,
+                "damage": 0,
+                "thruster": 0,
+                "shield": 0,
+                "crew": 0,
+                "flex": 0
+            }
+        ]
     }
 ]

@@ -3,24 +3,36 @@ import json
 # Define the data to be added
 data_to_add = {
     "play_as_id": 0,
-    "interact_id": {
-        "id": None,
-        "card_type": None,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": None,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": False
-    }
+    "interact_id": [
+        {
+            "id": None,
+            "card_type": None,
+            "block_hazard": 0,
+            "block_hazard_die": 0,
+            "negate_hazard": 0,
+            "negate_hazard_die": 0,
+            "roll_hazard_die": None,
+            "roll_moonroller_die": 0,
+            "gain_io": 0,
+            "spend_io": 0,
+            "faction_rep": 0,
+            "prestiege": 0,
+            "credit": 0,
+            "allies": 0,
+            "objective_card": 0,
+            "armory": False
+        }
+    ],
+    "requirements": [
+        {
+            "reactor": 0,
+            "damage": 0,
+            "thruster": 0,
+            "shield": 0,
+            "crew": 0,
+            "flex": 0
+        }
+    ]
 }
 
 # List of files to update
