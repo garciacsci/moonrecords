@@ -111,8 +111,6 @@ CREATE TYPE crew_role AS ENUM(
   'Rift Bender'
 )
 
-
-
 CREATE TABLE IF NOT EXISTS
   "requirement" (
     "id" SERIAL PRIMARY KEY,
@@ -208,7 +206,7 @@ CREATE TABLE IF NOT EXISTS
     "faction" faction_type NOT NULL,
     "role" crew_role NOT NULL,
     "type" crew_type NOT NULL,
-    "height"varchar(16) NOT NULL,
+    "height" varchar(16) NOT NULL,
     "is_holographic" BOOLEAN NOT NULL,
     "is_gold_holographic" BOOLEAN NOT NULL DEFAULT FALSE,
     "alt_print" BOOLEAN NOT NULL,
@@ -243,9 +241,8 @@ CREATE TABLE IF NOT EXISTS
     "id" SERIAL PRIMARY KEY,
     "requirement_id" INTEGER REFERENCES requirement ("id"),
     "contract_type" contract_type,
-    "interact_id" INTEGER REFERENCES game_element ("id"),
-
-  )
+    "interact_id" INTEGER REFERENCES game_element ("id")
+  );
 
 CREATE TABLE IF NOT EXISTS
   "objective" (
