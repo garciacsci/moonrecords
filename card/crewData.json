@@ -674,7 +674,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["reactor"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -689,14 +689,14 @@
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
-                "discard": false,
-                "discard_pile": false,
-                "supply": false,
+                "trash": true,
+                "discard": true,
+                "discard_pile": true,
+                "supply": true,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -756,25 +756,25 @@
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
-                "hand": false,
-                "action": 0,
+                "hand": true,
+                "action": 1,
                 "card": 0
             }
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 2,
+                "damage": 2,
+                "thruster": 2,
+                "shield": 2,
+                "crew": 2,
+                "flex": 2
             }
         ]
     },
@@ -832,12 +832,12 @@
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 2,
+                "damage": 2,
+                "thruster": 2,
+                "shield": 2,
+                "crew": 2,
+                "flex": 2
             }
         ]
     },
@@ -876,14 +876,14 @@
                 "objective_card": 0,
                 "armory": false,
                 "trash": false,
-                "discard": false,
+                "discard": true,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
-                "card": 0
+                "action": 1,
+                "card": null
             }
         ],
         "requirements": [
@@ -939,14 +939,14 @@
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": 3
             }
         ],
         "requirements": [
             {
                 "reactor": 0,
                 "damage": 0,
-                "thruster": 0,
+                "thruster": 1,
                 "shield": 0,
                 "crew": 0,
                 "flex": 0
@@ -979,11 +979,11 @@
                 "source": "https://discord.com/channels/611272410880016390/611286336141393940/800156800724631553"
             }
         ],
-        "play_as_id": 0,
+        "play_as_id": 32,
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["damage"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -1006,7 +1006,7 @@
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": 2
             }
         ],
         "requirements": [
@@ -1043,7 +1043,7 @@
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
-                "negate_hazard_die": 0,
+                "negate_hazard_die": 2,
                 "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
@@ -1070,7 +1070,7 @@
                 "reactor": 0,
                 "damage": 0,
                 "thruster": 0,
-                "shield": 0,
+                "shield": 2,
                 "crew": 0,
                 "flex": 0
             }
@@ -1123,18 +1123,18 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
-                "card": 0
+                "action": 1,
+                "card": 1
             }
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 1,
+                "damage": 1,
+                "thruster": 1,
+                "shield": 1,
+                "crew": 1,
+                "flex": 1
             }
         ]
     },
@@ -1153,7 +1153,7 @@
         "cardText": "Play as a Damage 2 or a Shield.",
         "wikiDescription": "Tantin al Vale is a [[Crew]] card from the Base Game. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 17,
         "interact_id": [
             {
                 "id": null,
@@ -1224,7 +1224,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["damage", "miss", "reactor", "shield", "thruster", "dark_matter"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -1244,7 +1244,7 @@
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
-                "draw_pile": false,
+                "draw_pile": true,
                 "hand": false,
                 "action": 0,
                 "card": 0
@@ -1297,18 +1297,18 @@
                 "spend_io": 0,
                 "faction_rep": 0,
                 "prestiege": 0,
-                "credit": 0,
+                "credit": 3,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
-                "hand": false,
-                "action": 0,
+                "hand": true,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -1355,7 +1355,7 @@
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
-                "objective_card": 0,
+                "objective_card": 1,
                 "armory": false,
                 "trash": false,
                 "discard": false,
@@ -1364,7 +1364,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 3,
                 "card": 0
             }
         ],
@@ -1409,7 +1409,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["crew"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -1423,7 +1423,7 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false,
+                "armory": true,
                 "trash": false,
                 "discard": false,
                 "discard_pile": false,
@@ -1481,12 +1481,12 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": 0,
+                "roll_hazard_die": 1,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
-                "prestiege": 0,
+                "prestiege": 1,
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
@@ -1498,7 +1498,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -1538,7 +1538,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["damage"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -1560,7 +1560,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -1596,12 +1596,12 @@
                 "source": "https://discord.com/channels/611272410880016390/611286336141393940/878779560592814161"
             }
         ],
-        "play_as_id": 0,
+        "play_as_id": 1,
         "interact_id": [
             {
                 "id": null,
                 "card_type": null,
-                "block_hazard": 0,
+                "block_hazard": 2,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
@@ -1656,7 +1656,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["reactor", "thruster", "shield", "damage"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -1674,10 +1674,10 @@
                 "trash": false,
                 "discard": false,
                 "discard_pile": false,
-                "supply": false,
+                "supply": true,
                 "played": false,
                 "draw_pile": false,
-                "hand": false,
+                "hand": true,
                 "action": 0,
                 "card": 0
             }
@@ -1718,7 +1718,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["shield"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -1734,14 +1734,14 @@
                 "objective_card": 0,
                 "armory": false,
                 "trash": false,
-                "discard": false,
+                "discard": true,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": null
             }
         ],
         "requirements": [
@@ -1785,7 +1785,7 @@
                 "spend_io": 0,
                 "faction_rep": 0,
                 "prestiege": 0,
-                "credit": 0,
+                "credit": null,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
@@ -1796,7 +1796,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": null,
                 "card": 0
             }
         ],
@@ -1841,7 +1841,7 @@
                 "spend_io": 0,
                 "faction_rep": 0,
                 "prestiege": 0,
-                "credit": 0,
+                "credit": null,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
@@ -1853,7 +1853,7 @@
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": null
             }
         ],
         "requirements": [
@@ -1886,7 +1886,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["damage"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -1914,12 +1914,12 @@
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 1,
+                "damage": null,
+                "thruster": 1,
+                "shield": 1,
+                "crew": 1,
+                "flex": 1
             }
         ]
     },
@@ -1938,11 +1938,11 @@
         "cardText": "Play as a Reactor, gain +1 Card for every 2 Reactor cards already played, including this one.",
         "wikiDescription": "Aponi is a [[Crew]] card from the Endless micro expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 5,
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["reactor"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -1965,7 +1965,7 @@
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": null
             }
         ],
         "requirements": [
@@ -1999,7 +1999,7 @@
             {
                 "id": null,
                 "card_type": null,
-                "block_hazard": 0,
+                "block_hazard": 2,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
@@ -2020,18 +2020,18 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 2,
                 "card": 0
             }
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 1,
+                "damage": 1,
+                "thruster": 1,
+                "shield": 1,
+                "crew": 1,
+                "flex": 1
             }
         ]
     },
@@ -2047,7 +2047,7 @@
         "height": "7'03\"",
         "holographic": false,
         "altPrint": false,
-        "cardText": "Trash a card from your hand to gain +3 Cards. You main instead trash the top card of your deck to also negate a Hazard Die.",
+        "cardText": "Trash a card from your hand to gain +3 Cards. You may instead trash the top card of your deck to also negate a Hazard Die.",
         "wikiDescription": "Isabel is a [[Crew]] card from the Endless micro expansion. They belong to a [[Special]] faction.",
         "ruleClarifications": [
             {
@@ -2064,7 +2064,7 @@
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
-                "negate_hazard_die": 0,
+                "negate_hazard_die": 1,
                 "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
@@ -2075,15 +2075,15 @@
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
-                "draw_pile": false,
-                "hand": false,
+                "draw_pile": true,
+                "hand": true,
                 "action": 0,
-                "card": 0
+                "card": 3
             }
         ],
         "requirements": [
@@ -2132,10 +2132,10 @@
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
-                "prestiege": 0,
+                "prestiege": null,
                 "credit": 0,
-                "allies": 0,
-                "objective_card": 0,
+                "allies": 1,
+                "objective_card": 2,
                 "armory": false,
                 "trash": false,
                 "discard": false,
@@ -2144,7 +2144,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -2174,11 +2174,11 @@
         "cardText": "Play as a Thruster, gain +1 Action for each Thruster card already played, including this one.",
         "wikiDescription": "Naka is a [[Crew]] card from the Endless micro expansion. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 22,
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["thruster"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -2200,7 +2200,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": null,
                 "card": 0
             }
         ],
@@ -2230,11 +2230,11 @@
         "cardText": "Play as a Shield, gain +1 Card for each Shield card already played, including this one.",
         "wikiDescription": "Namari is a [[Crew]] card from the Endless micro expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 21,
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["shield"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -2257,7 +2257,7 @@
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": null
             }
         ],
         "requirements": [
@@ -2294,8 +2294,8 @@
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
-                "negate_hazard_die": 0,
-                "roll_hazard_die": 0,
+                "negate_hazard_die": 1,
+                "roll_hazard_die": 1,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -2318,12 +2318,12 @@
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 1,
+                "damage": 1,
+                "thruster": 1,
+                "shield": 1,
+                "crew": 1,
+                "flex": 1
             }
         ]
     },
@@ -2357,7 +2357,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["damage", "miss", "reactor", "shield", "thruster", "dark_matter"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -2367,15 +2367,15 @@
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
-                "prestiege": 0,
+                "prestiege": 1,
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
-                "supply": false,
+                "supply": true,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
@@ -2409,11 +2409,11 @@
         "cardText": "Play as a Damage 2, +1 Action for each Damage card already played, including this one.",
         "wikiDescription": "Saghari is a [[Crew]] card from the Endless micro expansion. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 2,
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["damage"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -2435,7 +2435,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": null,
                 "card": 0
             }
         ],
@@ -2478,7 +2478,7 @@
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": 1,
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
@@ -2491,7 +2491,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -2534,20 +2534,20 @@
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": 1,
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 3,
                 "card": 0
             }
         ],
@@ -2590,7 +2590,7 @@
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": null,
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
@@ -2603,7 +2603,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": null,
                 "card": 0
             }
         ],
@@ -2652,7 +2652,7 @@
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": null,
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
@@ -2672,7 +2672,7 @@
         "requirements": [
             {
                 "reactor": 0,
-                "damage": 0,
+                "damage": 4,
                 "thruster": 0,
                 "shield": 0,
                 "crew": 0,
@@ -2708,13 +2708,13 @@
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": 1,
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
@@ -2722,7 +2722,7 @@
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": 3
             }
         ],
         "requirements": [
@@ -2751,7 +2751,7 @@
         "cardText": "Play as a Damage 2. You may trash the top card of your draw pile to gain 2 Faction Rep.",
         "wikiDescription": "Kyas IV is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 2,
         "interact_id": [
             {
                 "id": null,
@@ -2764,18 +2764,18 @@
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": 2,
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
-                "draw_pile": false,
+                "draw_pile": true,
                 "hand": false,
                 "action": 0,
                 "card": 0
@@ -2807,7 +2807,7 @@
         "cardText": "Play as a Shield. You may spend 1 of your Faction Rep to gain 1 Faction Rep of any color.",
         "wikiDescription": "Linus Farno is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 21,
         "interact_id": [
             {
                 "id": null,
@@ -2820,7 +2820,7 @@
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": null,
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
@@ -2863,7 +2863,7 @@
         "cardText": "Play as a Shield. Roll an additional Hazard Die. +1 Faction Rep.",
         "wikiDescription": "Lynna Tragel is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 21,
         "interact_id": [
             {
                 "id": null,
@@ -2872,11 +2872,11 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": 0,
+                "roll_hazard_die": 1,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": 1,
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
@@ -2938,7 +2938,7 @@
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": null,
                 "prestiege": 0,
                 "credit": 0,
                 "allies": 0,
@@ -2957,12 +2957,12 @@
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 1,
+                "damage": 1,
+                "thruster": 1,
+                "shield": 1,
+                "crew": 1,
+                "flex": 1
             }
         ]
     },
@@ -2994,10 +2994,10 @@
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
-                "faction_rep": 0,
+                "faction_rep": 1,
                 "prestiege": 0,
                 "credit": 0,
-                "allies": 0,
+                "allies": null,
                 "objective_card": 0,
                 "armory": false,
                 "trash": false,
@@ -3008,7 +3008,7 @@
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": 2
             }
         ],
         "requirements": [
@@ -3057,14 +3057,14 @@
                 "objective_card": 0,
                 "armory": false,
                 "trash": false,
-                "discard": false,
+                "discard": true,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": 4
             }
         ],
         "requirements": [
@@ -3093,7 +3093,7 @@
         "cardText": "Play as a Shield and +1 Action, or you may trash this card to subtract 3 Shields from a contract requirement.",
         "wikiDescription": "Armitage is a [[Crew]] card from the Overload expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 21,
         "interact_id": [
             {
                 "id": null,
@@ -3112,14 +3112,14 @@
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -3128,7 +3128,7 @@
                 "reactor": 0,
                 "damage": 0,
                 "thruster": 0,
-                "shield": 0,
+                "shield": 3,
                 "crew": 0,
                 "flex": 0
             }
@@ -3163,7 +3163,7 @@
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
-                "prestiege": 0,
+                "prestiege": -1,
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
@@ -3181,12 +3181,12 @@
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 3,
+                "damage": 3,
+                "thruster": 3,
+                "shield": 3,
+                "crew": 3,
+                "flex": 3
             }
         ]
     },
@@ -3216,8 +3216,8 @@
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
-                "gain_io": 0,
-                "spend_io": 0,
+                "gain_io": 1,
+                "spend_io": 1,
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
@@ -3231,7 +3231,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -3265,7 +3265,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["miss"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -3279,26 +3279,26 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false,
+                "armory": true,
                 "trash": false,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
-                "hand": false,
+                "hand": true,
                 "action": 0,
                 "card": 0
             }
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 2,
+                "damage": 2,
+                "thruster": 2,
+                "shield": 2,
+                "crew": 2,
+                "flex": 2
             }
         ]
     },
@@ -3317,7 +3317,7 @@
         "cardText": "Play as a Damage 4. Roll an additional Hazard Dice.",
         "wikiDescription": "Grinar Flok is a [[Crew]] card from the Overload expansion. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 31,
         "interact_id": [
             {
                 "id": null,
@@ -3326,7 +3326,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": 0,
+                "roll_hazard_die": 1,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -3388,7 +3388,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["crew"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -3402,15 +3402,15 @@
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
-                "armory": false,
+                "armory": true,
                 "trash": false,
                 "discard": false,
-                "discard_pile": false,
+                "discard_pile": true,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -3457,8 +3457,8 @@
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
-                "gain_io": 0,
-                "spend_io": 0,
+                "gain_io": 3,
+                "spend_io": 1,
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
@@ -3473,7 +3473,7 @@
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": 1
             }
         ],
         "requirements": [
@@ -3519,8 +3519,8 @@
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
-                "gain_io": 0,
-                "spend_io": 0,
+                "gain_io": 3,
+                "spend_io": 1,
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
@@ -3581,8 +3581,8 @@
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
-                "gain_io": 0,
-                "spend_io": 0,
+                "gain_io": 3,
+                "spend_io": 1,
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
@@ -3596,7 +3596,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -3637,14 +3637,14 @@
             {
                 "id": null,
                 "card_type": null,
-                "block_hazard": 0,
+                "block_hazard": 1,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
-                "gain_io": 0,
-                "spend_io": 0,
+                "gain_io": 3,
+                "spend_io": 1,
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
@@ -3705,8 +3705,8 @@
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
-                "gain_io": 0,
-                "spend_io": 0,
+                "gain_io": 3,
+                "spend_io": 1,
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
@@ -3727,7 +3727,7 @@
         "requirements": [
             {
                 "reactor": 0,
-                "damage": 0,
+                "damage": 2,
                 "thruster": 0,
                 "shield": 0,
                 "crew": 0,
@@ -3766,12 +3766,12 @@
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
-                "allies": 0,
+                "allies": null,
                 "objective_card": 0,
                 "armory": false,
                 "trash": false,
                 "discard": false,
-                "discard_pile": false,
+                "discard_pile": true,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
@@ -3782,12 +3782,12 @@
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 2,
+                "damage": 2,
+                "thruster": 2,
+                "shield": 2,
+                "crew": 2,
+                "flex": 2
             }
         ]
     },
@@ -3821,17 +3821,17 @@
                 "spend_io": 0,
                 "faction_rep": 0,
                 "prestiege": 0,
-                "credit": 0,
+                "credit": 1,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
-                "hand": false,
+                "hand": true,
                 "action": 0,
                 "card": 0
             }
@@ -3866,7 +3866,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["reactor"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -3888,8 +3888,8 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
-                "card": 0
+                "action": 2,
+                "card": 2
             }
         ],
         "requirements": [
@@ -3933,7 +3933,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["reactor", "thruster", "shield", "damage", "miss"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -3948,13 +3948,13 @@
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
-                "supply": false,
+                "supply": true,
                 "played": false,
                 "draw_pile": false,
-                "hand": false,
+                "hand": true,
                 "action": 0,
                 "card": 0
             }
@@ -3990,7 +3990,7 @@
             {
                 "id": null,
                 "card_type": null,
-                "block_hazard": 0,
+                "block_hazard": 3,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
@@ -4001,12 +4001,12 @@
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
-                "allies": 0,
+                "allies": null,
                 "objective_card": 0,
                 "armory": false,
                 "trash": false,
                 "discard": false,
-                "discard_pile": false,
+                "discard_pile": true,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
@@ -4067,7 +4067,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": 1,
                 "card": 0
             }
         ],
@@ -4077,7 +4077,7 @@
                 "damage": 0,
                 "thruster": 0,
                 "shield": 0,
-                "crew": 0,
+                "crew": 1,
                 "flex": 0
             }
         ]
@@ -4113,7 +4113,7 @@
                 "faction_rep": 0,
                 "prestiege": 0,
                 "credit": 0,
-                "allies": 0,
+                "allies": null,
                 "objective_card": 0,
                 "armory": false,
                 "trash": false,
@@ -4124,7 +4124,7 @@
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": 3
             }
         ],
         "requirements": [
@@ -4158,7 +4158,7 @@
             {
                 "id": null,
                 "card_type": null,
-                "block_hazard": 0,
+                "block_hazard": 1,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
@@ -4172,15 +4172,15 @@
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
-                "hand": false,
-                "action": 0,
-                "card": 0
+                "hand": true,
+                "action": 1,
+                "card": 1
             }
         ],
         "requirements": [
@@ -4209,7 +4209,7 @@
         "cardText": "Roll a die: [[Hazard 0]] Play as a Damage 4. [[Hazard 1]] Play as a Damage 2. [[Hazard 2]] +1 Hazard.",
         "wikiDescription": "Amper is a [[Crew]] card from the Starfall expansion. They belong to the [[Magnomi]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 31,
         "interact_id": [
             {
                 "id": null,
@@ -4218,7 +4218,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": 0,
+                "roll_hazard_die": 1,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4274,17 +4274,17 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": 0,
+                "roll_hazard_die": 1,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
-                "prestiege": 0,
-                "credit": 0,
+                "prestiege": 1,
+                "credit": -1,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
                 "discard_pile": false,
                 "supply": false,
@@ -4321,7 +4321,7 @@
         "cardText": "Roll a die: [[Hazard 0]] Play as 2 Reactors. [[Hazard 1]] Play as a Reactor. [[Hazard 2]] Lose an Action.",
         "wikiDescription": "Salatar is a [[Crew]] card from the Starfall expansion. They belong to the [[Komek]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 20,
         "interact_id": [
             {
                 "id": null,
@@ -4330,7 +4330,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": 0,
+                "roll_hazard_die": 1,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4347,7 +4347,7 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
+                "action": -1,
                 "card": 0
             }
         ],
@@ -4377,16 +4377,16 @@
         "cardText": "Roll a die: [[Hazard 0]] Block all of your Hazard. [[Hazard 1]] Play as a Shield. [[Hazard 2]] +1 Hazard.",
         "wikiDescription": "Thegor is a [[Crew]] card from the Starfall expansion. They belong to the [[Henko]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 21,
         "interact_id": [
             {
                 "id": null,
                 "card_type": null,
-                "block_hazard": 0,
+                "block_hazard": null,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": 0,
+                "roll_hazard_die": 1,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4433,7 +4433,7 @@
         "cardText": "Roll a die: [[Hazard 0]] Play as 2 Thrusters. [[Hazard 1]] Play as a Thruster. [[Hazard 2]] Discard 2 cards.",
         "wikiDescription": "Yarcon is a [[Crew]] card from the Starfall expansion. They belong to the [[Ventus]] faction.",
         "ruleClarifications": [],
-        "play_as_id": 0,
+        "play_as_id": 22,
         "interact_id": [
             {
                 "id": null,
@@ -4442,7 +4442,7 @@
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
-                "roll_hazard_die": 0,
+                "roll_hazard_die": 1,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
                 "spend_io": 0,
@@ -4453,7 +4453,7 @@
                 "objective_card": 0,
                 "armory": false,
                 "trash": false,
-                "discard": false,
+                "discard": true,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
@@ -4493,7 +4493,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["dark_matter"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -4508,10 +4508,10 @@
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
-                "discard_pile": false,
-                "supply": false,
+                "discard_pile": true,
+                "supply": true,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
@@ -4522,7 +4522,7 @@
         "requirements": [
             {
                 "reactor": 0,
-                "damage": 0,
+                "damage": 6,
                 "thruster": 0,
                 "shield": 0,
                 "crew": 0,
@@ -4549,7 +4549,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["dark_matter"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -4560,14 +4560,14 @@
                 "spend_io": 0,
                 "faction_rep": 0,
                 "prestiege": 0,
-                "credit": 0,
+                "credit": 5,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
-                "discard_pile": false,
-                "supply": false,
+                "discard_pile": true,
+                "supply": true,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
@@ -4605,11 +4605,11 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["dark_matter"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
-                "negate_hazard_die": 0,
+                "negate_hazard_die": null,
                 "roll_hazard_die": 0,
                 "roll_moonroller_die": 0,
                 "gain_io": 0,
@@ -4620,10 +4620,10 @@
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
-                "discard_pile": false,
-                "supply": false,
+                "discard_pile": true,
+                "supply": true,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
@@ -4661,7 +4661,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["dark_matter"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -4671,15 +4671,15 @@
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
-                "prestiege": 0,
+                "prestiege": 1,
                 "credit": 0,
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
-                "discard_pile": false,
-                "supply": false,
+                "discard_pile": true,
+                "supply": true,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
@@ -4717,7 +4717,7 @@
         "interact_id": [
             {
                 "id": null,
-                "card_type": null,
+                "card_type": ["dark_matter"],
                 "block_hazard": 0,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
@@ -4732,15 +4732,15 @@
                 "allies": 0,
                 "objective_card": 0,
                 "armory": false,
-                "trash": false,
+                "trash": true,
                 "discard": false,
-                "discard_pile": false,
-                "supply": false,
+                "discard_pile": true,
+                "supply": true,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
-                "card": 0
+                "action": 3,
+                "card": 3
             }
         ],
         "requirements": [
@@ -4779,7 +4779,7 @@
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
-                "roll_moonroller_die": 0,
+                "roll_moonroller_die": 3,
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
@@ -4789,14 +4789,14 @@
                 "objective_card": 0,
                 "armory": false,
                 "trash": false,
-                "discard": false,
+                "discard": true,
                 "discard_pile": false,
                 "supply": false,
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
                 "action": 0,
-                "card": 0
+                "card": 6
             }
         ],
         "requirements": [
@@ -4835,7 +4835,7 @@
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
-                "roll_moonroller_die": 0,
+                "roll_moonroller_die": 1,
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
@@ -4857,12 +4857,12 @@
         ],
         "requirements": [
             {
-                "reactor": 0,
-                "damage": 0,
-                "thruster": 0,
-                "shield": 0,
-                "crew": 0,
-                "flex": 0
+                "reactor": 1,
+                "damage": 1,
+                "thruster": 1,
+                "shield": 1,
+                "crew": 1,
+                "flex": 1
             }
         ]
     },
@@ -4891,7 +4891,7 @@
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
-                "roll_moonroller_die": 0,
+                "roll_moonroller_die": 3,
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
@@ -4907,8 +4907,8 @@
                 "played": false,
                 "draw_pile": false,
                 "hand": false,
-                "action": 0,
-                "card": 0
+                "action": 6,
+                "card": 6
             }
         ],
         "requirements": [
@@ -4947,7 +4947,7 @@
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
-                "roll_moonroller_die": 0,
+                "roll_moonroller_die": 5,
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
@@ -4970,7 +4970,7 @@
         "requirements": [
             {
                 "reactor": 0,
-                "damage": 0,
+                "damage": 10,
                 "thruster": 0,
                 "shield": 0,
                 "crew": 0,
@@ -4998,12 +4998,12 @@
             {
                 "id": null,
                 "card_type": null,
-                "block_hazard": 0,
+                "block_hazard": 4,
                 "block_hazard_die": 0,
                 "negate_hazard": 0,
                 "negate_hazard_die": 0,
                 "roll_hazard_die": 0,
-                "roll_moonroller_die": 0,
+                "roll_moonroller_die": 4,
                 "gain_io": 0,
                 "spend_io": 0,
                 "faction_rep": 0,
@@ -5028,7 +5028,7 @@
                 "reactor": 0,
                 "damage": 0,
                 "thruster": 0,
-                "shield": 0,
+                "shield": 4,
                 "crew": 0,
                 "flex": 0
             }
