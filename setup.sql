@@ -223,7 +223,7 @@ CREATE TABLE IF NOT EXISTS
     "card_text" TEXT NOT NULL,
     "wiki_description" TEXT NOT NULL,
     "rule_clarifications" jsonb[],
-    "play_as_id" INTEGER[] REFERENCES action_card ("id"),
+    "play_as_id" INTEGER REFERENCES action_card ("id"),
     "interact_id" INTEGER REFERENCES game_element ("id")
   );
 
