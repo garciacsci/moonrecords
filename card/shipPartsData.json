@@ -253,7 +253,46 @@
         "description": "If there are no more [[Miss]] in the armory, you get nothing.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1076365839651057734"
       }
-    ]
+    ],
+    "play_as_id": {
+      "id": 3,
+      "name": "Damage 3",
+      "collection": "Base game",
+      "image": "/action_cards/base/Damage_3.jpg",
+      "cardText": "+3 Damage",
+      "requirements": {
+        "reactor": 0,
+        "damage": 3,
+        "thruster": 0,
+        "shield": 0,
+        "crew": 0,
+        "flex": 0
+      },
+      "cardType": "damage",
+      "hazard": 0,
+      "action": 0,
+      "card": 0,
+      "is_default_loadout": false,
+      "discrete": true
+    },
+    "interact_id":  {
+      "id": null,
+      "card_type": ["Damage", "Miss"],
+      "block_hazard": 0,
+      "block_hazard_die": 0,
+      "negate_hazard": 0,
+      "negate_hazard_die": 0,
+      "roll_hazard_die": null,
+      "roll_moonroller_die": 0,
+      "gain_io": 0,
+      "spend_io": 0,
+      "faction_rep": 0,
+      "prestiege": 0,
+      "credit": 0,
+      "allies": 0,
+      "objective_card": 0,
+      "armory": false
+    }
   },
   {
     "id": 14,

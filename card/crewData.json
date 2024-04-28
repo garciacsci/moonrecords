@@ -10,6 +10,7 @@
     "type": "Paladin",
     "height": "5'10\"",
     "holographic": true,
+    "goldHolographic": false,
     "altPrint": false,
     "cardText": "Play as a Shield. Re-roll any number of your Hazard Dice.",
     "wikiDescription": "[REDACTED] is a [[Crew]] card from the Base Game. They belong to the [[Henko]] faction.",
@@ -24,7 +25,40 @@
         "description": "After being played, [REDACTED] trigger descriptions regarding [[Shield]] cards, including {{objectives/Shield Wall}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/764655440771940363"
       }
-    ]
+    ],
+    "play_as_id": {
+      "id": 6,
+      "name": "Shield",
+      "collection": "Base game",
+      "image": "/action_cards/base/Shield.jpg",
+      "cardText": "Block 1 Hazard",
+      "requirements": {
+        "reactor": 0,
+        "damage": 0,
+        "thruster": 0,
+        "shield": 1,
+        "crew": 0,
+        "flex": 0
+      },
+      "interact_id": {
+        "id": null,
+        "card_type": null,
+        "block_hazard": 0,
+        "block_hazard_die": 0,
+        "negate_hazard": 0,
+        "negate_hazard_die": 0,
+        "roll_hazard_die": null,
+        "roll_moonroller_die": 0,
+        "gain_io": 0,
+        "spend_io": 0,
+        "faction_rep": 0,
+        "prestiege": 0,
+        "credit": 0,
+        "allies": 0,
+        "objective_card": 0,
+        "armory": false
+      }
+    }
   },
   {
     "id": 2,
