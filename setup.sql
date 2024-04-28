@@ -133,7 +133,7 @@ CREATE TABLE IF NOT EXISTS
     "bonus_card" INTEGER NOT NULL,
     "prototype" INTEGER NOT NULL,
     "second_place" INTEGER NOT NULL,
-    "faction_rep" faction_type
+    "faction_rep" faction_type NULL
   );
 
 CREATE TABLE IF NOT EXISTS
@@ -150,7 +150,6 @@ CREATE TABLE IF NOT EXISTS
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
     "hazard_die" INTEGER NOT NULL,
     "reward_id" INTEGER REFERENCES "reward" ("id"),
-    "card_type" card_type NOT NULL
   );
 
 CREATE TABLE IF NOT EXISTS
@@ -164,7 +163,7 @@ CREATE TABLE IF NOT EXISTS
     "action" INTEGER NOT NULL,
     "card" INTEGER NOT NULL,
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
-    "card_type" card_type_enum NOT NULL,
+    "card_type" card_type NOT NULL,
     "is_default_loadout" BOOLEAN NOT NULL DEFAULT FALSE,
     "discrete" BOOLEAN NOT NULL DEFAULT FALSE,
   );
