@@ -1,5 +1,5 @@
 CREATE TYPE "collection_type" AS ENUM(
-  'Base Game',
+  'Base game',
   '1st encounter',
   'Shard',
   'Binding ties',
@@ -109,7 +109,7 @@ CREATE TYPE crew_role AS ENUM(
   'Kelvari',
   'Symbiont',
   'Rift Bender'
-)
+);
 
 CREATE TABLE IF NOT EXISTS
   "requirement" (
@@ -146,7 +146,7 @@ CREATE TABLE IF NOT EXISTS
     "holographic" BOOLEAN NOT NULL,
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
     "hazard_die" INTEGER NOT NULL,
-    "reward_id" INTEGER REFERENCES "reward" ("id"),
+    "reward_id" INTEGER REFERENCES "reward" ("id")
   );
 
 CREATE TABLE IF NOT EXISTS
@@ -162,7 +162,7 @@ CREATE TABLE IF NOT EXISTS
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
     "card_type" card_type NOT NULL,
     "is_default_loadout" BOOLEAN NOT NULL DEFAULT FALSE,
-    "discrete" BOOLEAN NOT NULL DEFAULT FALSE,
+    "discrete" BOOLEAN NOT NULL DEFAULT FALSE
   );
 
 -- set either as null or as 0 when that specific card has no effect
@@ -221,6 +221,7 @@ CREATE TABLE IF NOT EXISTS
 CREATE TABLE IF NOT EXISTS
   "ship_part" (
     "id" SERIAL PRIMARY KEY,
+    "name" TEXT NOT NULL,
     "collection" collection_type NOT NULL,
     "image" TEXT NOT NULL,
     "cost" INTEGER NOT NULL,
