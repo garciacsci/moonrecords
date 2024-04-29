@@ -160,7 +160,7 @@ CREATE TABLE IF NOT EXISTS
     "action" INTEGER NOT NULL,
     "card" INTEGER NOT NULL,
     "requirement_id" INTEGER REFERENCES "requirement" ("id"),
-    "card_type" card_type NOT NULL,
+    "card_type" card_type,
     "is_default_loadout" BOOLEAN NOT NULL DEFAULT FALSE,
     "discrete" BOOLEAN NOT NULL DEFAULT FALSE
   );
@@ -226,7 +226,7 @@ CREATE TABLE IF NOT EXISTS
     "image" TEXT NOT NULL,
     "cost" INTEGER NOT NULL,
     "faction" faction_type NOT NULL,
-    "cards" INTEGER REFERENCES action_card ("id")
+    "cards" card_type,
     "is_holographic" BOOLEAN NOT NULL,
     "alt_print" BOOLEAN NOT NULL,
     "card_text" TEXT NOT NULL,
