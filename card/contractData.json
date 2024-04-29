@@ -2,11 +2,11 @@
   {
     "id": 1,
     "name": "Abandoned Vessel",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Abandoned_Vessel.jpg",
     "type": "Explore Contract",
-    "contract_id": "30794",
-    "card_text": "",
+    "contractId": "30794",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
@@ -17,1106 +17,1106 @@
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 4,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 2,
     "name": "Admiral's Flagship",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Admirals_Flagship.jpg",
     "type": "Kill Contract",
-    "contract_id": "10068",
-    "card_text": "",
+    "contractId": "10068",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 5,
+      "reactors": 5,
       "damage": 8,
-      "thruster": 0,
-      "shield": 5,
+      "thrusters": 0,
+      "shields": 5,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 11,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 3,
     "name": "Ancient Ruins",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Ancient_Ruins.jpg",
     "type": "Explore Contract",
-    "contract_id": "13583",
-    "card_text": "",
+    "contractId": "13583",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 0,
-      "thruster": 4,
-      "shield": 0,
+      "thrusters": 4,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 4,
     "name": "Assault on Vilonia",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Assault_on_Vilonia.jpg",
     "type": "Kill Contract",
-    "contract_id": "13893",
-    "card_text": "",
+    "contractId": "13893",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 8,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 5,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 5,
     "name": "Asteroid Field",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Asteroid_Field.jpg",
     "type": "Explore Contract",
-    "contract_id": "12017",
-    "card_text": "",
+    "contractId": "12017",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 3,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 6,
     "name": "Black Hole",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Black_Hole.jpg",
     "type": "Explore Contract",
-    "contract_id": "20070",
-    "card_text": "",
+    "contractId": "20070",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 0,
-      "thruster": 4,
-      "shield": 0,
+      "thrusters": 4,
+      "shields": 0,
       "crew": 5,
       "flex": 0
     },
-    "hazard_die": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 12,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 7,
     "name": "Blockade Run",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Blockade_Run.jpg",
     "type": "Delivery Contract",
-    "contract_id": "31172",
-    "card_text": "",
+    "contractId": "31172",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 1,
-      "shield": 1,
+      "thrusters": 1,
+      "shields": 1,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 0,
+    "hazards": 0,
     "rewards": {
       "prestige": 0,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 8,
     "name": "Bomber Screen",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Bomber_Screen.jpg",
     "type": "Kill Contract",
-    "contract_id": "19371",
-    "card_text": "",
+    "contractId": "19371",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 6,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 9,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 9,
     "name": "Bounty Hunters",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Bounty_Hunters.jpg",
     "type": "Kill Contract",
-    "contract_id": "20320",
-    "card_text": "",
+    "contractId": "20320",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 6,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 2,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 10,
     "name": "Claim Bounty",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Claim_Bounty.jpg",
     "type": "Kill Contract",
-    "contract_id": "21008",
-    "card_text": "",
+    "contractId": "21008",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 2,
+      "reactors": 2,
       "damage": 3,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 11,
     "name": "Core World Ace",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Core_World_Ace.jpg",
     "type": "Kill Contract",
-    "contract_id": "24273",
-    "card_text": "",
+    "contractId": "24273",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 5,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 12,
     "name": "Cryogenic Pods",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Cryogenic_Pods.jpg",
     "type": "Rescue Contract",
-    "contract_id": "32186",
-    "card_text": "",
+    "contractId": "32186",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 0,
-      "thruster": 0,
-      "shield": 4,
+      "thrusters": 0,
+      "shields": 4,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 13,
     "name": "Derelict Planet",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Derelict_Planet.jpg",
     "type": "Explore Contract",
-    "contract_id": "30655",
-    "card_text": "",
+    "contractId": "30655",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 5,
+      "reactors": 5,
       "damage": 0,
-      "thruster": 2,
-      "shield": 0,
+      "thrusters": 2,
+      "shields": 0,
       "crew": 3,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 14,
     "name": "Distress Beacon",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Distress_Beacon.jpg",
     "type": "Explore Contract",
-    "contract_id": "15325",
-    "card_text": "",
+    "contractId": "15325",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 3,
+      "reactors": 3,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 1,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 15,
     "name": "Elite Squadron",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Elite_Squadron.jpg",
     "type": "Kill Contract",
-    "contract_id": "14673",
-    "card_text": "",
+    "contractId": "14673",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 8,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 4,
       "credits": 6,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 16,
     "name": "Emergency Meds",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Emergency_Meds.jpg",
     "type": "Delivery Contract",
-    "contract_id": "15307",
-    "card_text": "",
+    "contractId": "15307",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 3,
+      "reactors": 3,
       "damage": 4,
-      "thruster": 4,
-      "shield": 0,
+      "thrusters": 4,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 17,
     "name": "Envoy in Distress",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Envoy_in_Distress.jpg",
     "type": "Rescue Contract",
-    "contract_id": "34103",
-    "card_text": "",
+    "contractId": "34103",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 2,
-      "thruster": 0,
-      "shield": 2,
+      "thrusters": 0,
+      "shields": 2,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 2,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 18,
     "name": "Escape Pods",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Escape_Pods.jpg",
     "type": "Rescue Contract",
-    "contract_id": "34402",
-    "card_text": "",
+    "contractId": "34402",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 3,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 19,
     "name": "Escort Duty",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Escort_Duty.jpg",
     "type": "Delivery Contract",
-    "contract_id": "10854",
-    "card_text": "",
+    "contractId": "10854",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 1,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 2,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 20,
     "name": "Fuel Shortage",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Fuel_Shortage.jpg",
     "type": "Delivery Contract",
-    "contract_id": "27016",
-    "card_text": "",
+    "contractId": "27016",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 2,
-      "thruster": 2,
-      "shield": 0,
+      "thrusters": 2,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 21,
     "name": "Icarus Run",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Icarus_Run.jpg",
     "type": "Rescue Contract",
-    "contract_id": "23642",
-    "card_text": "",
+    "contractId": "23642",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 3,
-      "shield": 3,
+      "thrusters": 3,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 22,
     "name": "Kill Slavers",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Kill_Slavers.jpg",
     "type": "Kill Contract",
-    "contract_id": "31673",
-    "card_text": "",
+    "contractId": "31673",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 1,
-      "thruster": 1,
-      "shield": 0,
+      "thrusters": 1,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 0,
+    "hazards": 0,
     "rewards": {
       "prestige": 0,
       "credits": 4,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 23,
     "name": "Martial Law",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Martial_Law.jpg",
     "type": "Rescue Contract",
-    "contract_id": "12305",
-    "card_text": "",
+    "contractId": "12305",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 2,
+      "thrusters": 0,
+      "shields": 2,
       "crew": 2,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 4,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 24,
     "name": "Munitions Stockpile",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Munitions_Stockpile.jpg",
     "type": "Delivery Contract",
-    "contract_id": "10514",
-    "card_text": "",
+    "contractId": "10514",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 4,
-      "shield": 3,
+      "thrusters": 4,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 25,
     "name": "Negotiation Insurance",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Negotiation_Insurance.jpg",
     "type": "Delivery Contract",
-    "contract_id": "10866",
-    "card_text": "",
+    "contractId": "10866",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 1,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 2,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 26,
     "name": "Nova Bloom",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Nova_Bloom.jpg",
     "type": "Explore Contract",
-    "contract_id": "20706",
-    "card_text": "",
+    "contractId": "20706",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 5,
+      "reactors": 5,
       "damage": 0,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 27,
     "name": "Pirate Treasure",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Pirate_Treasure.jpg",
     "type": "Explore Contract",
-    "contract_id": "34903",
-    "card_text": "",
+    "contractId": "34903",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 2,
+      "reactors": 2,
       "damage": 0,
-      "thruster": 0,
-      "shield": 1,
+      "thrusters": 0,
+      "shields": 1,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 2,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 28,
     "name": "Prison Moon",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Prison_Moon.jpg",
     "type": "Rescue Contract",
-    "contract_id": "30513",
-    "card_text": "",
+    "contractId": "30513",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 2,
-      "thruster": 4,
-      "shield": 5,
+      "thrusters": 4,
+      "shields": 5,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 10,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 29,
     "name": "Probe Recovery",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Probe_Recovery.jpg",
     "type": "Explore Contract",
-    "contract_id": "24722",
-    "card_text": "",
+    "contractId": "24722",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 3,
+      "reactors": 3,
       "damage": 0,
-      "thruster": 2,
-      "shield": 0,
+      "thrusters": 2,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 2,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 30,
     "name": "Proof of Life",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Proof_of_Life.jpg",
     "type": "Delivery Contract",
-    "contract_id": "32052",
-    "card_text": "",
+    "contractId": "32052",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 0,
-      "thruster": 4,
-      "shield": 0,
+      "thrusters": 4,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 4,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 31,
     "name": "Reactor Failure",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Reactor_Failure.jpg",
     "type": "Rescue Contract",
-    "contract_id": "18875",
-    "card_text": "",
+    "contractId": "18875",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 1,
+      "reactors": 1,
       "damage": 0,
-      "thruster": 0,
-      "shield": 1,
+      "thrusters": 0,
+      "shields": 1,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 0,
+    "hazards": 0,
     "rewards": {
       "prestige": 0,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 32,
     "name": "Refugee Crisis",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Refugee_Crisis.jpg",
     "type": "Delivery Contract",
-    "contract_id": "17576",
-    "card_text": "",
+    "contractId": "17576",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 2,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 33,
     "name": "Resistance Leader",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Resistance_Leader.jpg",
     "type": "Rescue Contract",
-    "contract_id": "17217",
-    "card_text": "",
+    "contractId": "17217",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 2,
-      "shield": 4,
+      "thrusters": 2,
+      "shields": 4,
       "crew": 2,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 4,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 34,
     "name": "Rival Pirate Gang",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Rival_Pirate_Gang.jpg",
     "type": "Kill Contract",
-    "contract_id": "29152",
-    "card_text": "",
+    "contractId": "29152",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 2,
-      "thruster": 0,
-      "shield": 1,
+      "thrusters": 0,
+      "shields": 1,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 35,
     "name": "Royal Cargo",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Royal_Cargo.jpg",
     "type": "Delivery Contract",
-    "contract_id": "17010",
-    "card_text": "",
+    "contractId": "17010",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 5,
-      "thruster": 5,
-      "shield": 0,
+      "thrusters": 5,
+      "shields": 0,
       "crew": 2,
       "flex": 0
     },
-    "hazard_die": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 10,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 36,
     "name": "Scout Cruiser",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Scout_Cruiser.jpg",
     "type": "Kill Contract",
-    "contract_id": "30332",
-    "card_text": "",
+    "contractId": "30332",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 5,
-      "thruster": 0,
-      "shield": 2,
+      "thrusters": 0,
+      "shields": 2,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 37,
     "name": "Space Anomaly",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Space_Anomaly.jpg",
     "type": "Explore Contract",
-    "contract_id": "28043",
-    "card_text": "",
+    "contractId": "28043",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 1,
+      "reactors": 1,
       "damage": 1,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 0,
+    "hazards": 0,
     "rewards": {
       "prestige": 0,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 38,
     "name": "Stim Run",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Stim_Run.jpg",
     "type": "Delivery Contract",
-    "contract_id": "10089",
-    "card_text": "",
+    "contractId": "10089",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 1,
+      "reactors": 1,
       "damage": 0,
-      "thruster": 2,
-      "shield": 0,
+      "thrusters": 2,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 2,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 39,
     "name": "Supernova Escape",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Supernova_Escape.jpg",
     "type": "Rescue Contract",
-    "contract_id": "32169",
-    "card_text": "",
+    "contractId": "32169",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 1,
-      "shield": 2,
+      "thrusters": 1,
+      "shields": 2,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
     "id": 40,
     "name": "Transport Rescue",
-    "collection": "Base Game",
+    "collection": "Base game",
     "image": "/contracts/base/Transport_Rescue.jpg",
     "type": "Rescue Contract",
-    "contract_id": "21014",
-    "card_text": "",
+    "contractId": "21014",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 2,
+      "thrusters": 0,
+      "shields": 2,
       "crew": 1,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1125,26 +1125,26 @@
     "collection": "1st encounter",
     "image": "/contracts/1st_encounter/Boarding_Action.jpg",
     "type": "Explore Contract",
-    "contract_id": "20070",
-    "card_text": "",
+    "contractId": "20070",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 5,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 4,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 4,
       "credits": 0,
-      "bonus_card": 2,
-      "faction_rep": "",
+      "bonusCard": 2,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1153,26 +1153,26 @@
     "collection": "1st encounter",
     "image": "/contracts/1st_encounter/Decoy_Target.jpg",
     "type": "Rescue Contract",
-    "contract_id": "56787",
-    "card_text": "",
+    "contractId": "56787",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 4,
-      "shield": 4,
+      "thrusters": 4,
+      "shields": 4,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 0,
-      "bonus_card": 3,
-      "faction_rep": "",
+      "bonusCard": 3,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1181,26 +1181,26 @@
     "collection": "1st encounter",
     "image": "/contracts/1st_encounter/First_Contact.jpg",
     "type": "Explore Contract",
-    "contract_id": "05765",
-    "card_text": "",
+    "contractId": "05765",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 5,
+      "reactors": 5,
       "damage": 0,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 0,
-      "bonus_card": 2,
-      "faction_rep": "",
+      "bonusCard": 2,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1209,26 +1209,26 @@
     "collection": "1st encounter",
     "image": "/contracts/1st_encounter/Focused_Fire.jpg",
     "type": "Kill Contract",
-    "contract_id": "23457",
-    "card_text": "",
+    "contractId": "23457",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 6,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 0,
-      "bonus_card": 3,
-      "faction_rep": "",
+      "bonusCard": 3,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1237,26 +1237,26 @@
     "collection": "1st encounter",
     "image": "/contracts/1st_encounter/Gauntlet_Run.jpg",
     "type": "Delivery Contract",
-    "contract_id": "13468",
-    "card_text": "",
+    "contractId": "13468",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 4,
-      "thruster": 4,
-      "shield": 0,
+      "thrusters": 4,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 0,
-      "bonus_card": 2,
-      "faction_rep": "",
+      "bonusCard": 2,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1265,26 +1265,26 @@
     "collection": "Shard",
     "image": "/contracts/shard/Decoy_Convoy.jpg",
     "type": "Rescue Contract",
-    "contract_id": "23457",
-    "card_text": "",
+    "contractId": "23457",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 3,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1293,26 +1293,26 @@
     "collection": "Shard",
     "image": "/contracts/shard/Deep_Space_Scan.jpg",
     "type": "Explore Contract",
-    "contract_id": "56787",
-    "card_text": "",
+    "contractId": "56787",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 0,
-      "thruster": 0,
-      "shield": 4,
+      "thrusters": 0,
+      "shields": 4,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 2,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1321,26 +1321,26 @@
     "collection": "Shard",
     "image": "/contracts/shard/Hostage_Extraction.jpg",
     "type": "Rescue Contract",
-    "contract_id": "20070",
-    "card_text": "",
+    "contractId": "20070",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 2,
+      "thrusters": 0,
+      "shields": 2,
       "crew": 3,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1349,26 +1349,26 @@
     "collection": "Shard",
     "image": "/contracts/shard/Hunt_the_Hunter.jpg",
     "type": "Kill Contract",
-    "contract_id": "05765",
-    "card_text": "",
+    "contractId": "05765",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 7,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1377,26 +1377,26 @@
     "collection": "Shard",
     "image": "/contracts/shard/Illegal_Munitions.jpg",
     "type": "Delivery Contract",
-    "contract_id": "13468",
-    "card_text": "",
+    "contractId": "13468",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 4,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1405,26 +1405,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/Emergency_Council.jpg",
     "type": "Delivery Contract",
-    "contract_id": "78185",
-    "card_text": "",
+    "contractId": "78185",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 3,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "Sorelia",
+      "bonusCard": 0,
+      "factionRep": "Sorelia",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1433,26 +1433,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/Infiltration_Plan.jpg",
     "type": "Rescue Contract",
-    "contract_id": "19728",
-    "card_text": "",
+    "contractId": "19728",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 5,
+      "reactors": 5,
       "damage": 5,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 5,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 5,
       "credits": 10,
-      "bonus_card": 0,
-      "faction_rep": "Ventus",
+      "bonusCard": 0,
+      "factionRep": "Ventus",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1461,26 +1461,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/Minil_Horde.jpg",
     "type": "Kill Contract",
-    "contract_id": "97531",
-    "card_text": "",
+    "contractId": "97531",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 2,
+      "reactors": 2,
       "damage": 3,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 0,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "Magnomi",
+      "bonusCard": 0,
+      "factionRep": "Magnomi",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1489,26 +1489,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/Mythic_Monstrosity.jpg",
     "type": "Kill Contract",
-    "contract_id": "34985",
-    "card_text": "",
+    "contractId": "34985",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 5,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "Komek",
+      "bonusCard": 0,
+      "factionRep": "Komek",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1517,26 +1517,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/Precious_Cargo.jpg",
     "type": "Delivery Contract",
-    "contract_id": "67910",
-    "card_text": "",
+    "contractId": "67910",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 1,
-      "shield": 0,
+      "thrusters": 1,
+      "shields": 0,
       "crew": 1,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 0,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "Ventus",
+      "bonusCard": 0,
+      "factionRep": "Ventus",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1545,26 +1545,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/Solar_Flares.jpg",
     "type": "Explore Contract",
-    "contract_id": "14716",
-    "card_text": "",
+    "contractId": "14716",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 2,
+      "reactors": 2,
       "damage": 0,
-      "thruster": 0,
-      "shield": 2,
+      "thrusters": 0,
+      "shields": 2,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 0,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "Komek",
+      "bonusCard": 0,
+      "factionRep": "Komek",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1573,26 +1573,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/Solar_Shield.jpg",
     "type": "Rescue Contract",
-    "contract_id": "53879",
-    "card_text": "",
+    "contractId": "53879",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 2,
-      "thruster": 0,
-      "shield": 1,
+      "thrusters": 0,
+      "shields": 1,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 0,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "Henko",
+      "bonusCard": 0,
+      "factionRep": "Henko",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1601,26 +1601,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/Starfall_Anomaly.jpg",
     "type": "Rescue Contract",
-    "contract_id": "33878",
-    "card_text": "",
+    "contractId": "33878",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 5,
-      "shield": 4,
+      "thrusters": 5,
+      "shields": 4,
       "crew": 4,
       "flex": 0
     },
-    "hazard_die": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 10,
-      "bonus_card": 0,
-      "faction_rep": "Henko",
+      "bonusCard": 0,
+      "factionRep": "Henko",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1629,26 +1629,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/The_Veil.jpg",
     "type": "Explore Contract",
-    "contract_id": "65524",
-    "card_text": "",
+    "contractId": "65524",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 6,
+      "reactors": 6,
       "damage": 0,
-      "thruster": 0,
-      "shield": 2,
+      "thrusters": 0,
+      "shields": 2,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "Magnomi",
+      "bonusCard": 0,
+      "factionRep": "Magnomi",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1657,26 +1657,26 @@
     "collection": "Binding ties",
     "image": "/contracts/binding_ties/Traders_Peril.jpg",
     "type": "Rescue Contract",
-    "contract_id": "62844",
-    "card_text": "",
+    "contractId": "62844",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 3,
-      "shield": 4,
+      "thrusters": 3,
+      "shields": 4,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 2,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "Sorelia",
+      "bonusCard": 0,
+      "factionRep": "Sorelia",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1685,26 +1685,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Battle_Simulation.jpg",
     "type": "Head to Head",
-    "contract_id": "32665",
-    "card_text": "All players may choose to participate. The most total Damage and Shield requirements reduced wins.",
+    "contractId": "32665",
+    "cardText": "All players may choose to participate. The most total Damage and Shield requirements reduced wins.",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 1,
-      "thruster": 0,
-      "shield": 1,
+      "thrusters": 0,
+      "shields": 1,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -1713,26 +1713,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Brawlers_Cup.jpg",
     "type": "Head to Head",
-    "contract_id": "51518",
-    "card_text": "All players may choose to participate. The most total Thruster and Crew requirements reduced wins.",
+    "contractId": "51518",
+    "cardText": "All players may choose to participate. The most total Thruster and Crew requirements reduced wins.",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 1,
-      "shield": 0,
+      "thrusters": 1,
+      "shields": 0,
       "crew": 1,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -1741,26 +1741,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Concealed_Core.jpg",
     "type": "Explore Contract",
-    "contract_id": "39823",
-    "card_text": "",
+    "contractId": "39823",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 10
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1769,26 +1769,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Concealed_Parcel.jpg",
     "type": "Delivery Contract",
-    "contract_id": "94603",
-    "card_text": "",
+    "contractId": "94603",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 0,
       "flex": 8
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1797,26 +1797,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Cryptic_Shadow.jpg",
     "type": "Rescue Contract",
-    "contract_id": "67075",
-    "card_text": "",
+    "contractId": "67075",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 1,
       "flex": 6
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1825,26 +1825,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Energy_Transfer.jpg",
     "type": "Head to Head",
-    "contract_id": "51518",
-    "card_text": "All players may choose to participate. The most total Thruster and Reactor requirements reduced wins.",
+    "contractId": "51518",
+    "cardText": "All players may choose to participate. The most total Thruster and Reactor requirements reduced wins.",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 1,
+      "reactors": 1,
       "damage": 0,
-      "thruster": 1,
-      "shield": 0,
+      "thrusters": 1,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -1853,26 +1853,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Guerilla_Ambush.jpg",
     "type": "Kill Contract",
-    "contract_id": "30098",
-    "card_text": "",
+    "contractId": "30098",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 4,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 8
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1881,26 +1881,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Last_Ship_Standing.jpg",
     "type": "Head to Head",
-    "contract_id": "42603",
-    "card_text": "All players may choose to participate. The most total Shield and Reactor requirements reduced wins.",
+    "contractId": "42603",
+    "cardText": "All players may choose to participate. The most total Shield and Reactor requirements reduced wins.",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 1,
+      "reactors": 1,
       "damage": 0,
-      "thruster": 0,
-      "shield": 1,
+      "thrusters": 0,
+      "shields": 1,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -1909,26 +1909,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Nameless_Ruins.jpg",
     "type": "Explore Contract",
-    "contract_id": "59571",
-    "card_text": "",
+    "contractId": "59571",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 2,
+      "reactors": 2,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 6
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -1937,26 +1937,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Nebula_Sprint.jpg",
     "type": "Head to Head",
-    "contract_id": "66046",
-    "card_text": "All players may choose to participate. The most total Shield and Thruster requirements reduced wins.",
+    "contractId": "66046",
+    "cardText": "All players may choose to participate. The most total Shield and Thruster requirements reduced wins.",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 1,
-      "shield": 1,
+      "thrusters": 1,
+      "shields": 1,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -1965,26 +1965,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Payload_Delivery.jpg",
     "type": "Head to Head",
-    "contract_id": "02589",
-    "card_text": "All players may choose to participate. The most total Damage and Thruster requirements reduced wins.",
+    "contractId": "02589",
+    "cardText": "All players may choose to participate. The most total Damage and Thruster requirements reduced wins.",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 1,
-      "thruster": 1,
-      "shield": 0,
+      "thrusters": 1,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -1993,26 +1993,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Protect_The_Target.jpg",
     "type": "Head to Head",
-    "contract_id": "42603",
-    "card_text": "All players may choose to participate. The most total Crew and shield requirements reduced wins.",
+    "contractId": "42603",
+    "cardText": "All players may choose to participate. The most total Crew and Shields requirements reduced wins.",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 1,
+      "thrusters": 0,
+      "shields": 1,
       "crew": 1,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -2021,26 +2021,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Readiness_Inspection.jpg",
     "type": "Head to Head",
-    "contract_id": "66046",
-    "card_text": "All players may choose to participate. The most total reactor and Crew requirements reduced wins.",
+    "contractId": "66046",
+    "cardText": "All players may choose to participate. The most total Reactors and Crew requirements reduced wins.",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 1,
+      "reactors": 1,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 1,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -2049,26 +2049,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/The_Alpha_Nebula.jpg",
     "type": "Explore Contract",
-    "contract_id": "12896",
-    "card_text": "",
+    "contractId": "12896",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 12
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 4,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2077,26 +2077,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/The_Beta_Nebula.jpg",
     "type": "Delivery Contract",
-    "contract_id": "43079",
-    "card_text": "",
+    "contractId": "43079",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 14
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2105,26 +2105,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/The_Omega_Nebula.jpg",
     "type": "Delivery Contract",
-    "contract_id": "25076",
-    "card_text": "",
+    "contractId": "25076",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 16
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2133,26 +2133,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Uncharted_Nebula.jpg",
     "type": "Kill Contract",
-    "contract_id": "85438",
-    "card_text": "",
+    "contractId": "85438",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 3,
       "flex": 10
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2161,26 +2161,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Undisclosed_Refuge.jpg",
     "type": "Rescue Contract",
-    "contract_id": "96370",
-    "card_text": "",
+    "contractId": "96370",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 1,
+      "thrusters": 0,
+      "shields": 1,
       "crew": 0,
       "flex": 6
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 4,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2189,26 +2189,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/War_Games.jpg",
     "type": "Head to Head",
-    "contract_id": "02589",
-    "card_text": "All players may choose to participate. The most total Crew and Damage requirements reduced wins.",
+    "contractId": "02589",
+    "cardText": "All players may choose to participate. The most total Crew and Damage requirements reduced wins.",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 1,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 1,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -2217,26 +2217,26 @@
     "collection": "Overload",
     "image": "/contracts/overload/Weapons_Testing.jpg",
     "type": "Head to Head",
-    "contract_id": "32665",
-    "card_text": "All players may choose to participate. The most total Reactor and Damage requirements reduced wins.",
+    "contractId": "32665",
+    "cardText": "All players may choose to participate. The most total Reactor and Damage requirements reduced wins.",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 1,
+      "reactors": 1,
       "damage": 1,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": -1,
+    "hazards": -1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 3
+      "secondPlace": 3
     }
   },
   {
@@ -2245,26 +2245,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Aggressive_Negotiation.jpg",
     "type": "Redacted Contract",
-    "contract_id": "68233",
-    "card_text": "",
+    "contractId": "68233",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 3,
+      "reactors": 3,
       "damage": 6,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 3,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2273,26 +2273,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Avoid_Entrapment.jpg",
     "type": "Delivery Contract",
-    "contract_id": "81458",
-    "card_text": "",
+    "contractId": "81458",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 2,
+      "reactors": 2,
       "damage": 0,
-      "thruster": 2,
-      "shield": 2,
+      "thrusters": 2,
+      "shields": 2,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 4,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2301,26 +2301,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Border_Skirmish.jpg",
     "type": "Redacted Contract",
-    "contract_id": "80497",
-    "card_text": "",
+    "contractId": "80497",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 4,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 2,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 4,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2329,26 +2329,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Bounty_Drones.jpg",
     "type": "Kill Contract",
-    "contract_id": "32067",
-    "card_text": "",
+    "contractId": "32067",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 5,
-      "thruster": 0,
-      "shield": 4,
+      "thrusters": 0,
+      "shields": 4,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2357,26 +2357,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Broadside_Cover.jpg",
     "type": "Rescue Contract",
-    "contract_id": "74001",
-    "card_text": "",
+    "contractId": "74001",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 5,
+      "thrusters": 0,
+      "shields": 5,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2385,26 +2385,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Dignitary_Escort.jpg",
     "type": "Redacted Contract",
-    "contract_id": "26299",
-    "card_text": "",
+    "contractId": "26299",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 3,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 4,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2413,26 +2413,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Emergency_Orders.jpg",
     "type": "Redacted Contract",
-    "contract_id": "13802",
-    "card_text": "",
+    "contractId": "13802",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 3,
+      "reactors": 3,
       "damage": 0,
-      "thruster": 3,
-      "shield": 3,
+      "thrusters": 3,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 2,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2441,26 +2441,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Fatal_Extraction.jpg",
     "type": "Redacted Contract",
-    "contract_id": "58023",
-    "card_text": "",
+    "contractId": "58023",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 9,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 2,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2469,26 +2469,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Feint_Attack.jpg",
     "type": "Rescue Contract",
-    "contract_id": "98398",
-    "card_text": "",
+    "contractId": "98398",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 3,
-      "thruster": 0,
-      "shield": 2,
+      "thrusters": 0,
+      "shields": 2,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2497,26 +2497,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Hostile_Arbitration.jpg",
     "type": "Redacted Contract",
-    "contract_id": "10321",
-    "card_text": "",
+    "contractId": "10321",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 4,
-      "shield": 5,
+      "thrusters": 4,
+      "shields": 5,
       "crew": 3,
       "flex": 0
     },
-    "hazard_die": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 4,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2525,26 +2525,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Moon_Defense.jpg",
     "type": "Redacted Contract",
-    "contract_id": "81691",
-    "card_text": "",
+    "contractId": "81691",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 4,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 2,
       "credits": 4,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2553,26 +2553,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Nova_Scout.jpg",
     "type": "Explore Contract",
-    "contract_id": "35912",
-    "card_text": "",
+    "contractId": "35912",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 5,
+      "reactors": 5,
       "damage": 5,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2581,26 +2581,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Orbital_Loop.jpg",
     "type": "Delivery Contract",
-    "contract_id": "10918",
-    "card_text": "",
+    "contractId": "10918",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 5,
+      "reactors": 5,
       "damage": 0,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2609,26 +2609,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Path_to_Absolution.jpg",
     "type": "Redacted Contract",
-    "contract_id": "98707",
-    "card_text": "",
+    "contractId": "98707",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 5,
-      "shield": 0,
+      "thrusters": 5,
+      "shields": 0,
       "crew": 6,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2637,26 +2637,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Patrol_Survey.jpg",
     "type": "Redacted Contract",
-    "contract_id": "51657",
-    "card_text": "",
+    "contractId": "51657",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 10,
+      "reactors": 10,
       "damage": 3,
-      "thruster": 0,
-      "shield": 4,
+      "thrusters": 0,
+      "shields": 4,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 4,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2665,26 +2665,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Readiness_Drills.jpg",
     "type": "Redacted Contract",
-    "contract_id": "53813",
-    "card_text": "",
+    "contractId": "53813",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 3,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2693,26 +2693,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Sector_Infiltration.jpg",
     "type": "Kill Contract",
-    "contract_id": "90343",
-    "card_text": "",
+    "contractId": "90343",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 4,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 2,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2721,26 +2721,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Sector_Scan.jpg",
     "type": "Explore Contract",
-    "contract_id": "81094",
-    "card_text": "",
+    "contractId": "81094",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 7,
+      "reactors": 7,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2749,26 +2749,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/Supply_Raid.jpg",
     "type": "Redacted Contract",
-    "contract_id": "44200",
-    "card_text": "",
+    "contractId": "44200",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 3,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2777,26 +2777,26 @@
     "collection": "Nomad",
     "image": "/contracts/nomad/The_Academy.jpg",
     "type": "Redacted Contract",
-    "contract_id": "15127",
-    "card_text": "",
+    "contractId": "15127",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 6,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 1,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2805,26 +2805,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Celestial_Probe.jpg",
     "type": "Explore Contract",
-    "contract_id": "08166",
-    "card_text": "Roll a die and add requirements: [[0 hazard_die]] [[+1 Reactor]] [[1 Hazard]] [[+1 Shield]] [[2 Hazards]] [[+1 Reactor]], [[+1 Shield]]",
+    "contractId": "08166",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Reactor]] [[1 Hazard]] [[+1 Shield]] [[2 Hazards]] [[+1 Reactor]], [[+1 Shield]]",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 3,
+      "reactors": 3,
       "damage": 0,
-      "thruster": 0,
-      "shield": 1,
+      "thrusters": 0,
+      "shields": 1,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 5,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2833,26 +2833,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Celestial_Sprint.jpg",
     "type": "Delivery Contract",
-    "contract_id": "93040",
-    "card_text": "Participating players [must] have a Ventus ship part.",
+    "contractId": "93040",
+    "cardText": "Participating players [must] have a Ventus ship part.",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 5,
-      "shield": 0,
+      "thrusters": 5,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 2,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2861,26 +2861,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Destructive_Expedition.jpg",
     "type": "Kill Contract",
-    "contract_id": "93084",
-    "card_text": "Roll a die and add requirements: [[0 hazard_die]] [[+1 Damage]] [[1 Hazard]] [[+1 Thruster]] [[2 Hazards]] [[+1 Damage]], [[+1 Thruster]]",
+    "contractId": "93084",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Damage]] [[1 Hazard]] [[+1 Thruster]] [[2 Hazards]] [[+1 Damage]], [[+1 Thruster]]",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 3,
-      "thruster": 2,
-      "shield": 0,
+      "thrusters": 2,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 2,
       "credits": 3,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2889,26 +2889,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Divine_Sprint.jpg",
     "type": "Delivery Contract",
-    "contract_id": "45176",
-    "card_text": "Roll a die and add requirements: [[0 hazard_die]] [[+1 Thruster]] [[1 Hazard]] [[+1 Reactor]] [[2 Hazards]] [[+1 Thruster]], [[+1 Reactor]]",
+    "contractId": "45176",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Thruster]] [[1 Hazard]] [[+1 Reactor]] [[2 Hazards]] [[+1 Thruster]], [[+1 Reactor]]",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 5,
+      "reactors": 5,
       "damage": 0,
-      "thruster": 5,
-      "shield": 0,
+      "thrusters": 5,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2917,26 +2917,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Energy_Pilgrimage.jpg",
     "type": "Explore Contract",
-    "contract_id": "96159",
-    "card_text": "Participating players [discard] 4 [[Credits]], combined.",
+    "contractId": "96159",
+    "cardText": "Participating players [discard] 4 [[Credits]], combined.",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 6,
+      "reactors": 6,
       "damage": 0,
-      "thruster": 4,
-      "shield": 0,
+      "thrusters": 4,
+      "shields": 0,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 12,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2945,26 +2945,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Hostile_Intent.jpg",
     "type": "Redacted Contract",
-    "contract_id": "96685",
-    "card_text": "Roll a die and add requirements: [[0 hazard_die]] [[+1 Crew]] [[1 Hazard]] [[+1 Damage]] [[2 Hazards]] [[+1 Crew]], [[+1 Damage]]",
+    "contractId": "96685",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Crew]] [[1 Hazard]] [[+1 Damage]] [[2 Hazards]] [[+1 Crew]], [[+1 Damage]]",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 8,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 4,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 4,
       "credits": 8,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -2973,26 +2973,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Impending_Impact.jpg",
     "type": "Rescue Contract",
-    "contract_id": "89913",
-    "card_text": "Participating players [discard] a card to attempt.",
+    "contractId": "89913",
+    "cardText": "Participating players [discard] a card to attempt.",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 2,
+      "reactors": 2,
       "damage": 1,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3001,26 +3001,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Left_Behind.jpg",
     "type": "Kill Contract",
-    "contract_id": "80800",
-    "card_text": "1 Participating player trashes [[1 Crew]] at the end of the contract.",
+    "contractId": "80800",
+    "cardText": "1 Participating player trashes [[1 Crew]] at the end of the contract.",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 5,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 3,
       "flex": 0
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3029,26 +3029,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Requisite_Offering.jpg",
     "type": "Redacted Contract",
-    "contract_id": "06367",
-    "card_text": "Participating players gain a [[Miss]] to attempt.",
+    "contractId": "06367",
+    "cardText": "Participating players gain a [[Miss]] to attempt.",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 8,
-      "thruster": 0,
-      "shield": 4,
+      "thrusters": 0,
+      "shields": 4,
       "crew": 4,
       "flex": 0
     },
-    "hazard_die": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 5,
       "credits": 12,
-      "bonus_card": 1,
-      "faction_rep": "",
+      "bonusCard": 1,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3057,26 +3057,26 @@
     "collection": "Starfall",
     "image": "/contracts/starfall/Treacherous_Pursuit.jpg",
     "type": "Rescue Contract",
-    "contract_id": "23805",
-    "card_text": "Roll a die and add requirements: [[0 hazard_die]] [[+1 Shield]] [[1 Hazard]] [[+1 Thruster]] [[2 Hazards]] [[+1 Damage]], [[+1 Thruster]]",
+    "contractId": "23805",
+    "cardText": "Roll a die and add requirements: [[0 Hazards]] [[+1 Shield]] [[1 Hazard]] [[+1 Thruster]] [[2 Hazards]] [[+1 Damage]], [[+1 Thruster]]",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 1,
-      "thruster": 3,
-      "shield": 4,
+      "thrusters": 3,
+      "shields": 4,
       "crew": 0,
       "flex": 0
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 9,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3085,27 +3085,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Chaotic_Confluence.jpg",
     "type": "Unstable Contract",
-    "contract_id": "18745",
-    "card_text": "",
+    "contractId": "18745",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 3,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 0,
       "flex": 0,
       "dice": 4
     },
-    "hazard_die": 4,
+    "hazards": 4,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3114,27 +3114,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Contingency_Shelter.jpg",
     "type": "Rescue Contract",
-    "contract_id": "90026",
-    "card_text": "",
+    "contractId": "90026",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 2,
+      "thrusters": 0,
+      "shields": 2,
       "crew": 0,
       "flex": 0,
       "dice": 3
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 1,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3143,27 +3143,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Ethereal_Well.jpg",
     "type": "Explore Contract",
-    "contract_id": "06923",
-    "card_text": "",
+    "contractId": "06923",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 2,
+      "reactors": 2,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0,
       "dice": 3
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3172,27 +3172,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Gossamer_Vault.jpg",
     "type": "Explore Contract",
-    "contract_id": "68566",
-    "card_text": "",
+    "contractId": "68566",
+    "cardText": "",
     "sector": "Komek",
     "holographic": false,
     "requirements": {
-      "reactor": 4,
+      "reactors": 4,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0,
       "dice": 4
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 2,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3201,27 +3201,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Helix_Guardian.jpg",
     "type": "Kill Contract",
-    "contract_id": "58346",
-    "card_text": "",
+    "contractId": "58346",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 3,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0,
       "dice": 3
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3230,27 +3230,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Imperial_Envoy.jpg",
     "type": "Delivery Contract",
-    "contract_id": "40441",
-    "card_text": "",
+    "contractId": "40441",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 2,
-      "shield": 0,
+      "thrusters": 2,
+      "shields": 0,
       "crew": 0,
       "flex": 0,
       "dice": 3
     },
-    "hazard_die": 1,
+    "hazards": 1,
     "rewards": {
       "prestige": 1,
       "credits": 6,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3259,27 +3259,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Lattice_Network.jpg",
     "type": "Rescue Contract",
-    "contract_id": "49589",
-    "card_text": "",
+    "contractId": "49589",
+    "cardText": "",
     "sector": "Henko",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 3,
+      "thrusters": 0,
+      "shields": 3,
       "crew": 0,
       "flex": 0,
       "dice": 5
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3288,27 +3288,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Rift_Watcher.jpg",
     "type": "Kill Contract",
-    "contract_id": "32401",
-    "card_text": "",
+    "contractId": "32401",
+    "cardText": "",
     "sector": "Magnomi",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 3,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0,
       "dice": 6
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 3,
       "credits": 8,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3317,27 +3317,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Semestral_Haul.jpg",
     "type": "Delivery Contract",
-    "contract_id": "23417",
-    "card_text": "",
+    "contractId": "23417",
+    "cardText": "",
     "sector": "Ventus",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 3,
-      "shield": 0,
+      "thrusters": 3,
+      "shields": 0,
       "crew": 0,
       "flex": 0,
       "dice": 6
     },
-    "hazard_die": 2,
+    "hazards": 2,
     "rewards": {
       "prestige": 3,
       "credits": 7,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   },
   {
@@ -3346,27 +3346,27 @@
     "collection": "Intrepid",
     "image": "/contracts/intrepid/Tear_of_Convergence.jpg",
     "type": "Unstable Contract",
-    "contract_id": "78657",
-    "card_text": "",
+    "contractId": "78657",
+    "cardText": "",
     "sector": "Sorelia",
     "holographic": false,
     "requirements": {
-      "reactor": 0,
+      "reactors": 0,
       "damage": 0,
-      "thruster": 0,
-      "shield": 0,
+      "thrusters": 0,
+      "shields": 0,
       "crew": 0,
       "flex": 0,
       "dice": 12
     },
-    "hazard_die": 3,
+    "hazards": 3,
     "rewards": {
       "prestige": 4,
       "credits": 9,
-      "bonus_card": 0,
-      "faction_rep": "",
+      "bonusCard": 0,
+      "factionRep": "",
       "prototype": 0,
-      "second_place": 0
+      "secondPlace": 0
     }
   }
 ]
