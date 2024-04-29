@@ -1,5 +1,5 @@
 import { createClient } from "@supabase/supabase-js";
-import { PublicSchema, Database, Tables } from "./db/database.types";
+import { PublicSchema, Database, Tables } from "./types/supabase.js";
 import dotenv from "dotenv";
 import * as fs from "fs";
 import deepEqual from "deep-equal";
@@ -11,227 +11,217 @@ const supabaseKey = process.env.SUPABASE_KEY || "";
 
 const supabase = createClient<Database>(supabaseUrl, supabaseKey);
 
-type tableName = keyof PublicSchema["Tables"];
+const fileNames = [
+  "card/actionCardsData.json",
+  "card/contractData.json",
+  "card/crewData.json",
+  "card/shipPartsData.json",
+  "card/objectiveData.json",
+  "card/eventsData.json",
+];
 
-let fileContent = fs.readFileSync("./card/actionCardsData.json", "utf-8");
-
-const action_card = JSON.parse(fileContent);
-const actionRequirements = action_card.map((data: any, id: number) => {
-  const { requirements, ...rest } = data;
-  return { id: id + 1, ...requirements };
+const [
+  actionCardsData,
+  contractData,
+  crewData,
+  shipPartsData,
+  objectiveData,
+  eventsData,
+] = fileNames.map((fileName) => {
+  return JSON.parse(fs.readFileSync(fileName, "utf-8"));
 });
 
-let response = await supabase.from("requirement").insert(actionRequirements);
-// console.log(response);
+let normalizedRequirements: any[] = [];
+let normalizedRewards: any[] = [];
+let normalizedGameElements: any[] = [];
 
-let res = await supabase.from("requirement").select();
-const updatedActionCard = action_card.map((cardData: any, id: number) => {
-  const { requirements, ...rest } = cardData;
-  return { requirement_id: res.data![id].id, ...rest };
-});
-
-// response = await supabase.from("action_card").insert(updatedActionCard);
-// console.log(response);
-
-function shallowCompare(newObj: any, prevObj: any) {
-  for (const key in newObj) {
-    if (newObj[key] !== prevObj[key]) return false;
-  }
-  return true;
-}
-
-fileContent = fs.readFileSync("./card/contractData.json", "utf-8");
-const contractData = JSON.parse(fileContent);
-
-let latestActionCardId = actionRequirements.length;
-const contractRequirements = contractData.map((data: any, id: number) => {
-  const { requirements, ...rest } = data;
-  const { dice, ...restRequirements } = requirements;
-  return { id: latestActionCardId + id + 1, ...restRequirements };
-});
-// response = await supabase.from("requirement").insert(contractRequirements);
-// console.log(response);
-
-const contractReward = contractData.map((data: any, id: number) => {
-  const { rewards, ...rest } = data;
-  if (rewards.faction_rep.length === 0) {
-    rewards.faction_rep = null;
-  }
-
-  return { id: id + 1, ...rewards };
-});
-
-// response = await supabase.from("reward").insert(contractReward);
-// console.log(response);
-
-const updatedContractData = contractData
-  .map((contract: any, id: number) => {
-    const { requirements, ...rest } = contract;
-
-    const matchingReward = res.data?.find((e) => {
-      const { id, ...rest } = e;
-      return shallowCompare(requirements, rest);
-    });
-
-    if (!matchingReward) {
-      return { requirement_id: latestActionCardId + id + 1, ...rest };
-    } else {
-      return { requirement_id: matchingReward.id, ...rest };
-    }
-  })
-  .map((contract: any, id: number) => {
-    const { rewards, ...rest } = contract;
-    return { reward_id: id + 1, ...rest };
-  });
-
-// response = await supabase.from("contract").insert(updatedContractData);
-// console.log(response);
-
-const { data } = await supabase
-  .from("requirement")
-  .select("id")
-  .order("id", { ascending: false })
-  .limit(1);
-
-latestActionCardId = data![0].id;
-const crewDataFile = fs.readFileSync("./card/crewData.json", "utf-8");
-
-let crewData = JSON.parse(crewDataFile);
-crewData = crewData.slice(0, 10);
-
-let crewDataGameElement = crewData.map((crewData: any, idx: number) => {
-  const { id, ...rest } = crewData.interact_id[0];
-  return { id: idx + 1, ...rest };
-});
-
-// response = await supabase.from("game_element").insert(crewDataGameElement);
-// console.log(response)
-
-crewData = crewData
-  .map((crewData: any, idx: number) => {
-    let { requirements, ...rest } = crewData;
+const normalizeRequirement = (data: any) => {
+  let { requirements, ...rest } = data;
+  if (Array.isArray(requirements)) {
     requirements = requirements[0];
+  }
+  const value = normalizedRequirements.findIndex((normRequirement) => {
+    return deepEqual(normRequirement, requirements);
+  });
+  if (value === -1) {
+    normalizedRequirements.push(requirements);
+    return { requirement_id: normalizedRequirements.length, ...rest };
+  }
+  return { requirement_id: value + 1, ...rest };
+};
 
-    const matchingReward = res.data?.find((e) => {
-      const { id, ...rest } = e;
-      return shallowCompare(requirements, rest);
-    });
+const normalizeGameElement = (data: any) => {
+  let { interact_id, ...rest } = data;
+  if (Array.isArray(interact_id)) {
+    interact_id = interact_id[0];
+  }
+  const value = normalizedGameElements.findIndex((normGameElements) => {
+    return deepEqual(normGameElements, interact_id);
+  });
+  if (value === -1) {
+    normalizedGameElements.push(interact_id);
+    return { interact_id: normalizedGameElements.length, ...rest };
+  }
+  return { interact_id: value + 1, ...rest };
+};
 
-    if (!matchingReward) {
-      return { requirement_id: latestActionCardId + idx + 1, ...rest };
-    } else {
-      return { requirement_id: matchingReward.id, ...rest };
-    }
-  })
-  .map((crewData: any, id: number) => {
-    crewData.interact_id = id + 1;
-    return crewData;
-  })
-  .map((crewData: any) => {
-    crewData.rule_clarifications = JSON.stringify(crewData.rule_clarifications);
-    return crewData;
-  })
-  .map((crewData: any) => {
-    const { holographic, goldHolographic, ...rest } = crewData;
+const normalizeReward = (data: any) => {
+  const { rewards, ...rest } = data;
+  const value = normalizedRewards.findIndex((normRewards) => {
+    return deepEqual(normRewards, rewards);
+  });
+  if (value === -1) {
+    normalizedRewards.push(rewards);
+    return { reward_id: normalizedRewards.length, ...rest };
+  }
+  return { reward_id: value + 1, ...rest };
+};
+
+const normalizedActionCardsData = actionCardsData
+  .map(normalizeRequirement)
+  .map((actionCard: any) => {
+    const { cardText, cardType, hazard, ...rest } = actionCard;
     return {
-      is_holographic: holographic,
-      is_gold_holographic: goldHolographic ?? false,
+      card_text: cardText,
+      block_hazard: hazard,
+      card_type: cardType,
       ...rest,
     };
   });
 
-// response = await supabase.from("crew_card").insert(crewData);
-// console.log(response);
-
-const shipPartsFile = fs.readFileSync("./card/shipPartsData.json", "utf-8");
-let shipPartsData = JSON.parse(shipPartsFile);
-
-shipPartsData = shipPartsData.slice(0, 10);
-
-let r = await supabase
-  .from("game_element")
-  .select()
-  .order("id", { ascending: false });
-
-let shipDataGameElement = shipPartsData
-  .map((crewData: any, idx: number) => {
-    const { id, ...a } = crewData.interact_id[0];
-
-    const matchingReward = r.data?.find((e) => {
-      const { id, ...rest } = e;
-      return deepEqual(a, rest);
-    });
-
-    if (!matchingReward) {
-      return a;
-    }
-  })
-  .filter((a) => {
-    return a != undefined;
+const normalizedContractData = contractData
+  .map(normalizeRequirement)
+  .map(normalizeReward)
+  .map((contractCard: any) => {
+    const { contractId, cardText, hazards, ...rest } = contractCard;
+    return {
+      contract_id: contractId,
+      hazard_die: hazards,
+      card_text: cardText,
+      ...rest,
+    };
   });
 
-// console.log(shipDataGameElement)
-
-// response = await supabase.from("game_element").insert(shipDataGameElement);
-// console.log(response)
-
-r = await supabase
-  .from("game_element")
-  .select()
-  .order("id", { ascending: false });
-
-const latestGameElementId = r.data![0].id;
-
-shipPartsData = shipPartsData
-  .map((shipData: any, id: number) => {
-    let { requirements, ...rest } = shipData;
-    requirements = requirements[0];
-
-    const matchingReward = res.data?.find((e) => {
-      const { id, ...rest } = e;
-      return deepEqual(requirements, rest);
-    });
-
-    if (!matchingReward) {
-      return { requirement_id: latestActionCardId + id + 1, ...rest };
-    } else {
-      return { requirement_id: matchingReward.id, ...rest };
-    }
-  })
-  .map((shipData: any, idx: number) => {
-    let { interact_id, ...rest } = shipData;
-    let { id, ...gameElementInfo } = interact_id[0];
-
-    const matchingId = r.data?.find((e) => {
-      const { id, ...rest } = e;
-      return deepEqual(gameElementInfo, rest);
-    });
-
-    return { interact_id: matchingId.id, ...rest };
-  })
-  .map((crewData: any) => {
-    let { ruleClarifications, ...rest } = crewData;
-    ruleClarifications = JSON.stringify(ruleClarifications);
-    return { rule_clarifications: ruleClarifications, ...rest };
-  })
-  .map((crewData: any) => {
+const normalizedCrewData = crewData
+  .slice(0, 10)
+  .map(normalizeGameElement)
+  .map(normalizeRequirement)
+  .map((crewCard: any) => {
     const {
-      wikiDescription,
-      cardText,
-      altPrint,
       holographic,
       goldHolographic,
+      altPrint,
+      cardText,
+      wikiDescription,
+      ruleClarifications,
+      play_as_id,
       ...rest
-    } = crewData;
+    } = crewCard;
     return {
       is_holographic: holographic,
+      is_gold_holographic: goldHolographic || false,
+      play_as_id: play_as_id === 0 ? null : play_as_id,
       alt_print: altPrint,
       card_text: cardText,
       wiki_description: wikiDescription,
+      rule_clarifications: JSON.stringify(ruleClarifications),
       ...rest,
     };
   });
-// console.log(shipPartsData);
 
-// response = await supabase.from("ship_part").insert(shipPartsData);
-// console.log(response);
+const normalizedShipParts = shipPartsData
+  .slice(0, 10)
+  .map(normalizeGameElement)
+  .map(normalizeRequirement)
+  .map((shipParts: any) => {
+    const {
+      holographic,
+      altPrint,
+      cardText,
+      wikiDescription,
+      ruleClarifications,
+      cards,
+      play_as_id,
+      ...rest
+    } = shipParts;
+    return {
+      is_holographic: holographic,
+      cards: 1,
+      play_as_id: play_as_id === 0 ? null : play_as_id,
+      alt_print: altPrint,
+      card_text: cardText,
+      wiki_description: wikiDescription,
+      rule_clarifications: JSON.stringify(ruleClarifications),
+      ...rest,
+    };
+  });
+
+normalizedRequirements = normalizedRequirements
+  .map((requirements: any, idx: number) => {
+    return { id: idx + 1, ...requirements };
+  })
+  .map((requirements) => {
+    let { reactors, thrusters, shields, dice, ...rest } = requirements;
+    if (!reactors && reactors !== 0) {
+      reactors = rest.reactor;
+    }
+    if (!thrusters && thrusters !== 0) {
+      reactors = rest.thruster;
+    }
+    if (!shields && shields !== 0) {
+      reactors = rest.thruster;
+    }
+    return { shield: shields, reactor: reactors, thruster: thrusters, ...rest };
+  });
+
+normalizedRewards = normalizedRewards
+  .map((rewards: any, idx: number) => {
+    return { id: idx + 1, ...rewards };
+  })
+  .map((requirements) => {
+    let { bonusCard, secondPlace, factionRep, ...rest } = requirements;
+    return {
+      bonus_card: bonusCard,
+      second_place: secondPlace,
+      faction_rep: factionRep || null,
+      ...rest,
+    };
+  });
+
+normalizedGameElements = normalizedGameElements
+  .map((gameElement: any, idx: number) => {
+    const { id, ...rest } = gameElement;
+    return { id: idx + 1, ...rest };
+  })
+  .map((requirements) => {
+    let { prestiege, ...rest } = requirements;
+    return {
+      prestige: prestiege,
+      ...rest,
+    };
+  });
+
+/*
+let response = await supabase
+  .from("requirement")
+  .insert(normalizedRequirements);
+console.log("Requirement Table Response: ", response);
+
+response = await supabase.from("reward").insert(normalizedRewards);
+console.log("Reward Table Response: ", response);
+
+response = await supabase.from("game_element").insert(normalizedGameElements);
+console.log("game_element Table Response: ", response);
+
+response = await supabase.from("action_card").insert(normalizedActionCardsData);
+console.log("action_card Table Response: ", response);
+
+response = await supabase.from("contract").insert(normalizedContractData);
+console.log("Contract Table Response: ", response);
+
+response = await supabase.from("crew_card").insert(normalizedCrewData);
+console.log("crewCard Table Response: ", response);
+
+response = await supabase.from("ship_part").insert(normalizedShipParts);
+console.log("ship Part Table Response: ", response);
+*/
