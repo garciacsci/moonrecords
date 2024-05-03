@@ -26,6 +26,18 @@ for filename in os.listdir(directory):
         object['faction'] = to_snake_case(object['faction'])
       if 'role' in object:
         object['role'] = to_snake_case(object['role'])
+      if 'sector' in object:
+        object['sector'] = to_snake_case(object['sector'])
+
+      if filename == 'contractData.json':
+        if 'type' in object:
+          object['type'] = to_snake_case(object['type'])
+      if filename == 'crewData.json':
+        if 'type' in object:
+          object['type'] = to_snake_case(object['type'])
+      if filename == 'eventsData.json':
+        if 'type' in object:
+          object['type'] = to_snake_case(object['type'])
 
     # Write the modified data back to the file
     with open(filepath, 'w') as f:
