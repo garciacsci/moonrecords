@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Abandoned Vessel",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Abandoned_Vessel.jpg",
     "type": "Explore Contract",
     "contractId": "30794",
@@ -30,7 +30,7 @@
   {
     "id": 2,
     "name": "Admiral's Flagship",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Admirals_Flagship.jpg",
     "type": "Kill Contract",
     "contractId": "10068",
@@ -58,7 +58,7 @@
   {
     "id": 3,
     "name": "Ancient Ruins",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Ancient_Ruins.jpg",
     "type": "Explore Contract",
     "contractId": "13583",
@@ -86,7 +86,7 @@
   {
     "id": 4,
     "name": "Assault on Vilonia",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Assault_on_Vilonia.jpg",
     "type": "Kill Contract",
     "contractId": "13893",
@@ -114,7 +114,7 @@
   {
     "id": 5,
     "name": "Asteroid Field",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Asteroid_Field.jpg",
     "type": "Explore Contract",
     "contractId": "12017",
@@ -142,7 +142,7 @@
   {
     "id": 6,
     "name": "Black Hole",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Black_Hole.jpg",
     "type": "Explore Contract",
     "contractId": "20070",
@@ -170,7 +170,7 @@
   {
     "id": 7,
     "name": "Blockade Run",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Blockade_Run.jpg",
     "type": "Delivery Contract",
     "contractId": "31172",
@@ -198,7 +198,7 @@
   {
     "id": 8,
     "name": "Bomber Screen",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Bomber_Screen.jpg",
     "type": "Kill Contract",
     "contractId": "19371",
@@ -226,7 +226,7 @@
   {
     "id": 9,
     "name": "Bounty Hunters",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Bounty_Hunters.jpg",
     "type": "Kill Contract",
     "contractId": "20320",
@@ -254,7 +254,7 @@
   {
     "id": 10,
     "name": "Claim Bounty",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Claim_Bounty.jpg",
     "type": "Kill Contract",
     "contractId": "21008",
@@ -282,7 +282,7 @@
   {
     "id": 11,
     "name": "Core World Ace",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Core_World_Ace.jpg",
     "type": "Kill Contract",
     "contractId": "24273",
@@ -310,7 +310,7 @@
   {
     "id": 12,
     "name": "Cryogenic Pods",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Cryogenic_Pods.jpg",
     "type": "Rescue Contract",
     "contractId": "32186",
@@ -338,7 +338,7 @@
   {
     "id": 13,
     "name": "Derelict Planet",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Derelict_Planet.jpg",
     "type": "Explore Contract",
     "contractId": "30655",
@@ -366,7 +366,7 @@
   {
     "id": 14,
     "name": "Distress Beacon",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Distress_Beacon.jpg",
     "type": "Explore Contract",
     "contractId": "15325",
@@ -394,7 +394,7 @@
   {
     "id": 15,
     "name": "Elite Squadron",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Elite_Squadron.jpg",
     "type": "Kill Contract",
     "contractId": "14673",
@@ -422,7 +422,7 @@
   {
     "id": 16,
     "name": "Emergency Meds",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Emergency_Meds.jpg",
     "type": "Delivery Contract",
     "contractId": "15307",
@@ -450,7 +450,7 @@
   {
     "id": 17,
     "name": "Envoy in Distress",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Envoy_in_Distress.jpg",
     "type": "Rescue Contract",
     "contractId": "34103",
@@ -478,7 +478,7 @@
   {
     "id": 18,
     "name": "Escape Pods",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Escape_Pods.jpg",
     "type": "Rescue Contract",
     "contractId": "34402",
@@ -506,7 +506,7 @@
   {
     "id": 19,
     "name": "Escort Duty",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Escort_Duty.jpg",
     "type": "Delivery Contract",
     "contractId": "10854",
@@ -534,7 +534,7 @@
   {
     "id": 20,
     "name": "Fuel Shortage",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Fuel_Shortage.jpg",
     "type": "Delivery Contract",
     "contractId": "27016",
@@ -562,7 +562,7 @@
   {
     "id": 21,
     "name": "Icarus Run",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Icarus_Run.jpg",
     "type": "Rescue Contract",
     "contractId": "23642",
@@ -590,7 +590,7 @@
   {
     "id": 22,
     "name": "Kill Slavers",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Kill_Slavers.jpg",
     "type": "Kill Contract",
     "contractId": "31673",
@@ -618,7 +618,7 @@
   {
     "id": 23,
     "name": "Martial Law",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Martial_Law.jpg",
     "type": "Rescue Contract",
     "contractId": "12305",
@@ -646,7 +646,7 @@
   {
     "id": 24,
     "name": "Munitions Stockpile",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Munitions_Stockpile.jpg",
     "type": "Delivery Contract",
     "contractId": "10514",
@@ -674,7 +674,7 @@
   {
     "id": 25,
     "name": "Negotiation Insurance",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Negotiation_Insurance.jpg",
     "type": "Delivery Contract",
     "contractId": "10866",
@@ -702,7 +702,7 @@
   {
     "id": 26,
     "name": "Nova Bloom",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Nova_Bloom.jpg",
     "type": "Explore Contract",
     "contractId": "20706",
@@ -730,7 +730,7 @@
   {
     "id": 27,
     "name": "Pirate Treasure",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Pirate_Treasure.jpg",
     "type": "Explore Contract",
     "contractId": "34903",
@@ -758,7 +758,7 @@
   {
     "id": 28,
     "name": "Prison Moon",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Prison_Moon.jpg",
     "type": "Rescue Contract",
     "contractId": "30513",
@@ -786,7 +786,7 @@
   {
     "id": 29,
     "name": "Probe Recovery",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Probe_Recovery.jpg",
     "type": "Explore Contract",
     "contractId": "24722",
@@ -814,7 +814,7 @@
   {
     "id": 30,
     "name": "Proof of Life",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Proof_of_Life.jpg",
     "type": "Delivery Contract",
     "contractId": "32052",
@@ -842,7 +842,7 @@
   {
     "id": 31,
     "name": "Reactor Failure",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Reactor_Failure.jpg",
     "type": "Rescue Contract",
     "contractId": "18875",
@@ -870,7 +870,7 @@
   {
     "id": 32,
     "name": "Refugee Crisis",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Refugee_Crisis.jpg",
     "type": "Delivery Contract",
     "contractId": "17576",
@@ -898,7 +898,7 @@
   {
     "id": 33,
     "name": "Resistance Leader",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Resistance_Leader.jpg",
     "type": "Rescue Contract",
     "contractId": "17217",
@@ -926,7 +926,7 @@
   {
     "id": 34,
     "name": "Rival Pirate Gang",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Rival_Pirate_Gang.jpg",
     "type": "Kill Contract",
     "contractId": "29152",
@@ -954,7 +954,7 @@
   {
     "id": 35,
     "name": "Royal Cargo",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Royal_Cargo.jpg",
     "type": "Delivery Contract",
     "contractId": "17010",
@@ -982,7 +982,7 @@
   {
     "id": 36,
     "name": "Scout Cruiser",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Scout_Cruiser.jpg",
     "type": "Kill Contract",
     "contractId": "30332",
@@ -1010,7 +1010,7 @@
   {
     "id": 37,
     "name": "Space Anomaly",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Space_Anomaly.jpg",
     "type": "Explore Contract",
     "contractId": "28043",
@@ -1038,7 +1038,7 @@
   {
     "id": 38,
     "name": "Stim Run",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Stim_Run.jpg",
     "type": "Delivery Contract",
     "contractId": "10089",
@@ -1066,7 +1066,7 @@
   {
     "id": 39,
     "name": "Supernova Escape",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Supernova_Escape.jpg",
     "type": "Rescue Contract",
     "contractId": "32169",
@@ -1094,7 +1094,7 @@
   {
     "id": 40,
     "name": "Transport Rescue",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/contracts/base/Transport_Rescue.jpg",
     "type": "Rescue Contract",
     "contractId": "21014",
@@ -1122,7 +1122,7 @@
   {
     "id": 41,
     "name": "Boarding Action",
-    "collection": "1st encounter",
+    "collection": "1st_encounter",
     "image": "/contracts/1st_encounter/Boarding_Action.jpg",
     "type": "Explore Contract",
     "contractId": "20070",
@@ -1150,7 +1150,7 @@
   {
     "id": 42,
     "name": "Decoy Target",
-    "collection": "1st encounter",
+    "collection": "1st_encounter",
     "image": "/contracts/1st_encounter/Decoy_Target.jpg",
     "type": "Rescue Contract",
     "contractId": "56787",
@@ -1178,7 +1178,7 @@
   {
     "id": 43,
     "name": "First Contact",
-    "collection": "1st encounter",
+    "collection": "1st_encounter",
     "image": "/contracts/1st_encounter/First_Contact.jpg",
     "type": "Explore Contract",
     "contractId": "05765",
@@ -1206,7 +1206,7 @@
   {
     "id": 44,
     "name": "Focused Fire",
-    "collection": "1st encounter",
+    "collection": "1st_encounter",
     "image": "/contracts/1st_encounter/Focused_Fire.jpg",
     "type": "Kill Contract",
     "contractId": "23457",
@@ -1234,7 +1234,7 @@
   {
     "id": 45,
     "name": "Gauntlet Run",
-    "collection": "1st encounter",
+    "collection": "1st_encounter",
     "image": "/contracts/1st_encounter/Gauntlet_Run.jpg",
     "type": "Delivery Contract",
     "contractId": "13468",
@@ -1262,7 +1262,7 @@
   {
     "id": 46,
     "name": "Decoy Convoy",
-    "collection": "Shard",
+    "collection": "shard",
     "image": "/contracts/shard/Decoy_Convoy.jpg",
     "type": "Rescue Contract",
     "contractId": "23457",
@@ -1290,7 +1290,7 @@
   {
     "id": 47,
     "name": "Deep Space Scan",
-    "collection": "Shard",
+    "collection": "shard",
     "image": "/contracts/shard/Deep_Space_Scan.jpg",
     "type": "Explore Contract",
     "contractId": "56787",
@@ -1318,7 +1318,7 @@
   {
     "id": 48,
     "name": "Hostage Extraction",
-    "collection": "Shard",
+    "collection": "shard",
     "image": "/contracts/shard/Hostage_Extraction.jpg",
     "type": "Rescue Contract",
     "contractId": "20070",
@@ -1346,7 +1346,7 @@
   {
     "id": 49,
     "name": "Hunt the Hunter",
-    "collection": "Shard",
+    "collection": "shard",
     "image": "/contracts/shard/Hunt_the_Hunter.jpg",
     "type": "Kill Contract",
     "contractId": "05765",
@@ -1374,7 +1374,7 @@
   {
     "id": 50,
     "name": "Illegal Munitions",
-    "collection": "Shard",
+    "collection": "shard",
     "image": "/contracts/shard/Illegal_Munitions.jpg",
     "type": "Delivery Contract",
     "contractId": "13468",
@@ -1402,7 +1402,7 @@
   {
     "id": 51,
     "name": "Emergency Council",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/Emergency_Council.jpg",
     "type": "Delivery Contract",
     "contractId": "78185",
@@ -1430,7 +1430,7 @@
   {
     "id": 52,
     "name": "Infiltration Plan",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/Infiltration_Plan.jpg",
     "type": "Rescue Contract",
     "contractId": "19728",
@@ -1458,7 +1458,7 @@
   {
     "id": 53,
     "name": "Minil Horde",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/Minil_Horde.jpg",
     "type": "Kill Contract",
     "contractId": "97531",
@@ -1486,7 +1486,7 @@
   {
     "id": 54,
     "name": "Mythic Monstrosity",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/Mythic_Monstrosity.jpg",
     "type": "Kill Contract",
     "contractId": "34985",
@@ -1514,7 +1514,7 @@
   {
     "id": 55,
     "name": "Precious Cargo",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/Precious_Cargo.jpg",
     "type": "Delivery Contract",
     "contractId": "67910",
@@ -1542,7 +1542,7 @@
   {
     "id": 56,
     "name": "Solar Flares",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/Solar_Flares.jpg",
     "type": "Explore Contract",
     "contractId": "14716",
@@ -1570,7 +1570,7 @@
   {
     "id": 57,
     "name": "Solar Shield",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/Solar_Shield.jpg",
     "type": "Rescue Contract",
     "contractId": "53879",
@@ -1598,7 +1598,7 @@
   {
     "id": 58,
     "name": "Starfall Anomaly",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/Starfall_Anomaly.jpg",
     "type": "Rescue Contract",
     "contractId": "33878",
@@ -1626,7 +1626,7 @@
   {
     "id": 59,
     "name": "The Veil",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/The_Veil.jpg",
     "type": "Explore Contract",
     "contractId": "65524",
@@ -1654,7 +1654,7 @@
   {
     "id": 60,
     "name": "Traders Peril",
-    "collection": "Binding ties",
+    "collection": "binding_ties",
     "image": "/contracts/binding_ties/Traders_Peril.jpg",
     "type": "Rescue Contract",
     "contractId": "62844",
@@ -1682,7 +1682,7 @@
   {
     "id": 61,
     "name": "Battle Simulation",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Battle_Simulation.jpg",
     "type": "Head to Head",
     "contractId": "32665",
@@ -1710,7 +1710,7 @@
   {
     "id": 62,
     "name": "Brawlers Cup",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Brawlers_Cup.jpg",
     "type": "Head to Head",
     "contractId": "51518",
@@ -1738,7 +1738,7 @@
   {
     "id": 63,
     "name": "Concealed Core",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Concealed_Core.jpg",
     "type": "Explore Contract",
     "contractId": "39823",
@@ -1766,7 +1766,7 @@
   {
     "id": 64,
     "name": "Concealed Parcel",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Concealed_Parcel.jpg",
     "type": "Delivery Contract",
     "contractId": "94603",
@@ -1794,7 +1794,7 @@
   {
     "id": 65,
     "name": "Cryptic Shadow",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Cryptic_Shadow.jpg",
     "type": "Rescue Contract",
     "contractId": "67075",
@@ -1822,7 +1822,7 @@
   {
     "id": 66,
     "name": "Energy Transfer",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Energy_Transfer.jpg",
     "type": "Head to Head",
     "contractId": "51518",
@@ -1850,7 +1850,7 @@
   {
     "id": 67,
     "name": "Guerilla Ambush",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Guerilla_Ambush.jpg",
     "type": "Kill Contract",
     "contractId": "30098",
@@ -1878,7 +1878,7 @@
   {
     "id": 68,
     "name": "Last Ship Standing",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Last_Ship_Standing.jpg",
     "type": "Head to Head",
     "contractId": "42603",
@@ -1906,7 +1906,7 @@
   {
     "id": 69,
     "name": "Nameless Ruins",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Nameless_Ruins.jpg",
     "type": "Explore Contract",
     "contractId": "59571",
@@ -1934,7 +1934,7 @@
   {
     "id": 70,
     "name": "Nebula Sprint",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Nebula_Sprint.jpg",
     "type": "Head to Head",
     "contractId": "66046",
@@ -1962,7 +1962,7 @@
   {
     "id": 71,
     "name": "Payload Delivery",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Payload_Delivery.jpg",
     "type": "Head to Head",
     "contractId": "02589",
@@ -1990,7 +1990,7 @@
   {
     "id": 72,
     "name": "Protect The Target",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Protect_The_Target.jpg",
     "type": "Head to Head",
     "contractId": "42603",
@@ -2018,7 +2018,7 @@
   {
     "id": 73,
     "name": "Readiness Inspection",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Readiness_Inspection.jpg",
     "type": "Head to Head",
     "contractId": "66046",
@@ -2046,7 +2046,7 @@
   {
     "id": 74,
     "name": "The Alpha Nebula",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/The_Alpha_Nebula.jpg",
     "type": "Explore Contract",
     "contractId": "12896",
@@ -2074,7 +2074,7 @@
   {
     "id": 75,
     "name": "The Beta Nebula",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/The_Beta_Nebula.jpg",
     "type": "Delivery Contract",
     "contractId": "43079",
@@ -2102,7 +2102,7 @@
   {
     "id": 76,
     "name": "The Omega Nebula",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/The_Omega_Nebula.jpg",
     "type": "Delivery Contract",
     "contractId": "25076",
@@ -2130,7 +2130,7 @@
   {
     "id": 77,
     "name": "Uncharted Nebula",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Uncharted_Nebula.jpg",
     "type": "Kill Contract",
     "contractId": "85438",
@@ -2158,7 +2158,7 @@
   {
     "id": 78,
     "name": "Undisclosed Refuge",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Undisclosed_Refuge.jpg",
     "type": "Rescue Contract",
     "contractId": "96370",
@@ -2186,7 +2186,7 @@
   {
     "id": 79,
     "name": "War Games",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/War_Games.jpg",
     "type": "Head to Head",
     "contractId": "02589",
@@ -2214,7 +2214,7 @@
   {
     "id": 80,
     "name": "Weapons Testing",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/contracts/overload/Weapons_Testing.jpg",
     "type": "Head to Head",
     "contractId": "32665",
@@ -2242,7 +2242,7 @@
   {
     "id": 81,
     "name": "Aggressive Negotiation",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Aggressive_Negotiation.jpg",
     "type": "Redacted Contract",
     "contractId": "68233",
@@ -2270,7 +2270,7 @@
   {
     "id": 82,
     "name": "Avoid Entrapment",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Avoid_Entrapment.jpg",
     "type": "Delivery Contract",
     "contractId": "81458",
@@ -2298,7 +2298,7 @@
   {
     "id": 83,
     "name": "Border Skirmish",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Border_Skirmish.jpg",
     "type": "Redacted Contract",
     "contractId": "80497",
@@ -2326,7 +2326,7 @@
   {
     "id": 84,
     "name": "Bounty Drones",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Bounty_Drones.jpg",
     "type": "Kill Contract",
     "contractId": "32067",
@@ -2354,7 +2354,7 @@
   {
     "id": 85,
     "name": "Broadside Cover",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Broadside_Cover.jpg",
     "type": "Rescue Contract",
     "contractId": "74001",
@@ -2382,7 +2382,7 @@
   {
     "id": 86,
     "name": "Dignitary Escort",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Dignitary_Escort.jpg",
     "type": "Redacted Contract",
     "contractId": "26299",
@@ -2410,7 +2410,7 @@
   {
     "id": 87,
     "name": "Emergency Orders",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Emergency_Orders.jpg",
     "type": "Redacted Contract",
     "contractId": "13802",
@@ -2438,7 +2438,7 @@
   {
     "id": 88,
     "name": "Fatal Extraction",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Fatal_Extraction.jpg",
     "type": "Redacted Contract",
     "contractId": "58023",
@@ -2466,7 +2466,7 @@
   {
     "id": 89,
     "name": "Feint Attack",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Feint_Attack.jpg",
     "type": "Rescue Contract",
     "contractId": "98398",
@@ -2494,7 +2494,7 @@
   {
     "id": 90,
     "name": "Hostile Arbitration",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Hostile_Arbitration.jpg",
     "type": "Redacted Contract",
     "contractId": "10321",
@@ -2522,7 +2522,7 @@
   {
     "id": 91,
     "name": "Moon Defense",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Moon_Defense.jpg",
     "type": "Redacted Contract",
     "contractId": "81691",
@@ -2550,7 +2550,7 @@
   {
     "id": 92,
     "name": "Nova Scout",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Nova_Scout.jpg",
     "type": "Explore Contract",
     "contractId": "35912",
@@ -2578,7 +2578,7 @@
   {
     "id": 93,
     "name": "Orbital Loop",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Orbital_Loop.jpg",
     "type": "Delivery Contract",
     "contractId": "10918",
@@ -2606,7 +2606,7 @@
   {
     "id": 94,
     "name": "Path to Absolution",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Path_to_Absolution.jpg",
     "type": "Redacted Contract",
     "contractId": "98707",
@@ -2634,7 +2634,7 @@
   {
     "id": 95,
     "name": "Patrol Survey",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Patrol_Survey.jpg",
     "type": "Redacted Contract",
     "contractId": "51657",
@@ -2662,7 +2662,7 @@
   {
     "id": 96,
     "name": "Readiness Drills",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Readiness_Drills.jpg",
     "type": "Redacted Contract",
     "contractId": "53813",
@@ -2690,7 +2690,7 @@
   {
     "id": 97,
     "name": "Sector Infiltration",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Sector_Infiltration.jpg",
     "type": "Kill Contract",
     "contractId": "90343",
@@ -2718,7 +2718,7 @@
   {
     "id": 98,
     "name": "Sector Scan",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Sector_Scan.jpg",
     "type": "Explore Contract",
     "contractId": "81094",
@@ -2746,7 +2746,7 @@
   {
     "id": 99,
     "name": "Supply Raid",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/Supply_Raid.jpg",
     "type": "Redacted Contract",
     "contractId": "44200",
@@ -2774,7 +2774,7 @@
   {
     "id": 100,
     "name": "The Academy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/contracts/nomad/The_Academy.jpg",
     "type": "Redacted Contract",
     "contractId": "15127",
@@ -2802,7 +2802,7 @@
   {
     "id": 101,
     "name": "Celestial Probe",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Celestial_Probe.jpg",
     "type": "Explore Contract",
     "contractId": "08166",
@@ -2830,7 +2830,7 @@
   {
     "id": 102,
     "name": "Celestial Sprint",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Celestial_Sprint.jpg",
     "type": "Delivery Contract",
     "contractId": "93040",
@@ -2858,7 +2858,7 @@
   {
     "id": 103,
     "name": "Destructive Expedition",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Destructive_Expedition.jpg",
     "type": "Kill Contract",
     "contractId": "93084",
@@ -2886,7 +2886,7 @@
   {
     "id": 104,
     "name": "Divine Sprint",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Divine_Sprint.jpg",
     "type": "Delivery Contract",
     "contractId": "45176",
@@ -2914,7 +2914,7 @@
   {
     "id": 105,
     "name": "Energy Pilgrimage",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Energy_Pilgrimage.jpg",
     "type": "Explore Contract",
     "contractId": "96159",
@@ -2942,7 +2942,7 @@
   {
     "id": 106,
     "name": "Hostile Intent",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Hostile_Intent.jpg",
     "type": "Redacted Contract",
     "contractId": "96685",
@@ -2970,7 +2970,7 @@
   {
     "id": 107,
     "name": "Impending Impact",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Impending_Impact.jpg",
     "type": "Rescue Contract",
     "contractId": "89913",
@@ -2998,7 +2998,7 @@
   {
     "id": 108,
     "name": "Left Behind",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Left_Behind.jpg",
     "type": "Kill Contract",
     "contractId": "80800",
@@ -3026,7 +3026,7 @@
   {
     "id": 109,
     "name": "Requisite Offering",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Requisite_Offering.jpg",
     "type": "Redacted Contract",
     "contractId": "06367",
@@ -3054,7 +3054,7 @@
   {
     "id": 110,
     "name": "Treacherous Pursuit",
-    "collection": "Starfall",
+    "collection": "starfall",
     "image": "/contracts/starfall/Treacherous_Pursuit.jpg",
     "type": "Rescue Contract",
     "contractId": "23805",
@@ -3082,7 +3082,7 @@
   {
     "id": 111,
     "name": "Chaotic Confluence",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Chaotic_Confluence.jpg",
     "type": "Unstable Contract",
     "contractId": "18745",
@@ -3111,7 +3111,7 @@
   {
     "id": 112,
     "name": "Contingency Shelter",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Contingency_Shelter.jpg",
     "type": "Rescue Contract",
     "contractId": "90026",
@@ -3140,7 +3140,7 @@
   {
     "id": 113,
     "name": "Ethereal Well",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Ethereal_Well.jpg",
     "type": "Explore Contract",
     "contractId": "06923",
@@ -3169,7 +3169,7 @@
   {
     "id": 114,
     "name": "Gossamer Vault",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Gossamer_Vault.jpg",
     "type": "Explore Contract",
     "contractId": "68566",
@@ -3198,7 +3198,7 @@
   {
     "id": 115,
     "name": "Helix Guardian",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Helix_Guardian.jpg",
     "type": "Kill Contract",
     "contractId": "58346",
@@ -3227,7 +3227,7 @@
   {
     "id": 116,
     "name": "Imperial Envoy",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Imperial_Envoy.jpg",
     "type": "Delivery Contract",
     "contractId": "40441",
@@ -3256,7 +3256,7 @@
   {
     "id": 117,
     "name": "Lattice Network",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Lattice_Network.jpg",
     "type": "Rescue Contract",
     "contractId": "49589",
@@ -3285,7 +3285,7 @@
   {
     "id": 118,
     "name": "Rift Watcher",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Rift_Watcher.jpg",
     "type": "Kill Contract",
     "contractId": "32401",
@@ -3314,7 +3314,7 @@
   {
     "id": 119,
     "name": "Semestral Haul",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Semestral_Haul.jpg",
     "type": "Delivery Contract",
     "contractId": "23417",
@@ -3343,7 +3343,7 @@
   {
     "id": 120,
     "name": "Tear of Convergence",
-    "collection": "Intrepid",
+    "collection": "intrepid",
     "image": "/contracts/intrepid/Tear_of_Convergence.jpg",
     "type": "Unstable Contract",
     "contractId": "78657",

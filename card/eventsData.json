@@ -3,7 +3,7 @@
     "id": 1,
     "name": "After Market",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/After_Market.jpg",
     "cardText": "Players may trash any of their Ship Parts for 2 Credits each."
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Border Raids",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Border_Raids.jpg",
     "cardText": "All players may roll a die: +1 Bonus Card, No result, Trash a Ship Part"
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Bravado Mandate",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Bravado_Mandate.jpg",
     "cardText": "All contracts add +1 Hazard Die and +1 Prestige to the negotiation pool."
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "name": "Champion Sponsor",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Champion_Sponsor.jpg",
     "cardText": "Gain 2 Credits each time you lose a Prestige."
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Communal Rings",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Communal_Rings.jpg",
     "cardText": "All players draw +2 cards at the start of a contract. All Thruster cards draw 1 less card."
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "name": "Council Decree",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Council_Decree.jpg",
     "cardText": "Draw Objectives equal to the number of players. Draft from lowest to highest Prestige."
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "name": "Council Election",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Council_Election.jpg",
     "cardText": "All players may roll a die: Gain an Objective, No result, Lose an Objective."
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "Debris Recovery",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Debris_Recovery.jpg",
     "cardText": "Draw Ship Parts equal to the number of players. Draft from lowest to highest Prestige."
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "Defense Force",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Defense_Force.jpg",
     "cardText": "When you stay at base: Draw 3 Objectives and keep 2, but gain 0 Credits."
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "name": "Dextral Gala",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Dextral_Gala.jpg",
     "cardText": "All players simultaneously give a card from their hand to the player on their right. Add the new card to your hand."
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Flak Mandate",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Flak_Mandate.jpg",
     "cardText": "You may trash 1 Shield from your hand to roll 1 less Hazard Die."
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Grand Rally",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Grand_Rally.jpg",
     "cardText": "All players travel to Ventus. They may draw a card."
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "name": "Lidar Control",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Lidar_Control.jpg",
     "cardText": "All Hazard Dice are automatically set to 1 Hazard."
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "name": "Market Influx",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Market_Influx.jpg",
     "cardText": "Ship Parts cost 1 Credit less. Crew cost 1 Credit more."
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "name": "Merchant's Panel",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Merchants_Panel.jpg",
     "cardText": "All players travel to Komek and may search their draw pile for a Reactor and add it to their hand. Those players shuffle their draw pile."
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "name": "Nebulae Storm",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Nebulae_Storm.jpg",
     "cardText": "All players may roll a die, then must trash 1 card from: Draw or Discard Piles, Hand, Top of Draw Pile."
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "name": "Nitro Boost",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Nitro_Boost.jpg",
     "cardText": "All players may discard 1 Thruster from their hand to draw +2 Cards."
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "name": "Overcharge",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Overcharge.jpg",
     "cardText": "All players travel to Komek. They may discard a Reactor to gain 1 Credit."
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "name": "Overclock",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Overclock.jpg",
     "cardText": "All players travel to Ventus. They may discard 1 Thruster to gain 1 Credit."
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "name": "Overstock",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Overstock.jpg",
     "cardText": "All players may buy any 1 action card for 2 Credits."
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "name": "Passing Traders",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Passing_Traders.jpg",
     "cardText": "Players may trash the top card from their draw pile to add any action card to their discard pile."
   },
@@ -171,7 +171,7 @@
     "id": 22,
     "name": "Plasma Reserves",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Plasma_Reserves.jpg",
     "cardText": "+1 hand limit for everyone. All contracts have -1 Credit reward."
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "name": "Prison Break",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Prison_Break.jpg",
     "cardText": "Draw Crew equal to the number of players. Draft, from lowest to highest Prestige, to their discard piles."
   },
@@ -187,7 +187,7 @@
     "id": 24,
     "name": "Prophet's Comet",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Prophets_Comet.jpg",
     "cardText": "All players guess a card type and draw the top card from their deck. If guessed correctly, gain 2 Credits. If not, trash the card."
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "name": "Ritual Lavation",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Ritual_Lavation.jpg",
     "cardText": "All players travel to Magnomi. They may trash a card from their hands."
   },
@@ -203,7 +203,7 @@
     "id": 26,
     "name": "Salvage Bot",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Salvage_Bot.jpg",
     "cardText": "Any player may trash an Objective card to gain any action card to their discard pile."
   },
@@ -211,7 +211,7 @@
     "id": 27,
     "name": "Scorched Earth",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Scorched_Earth.jpg",
     "cardText": "All Damage requirements are increased by 1. All contracts with Damage requirements have +1 Credit reward."
   },
@@ -219,7 +219,7 @@
     "id": 28,
     "name": "Scrap Auction",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Scrap_Auction.jpg",
     "cardText": "Draw 1 of each default loadout card. Players draft from lowest to highest Prestige, to their discard piles. Remaining cards are trashed."
   },
@@ -227,7 +227,7 @@
     "id": 29,
     "name": "Shifted Devotion",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Shifted_Devotion.jpg",
     "cardText": "Players may trash an Objective card to gain 3 Credits."
   },
@@ -235,7 +235,7 @@
     "id": 30,
     "name": "Side Hustle",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Side_Hustle.jpg",
     "cardText": "Pay 1 Credit to draw 1 Objective card."
   },
@@ -243,7 +243,7 @@
     "id": 31,
     "name": "Sinistral Gala",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Sinistral_Gala.jpg",
     "cardText": "All players simultaneously give a card from their hand to the player on their left. Add the new card to your hand."
   },
@@ -251,7 +251,7 @@
     "id": 32,
     "name": "Special Training",
     "type": "Policy",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Special_Training.jpg",
     "cardText": "Ship Parts cost 1 Credit more. Crew cost 1 Credit less."
   },
@@ -259,7 +259,7 @@
     "id": 33,
     "name": "System Cycle",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/System_Cycle.jpg",
     "cardText": "All players may discard 3 cards from their hand to draw +2 Cards."
   },
@@ -267,7 +267,7 @@
     "id": 34,
     "name": "Time Dilation",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Time_Dilation.jpg",
     "cardText": "Players may freely travel to any sector."
   },
@@ -275,7 +275,7 @@
     "id": 35,
     "name": "Touring Merchant",
     "type": "Event",
-    "collection": "Nomad",
+    "collection": "nomad",
     "image": "/events/nomad/Touring_Merchant.jpg",
     "cardText": "All players may roll a die: Gain 2 Credits, No result, Lose 1 Credits."
   }

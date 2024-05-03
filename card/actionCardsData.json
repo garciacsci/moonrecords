@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Damage",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Damage.jpg",
     "cardText": "+1 Damage",
     "cardType": "damage",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Damage 2",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Damage_2.jpg",
     "cardText": "+2 Damage",
     "cardType": "damage",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Damage 3",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Damage_3.jpg",
     "cardText": "+3 Damage",
     "cardType": "damage",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Miss",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Miss.jpg",
     "cardText": "System Error",
     "cardType": "miss",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Reactor",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Reactor.jpg",
     "cardText": "+2 Actions",
     "cardType": "reactor",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "Shield",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Shield.jpg",
     "cardText": "Block 1 Hazard",
     "cardType": "shield",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Thruster",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Thruster.jpg",
     "cardText": "+2 Cards",
     "cardType": "thruster",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "Damage+",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Damage_+.jpg",
     "cardText": "+2 Damage, +1 Action",
     "cardType": "damage",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Reactor+",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Reactor_+.jpg",
     "cardText": "+2 Actions, +1 Card",
     "cardType": "reactor",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "Reactorx",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Reactor_X.jpg",
     "cardText": "+3 Actions",
     "cardType": "reactor",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "Shield+",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Shield_+.jpg",
     "cardText": "Block 1 Hazard, +1 Action",
     "cardType": "shield",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "name": "Shieldx",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Shield_X.jpg",
     "cardText": "Block 2 Hazard",
     "cardType": "shield",
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "name": "Thruster+",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Thruster_+.jpg",
     "cardText": "+2 Cards, +1 Action",
     "cardType": "thruster",
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "name": "Thrusterx",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Thruster_X.jpg",
     "cardText": "+3 Cards",
     "cardType": "thruster",
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "name": "Dark Matter",
-    "collection": "Dark Matter",
+    "collection": "dark_matter",
     "image": "/action_cards/dark_matter/Dark_Matter.jpg",
     "cardText": "Idle Substance",
     "cardType": "dark_matter",
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "name": "Damage",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Damage.jpg",
     "cardText": "Variable Damage",
     "cardType": "damage",
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "name": "Damage 1",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Damage_1.jpg",
     "cardText": "+1 Damage",
     "cardType": "damage",
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "name": "Damage 2",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Damage_2.jpg",
     "cardText": "+2 Damage",
     "cardType": "damage",
@@ -164,7 +164,7 @@
   {
     "id": 19,
     "name": "Damage 3",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Damage_3.jpg",
     "cardText": "+3 Damage",
     "cardType": "damage",
@@ -173,7 +173,7 @@
   {
     "id": 20,
     "name": "Miss",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Miss.jpg",
     "cardText": "System Error",
     "cardType": "miss",
@@ -182,7 +182,7 @@
   {
     "id": 21,
     "name": "Reactor",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Reactor.jpg",
     "cardText": "+2 Actions",
     "cardType": "reactor",
@@ -191,7 +191,7 @@
   {
     "id": 22,
     "name": "Shield",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Shield.jpg",
     "cardText": "Block 1 Hazard",
     "cardType": "shield",
@@ -200,7 +200,7 @@
   {
     "id": 23,
     "name": "Thruster",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Thruster.jpg",
     "cardText": "+2 Cards",
     "cardType": "thruster",
@@ -209,7 +209,7 @@
   {
     "id": 24,
     "name": "Damage+",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Damage_+.jpg",
     "cardText": "+2 Damage, +1 Action",
     "cardType": "damage",
@@ -218,7 +218,7 @@
   {
     "id": 25,
     "name": "Reactor+",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Reactor_+.jpg",
     "cardText": "+2 Actions, +1 Card",
     "cardType": "reactor",
@@ -227,7 +227,7 @@
   {
     "id": 26,
     "name": "Reactorx",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Reactor_X.jpg",
     "cardText": "+3 Actions",
     "cardType": "reactor",
@@ -236,7 +236,7 @@
   {
     "id": 27,
     "name": "Shield+",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Shield_+.jpg",
     "cardText": "Block 1 Hazard, +1 Action",
     "cardType": "shield",
@@ -245,7 +245,7 @@
   {
     "id": 28,
     "name": "Shieldx",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Shield_X.jpg",
     "cardText": "Block 2 Hazard",
     "cardType": "shield",
@@ -254,7 +254,7 @@
   {
     "id": 29,
     "name": "Thruster+",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Thruster_+.jpg",
     "cardText": "+2 Cards, +1 Action",
     "cardType": "thruster",
@@ -263,7 +263,7 @@
   {
     "id": 30,
     "name": "Thrusterx",
-    "collection": "Overload",
+    "collection": "overload",
     "image": "/action_cards/overload/Thruster_X.jpg",
     "cardText": "+3 Cards",
     "cardType": "thruster",
@@ -272,7 +272,7 @@
   {
     "id": 31,
     "name": "Dark Matter",
-    "collection": "Dark Matter",
+    "collection": "dark_matter",
     "image": "/action_cards/dark_matter/Dark_Matter.jpg",
     "cardText": "Idle Substance",
     "cardType": "dark_matter",
@@ -281,7 +281,7 @@
   {
     "id": 32,
     "name": "Damage 4",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Damage_3.jpg",
     "cardText": "+4 Damage",
     "cardType": "damage",
@@ -290,7 +290,7 @@
   {
     "id": 33,
     "name": "Damage 5",
-    "collection": "Base game",
+    "collection": "base_game",
     "image": "/action_cards/base/Damage_3.jpg",
     "cardText": "+5 Damage",
     "cardType": "damage",
