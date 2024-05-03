@@ -166,7 +166,8 @@ CREATE TABLE "action_card" (
 CREATE TABLE "effect" (
   "id" SERIAL PRIMARY KEY,
   "effect_type" VARCHAR(50) NOT NULL,
-  "effect_value" VARCHAR(50),
+  "effect_value_numeric" INTEGER,
+  "effect_value_text" INTEGER,
   "is_variable_effect_value" BOOLEAN NOT NULL DEFAULT false,
   "referenced_card_id" INTEGER REFERENCES "card"("id") DEFAULT NULL,
   "info" TEXT
@@ -181,7 +182,8 @@ CREATE TABLE "card_effect_map" (
 CREATE TABLE "condition" (
   "id" SERIAL PRIMARY KEY,
   "condition_type" VARCHAR(50) NOT NULL,
-  "condition_value" VARCHAR(50),
+  "condition_value_numeric" INTEGER,
+  "condition_value_text" VARCHAR(50),
   "referenced_card_id" INTEGER REFERENCES "card"("id") DEFAULT NULL,
   "info" TEXT
 );
