@@ -13,49 +13,7 @@
     "altPrint": false,
     "cardText": "At the start of a contract, +1 Card if you have no Reactors in your hand.",
     "wikiDescription": "Absorption K2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 2,
@@ -71,49 +29,7 @@
     "altPrint": false,
     "cardText": "Your first Reactor played gives an extra Action.",
     "wikiDescription": "Accelerator mk3 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 3,
@@ -129,49 +45,7 @@
     "altPrint": false,
     "cardText": "At the start of a contract, +1 Card if you have no Shields in your hand.",
     "wikiDescription": "Barrier A3 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 4,
@@ -191,46 +65,6 @@
         "description": "You can choose to not roll any [[Hazard Dice]] you have to roll, including those from contracts and abilities.",
         "source": "https://boardgamegeek.com/thread/2555433/may-cloaking-device-ship-part-affect-any-abilities"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": -1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -245,47 +79,7 @@
     "altPrint": false,
     "cardText": "Start every contract with +1 Action.",
     "wikiDescription": "Daburu mk1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 6,
@@ -306,48 +100,6 @@
         "id": "Dark_Matter_mk3_rule_1",
         "description": "When using this [[Ship Part]], you cannot search in the deck for required cards with {{crew/Zek Zarag}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/786231283579617340"
-      }
-    ],
-    "play_as_id": 32,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -375,54 +127,6 @@
         "id": "Defender_5000_rule_2",
         "description": "The used [[Shield]] is treated as a [[Shield]] card.",
         "source": "https://boardgamegeek.com/thread/2515278/rule-clarification-some-ship-parts"
-      }
-    ],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "miss",
-          "crew",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -454,48 +158,6 @@
         "id": "Duo_1000_rule_3",
         "description": "\u201cPlay as\u201c cards, such as {{crew/[REDACTED]}}, also counts as a [[Shield]] card and can be played for free."
       }
-    ],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -512,49 +174,7 @@
     "altPrint": false,
     "cardText": "Play your first Shield without using an Action.",
     "wikiDescription": "Emulator mk2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": null,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 10,
@@ -570,49 +190,7 @@
     "altPrint": false,
     "cardText": "At the start of a contract, +1 Card if you have no Thrusters in your hand.",
     "wikiDescription": "Escape Jets E1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "thruster"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 11,
@@ -632,46 +210,6 @@
         "description": "Draw 6 instead of 5 cards anytime you refresh your hand.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/964323957228601476"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -688,47 +226,7 @@
     "altPrint": false,
     "cardText": "Allies receive +1 Card at the start of a contract.",
     "wikiDescription": "Jump Jets E2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 13,
@@ -755,49 +253,6 @@
         "description": "If there are no more [[Miss]] in the armory, you get nothing.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1076365839651057734"
       }
-    ],
-    "play_as_id": 3,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -820,48 +275,6 @@
         "description": "It is a one-time ability per contract.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/765009199742582784"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 1,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -878,49 +291,7 @@
     "altPrint": false,
     "cardText": "Play your first Damage card without using an Action.",
     "wikiDescription": "MG Support Core is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": null,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 16,
@@ -941,48 +312,6 @@
         "id": "MG_Warp_rule_1",
         "description": "[TBC] {{crew/Crusse Parke}} cannot activate this [[Ship Part]] (as there is no [[Damage]] 4 card).",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/999707161959612518"
-      }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 2
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -1007,48 +336,6 @@
         "description": "You may trash a card even if there is no [[Damage]] requirement in a Contract.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/765009199742582784"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 3,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1066,49 +353,7 @@
     "altPrint": false,
     "cardText": "Requirement is 2 less for Damage if you don't play a Shield.",
     "wikiDescription": "MG1 Rail Gun is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 2,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 19,
@@ -1130,48 +375,6 @@
         "description": "The 2 [[Damage 1]] cards played for this [[Ship Part]] cannot stack with {{crew/Kary Powak}}'s ability.",
         "source": "https://boardgamegeek.com/thread/2554177/mg2-laser-turrets-kary-powak-interaction"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 4,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1188,49 +391,7 @@
     "altPrint": false,
     "cardText": "At the start of a contract, +2 Cards if you have no Damage cards in your hand.",
     "wikiDescription": "MG2 Quad Laser is a [[Ship Part]] from the Base game. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 2
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 21,
@@ -1262,46 +423,6 @@
         "description": "You cannot stack this with {{shipParts/The Pursuer}}. Meaning you cannot discard up to 3 [[Cards]] to activate both [[Ship Parts]].",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/856262171280015400"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1325,48 +446,6 @@
         "description": "\"All players\" means those who participate in a contract that you are in.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/764306046121934878"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1383,47 +462,7 @@
     "altPrint": false,
     "cardText": "+1 Card per Hazard Dice targeting you.",
     "wikiDescription": "Projector S2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": null,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 24,
@@ -1439,47 +478,7 @@
     "altPrint": false,
     "cardText": "Allies start with an extra Action.",
     "wikiDescription": "Pulsor mk1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 25,
@@ -1495,47 +494,7 @@
     "altPrint": false,
     "cardText": "Discard 2 of the same card as 1 Action to play as a Shield, Thruster, Reactor, or Damage 1.",
     "wikiDescription": "Replicator mk1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 26,
@@ -1551,47 +510,7 @@
     "altPrint": false,
     "cardText": "Requirement for Reactors is 1 less.",
     "wikiDescription": "Sapphire mk2 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 1,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 27,
@@ -1608,49 +527,7 @@
     "altPrint": false,
     "cardText": "Discard a Damage 1 from your hand, +2 Actions.",
     "wikiDescription": "Swarm mk1 is a [[Ship Part]] from the Base game. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 2,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 28,
@@ -1664,53 +541,13 @@
     },
     "holographic": true,
     "altPrint": false,
-    "cardText": "Once per contract, you may block 1 Hazard by trashing a card from your hand.",
+    "cardText": "Once per contract, you may block 1 HAzard by trashing a card from your hand.",
     "wikiDescription": "Symbiote 9000 is a [[Ship Part]] from the Base game. It was manufactured in the [[Henko]] sector.",
     "ruleClarifications": [
       {
         "id": "Symbiote_9000_rule_1",
         "description": "[TBC] You may not trash a [[Card]] if there is no [[Hazard]] to negate.",
         "source": "https://boardgamegeek.com/thread/2679957/symbiote-9000-no-hazardsblock-vs-negate-hazard"
-      }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 1,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -1747,48 +584,6 @@
         "description": "[TBC] You cannot play a [[Crew]] from the Mercenary twice.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/796891591562100796"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "crew"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": true,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1811,48 +606,6 @@
         "description": "The [[1 Damage]] does not trigger effects regarding [[Damage]] cards. This includes {{shipParts/MG Charge Core}}, {{shipParts/The Quantum Driver}}, {{shipParts/MG Warp}}, {{objectives/Fire Support}}, {{crew/Kary Powalk}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1002971705905528912"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": null,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1870,47 +623,7 @@
     "altPrint": false,
     "cardText": "Requirement for Damage is 1 less.",
     "wikiDescription": "The Gatling Laser is a [[Ship Part]] from the Base game. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 1,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 32,
@@ -1926,47 +639,7 @@
     "altPrint": false,
     "cardText": "As Mission Leader or ally, gain +1 Action for each ally.",
     "wikiDescription": "The Leech is a [[Ship Part]] from the Base game. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": null,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 33,
@@ -1988,46 +661,6 @@
         "description": "You cannot stack this with {{shipParts/Multi Stage M1}}. Meaning you cannot discard up to 3 [[Cards]] to activate both [[Ship Parts]].",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/856262171280015400"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -2045,49 +678,7 @@
     "altPrint": false,
     "cardText": "Once per contract, play a Damage 1 as a Damage 3.",
     "wikiDescription": "The Quantum Driver is a [[Ship Part]] from the Base game. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 3,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 35,
@@ -2103,47 +694,7 @@
     "altPrint": false,
     "cardText": "Requirement for Shields is 1 less.",
     "wikiDescription": "Titan 3000 is a [[Ship Part]] from the Base game. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 1,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 36,
@@ -2159,47 +710,7 @@
     "altPrint": false,
     "cardText": "Requirement for Thrusters is 1 less.",
     "wikiDescription": "Twin Jets E4 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 1,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 37,
@@ -2215,47 +726,7 @@
     "altPrint": false,
     "cardText": "As Mission Leader, +1 Card at the start of a contract.",
     "wikiDescription": "Vector Jets E3 is a [[Ship Part]] from the Base game. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 38,
@@ -2271,47 +742,7 @@
     "altPrint": false,
     "cardText": "When you stay at base, gain 4 Credits instead of 1.",
     "wikiDescription": "Doom is a [[Ship Part]] from the 1st encounter micro expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 4,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 39,
@@ -2338,48 +769,6 @@
         "description": "[[Cards]] that are played as a [[Reactor]] can activate Fission, e.g. [[Miss]] from {{shipParts/SOS}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/896874692089114645"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -2396,49 +785,7 @@
     "altPrint": false,
     "cardText": "Your first Thruster played negates a Hazard Die.",
     "wikiDescription": "Ghost is a [[Ship Part]] from the 1st encounter micro expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "thruster"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 1,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 41,
@@ -2454,49 +801,7 @@
     "altPrint": false,
     "cardText": "Gain an Action for each Hazard you block with a Shield.",
     "wikiDescription": "Siphon is a [[Ship Part]] from the 1st encounter micro expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": null,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": null,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 42,
@@ -2512,49 +817,7 @@
     "altPrint": false,
     "cardText": "You may play Miss cards as a Shield, Thruster, Reactor, or Damage 1.",
     "wikiDescription": "SOS is a [[Ship Part]] from the 1st encounter micro expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 43,
@@ -2568,53 +831,7 @@
     "altPrint": false,
     "cardText": "Once per Contract, you may pay 2 Credits to draw a default loadout card from the supply to your hand.",
     "wikiDescription": "EM - TR4 is a [[Ship Part]] from the Shard micro expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": -2,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 44,
@@ -2641,46 +858,6 @@
         "description": "This applies to negated [[Hazards]].",
         "source": "https://discord.com/channels/611272410880016390/619963252272660490/800847666002001960"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": null,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": null,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -2703,46 +880,6 @@
         "description": "You may redraw indefinitely before playing any cards but this is not recommended.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/970323453729206393"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 5
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -2759,49 +896,7 @@
     "altPrint": false,
     "cardText": "You may trash a Reactor to gain +4 Actions.",
     "wikiDescription": "Refractor is a [[Ship Part]] from the Shard micro expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 4,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 47,
@@ -2817,54 +912,7 @@
     "altPrint": false,
     "cardText": "You may trash a Damage and a Card from your hand to add a Damage of one tier higher into your hand.",
     "wikiDescription": "Shard Spear is a [[Ship Part]] from the Shard micro expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "miss",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 48,
@@ -2878,47 +926,7 @@
     "altPrint": false,
     "cardText": "Prestige costs 1 less Faction Rep.",
     "wikiDescription": "Artifact 205-A is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": null,
-        "prestiege": null,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 49,
@@ -2932,47 +940,7 @@
     "altPrint": false,
     "cardText": "All Faction Rep rewards except Prestige cost 1 less, minimum 1.",
     "wikiDescription": "Artifact 205-B is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": null,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 50,
@@ -2988,47 +956,7 @@
     "altPrint": false,
     "cardText": "Trading Faction Rep is now a 2:1 ratio.",
     "wikiDescription": "Comms Array C5 is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": null,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 51,
@@ -3044,47 +972,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may trash a card to gain 1 Faction Rep in your lowest faction.",
     "wikiDescription": "Envoy Shuttle is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 52,
@@ -3100,47 +988,7 @@
     "altPrint": false,
     "cardText": "You may roll 1 additional Hazard Die. Gain Faction Rep equal to Hazard rolled on that dice.",
     "wikiDescription": "Flak Mine is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": null,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 53,
@@ -3156,47 +1004,7 @@
     "altPrint": false,
     "cardText": "You may spend any amount of Faction Rep to reduce the requirement for Damage an equal amount.",
     "wikiDescription": "LR Targeting Core is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": null,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": null,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 54,
@@ -3212,47 +1020,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may spend a Faction Rep to block 1 Hazard.",
     "wikiDescription": "Proto Warning System is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 1,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": -1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 55,
@@ -3268,47 +1036,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may spend a Faction Rep to gain +1 Action.",
     "wikiDescription": "Pulse Exchange is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": -1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 56,
@@ -3324,49 +1052,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may trash a Reactor card from your hand to gain a Faction Rep.",
     "wikiDescription": "Pulse Recycler is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 57,
@@ -3382,47 +1068,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may spend a Faction Rep to reduce a requirement by 1.",
     "wikiDescription": "Radar Repeater is a [[Ship Part]] from the Binding ties expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": -1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 1,
-        "damage": 1,
-        "thruster": 1,
-        "shield": 1,
-        "crew": 1,
-        "flex": 1
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 58,
@@ -3450,46 +1096,6 @@
         "description": "This can apply to head-to-head contracts.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1002608495876649010"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": null,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -3506,49 +1112,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may trash a shield from your hand and add a Shield+ to your discard pile.",
     "wikiDescription": "Augmentor 2050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 60,
@@ -3564,49 +1128,7 @@
     "altPrint": false,
     "cardText": "Once per contract, if you play 2 Reactor cards in a row, draw +2 Cards.",
     "wikiDescription": "Catalyzer mk2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 2
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 61,
@@ -3622,50 +1144,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may give an ally a Reactor or a Thruster card from the supply into their hand.",
     "wikiDescription": "Contributor mk2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "thruster"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 1,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 62,
@@ -3690,46 +1169,6 @@
         "description": "[Unruled] If this is acquired from other means than buying (e.g. gaining a bonus card), you can ignore the requirement of Henko ship parts.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1073969381882732585"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -3746,49 +1185,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may trash a Reactor from your hand and add a Reactor + to your discard pile.",
     "wikiDescription": "Inverter mk2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 64,
@@ -3804,49 +1201,7 @@
     "altPrint": false,
     "cardText": "Discard any Shield from your hand to add 1 [IO] to this card. Remove 1 [IO] to subtract 1 Shield requirement.",
     "wikiDescription": "IO Buffer 2050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 1,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 65,
@@ -3873,53 +1228,6 @@
         "description": "Source contradicting above above ruling.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/795774355925106778"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "dark_matter"
-        ],
-        "block_hazard": 1,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 2,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -3936,47 +1244,7 @@
     "altPrint": false,
     "cardText": "Add 1 [IO] to this ship part to draw +1 Card. When this card has 4 [IO] on it, remove this ship part.",
     "wikiDescription": "IO Exhaust E1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 67,
@@ -3993,54 +1261,7 @@
     "altPrint": false,
     "cardText": "Add 1 [IO] to this card for every contract you complete. Remove 3 [IO] to play any card twice as 1 Action.",
     "wikiDescription": "IO Gen mk1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 3,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 68,
@@ -4056,47 +1277,7 @@
     "altPrint": false,
     "cardText": "Twice per contract, you may roll a Hazard Dice and add 1 [IO]. Remove 1 [IO] to subtract 1 from any requirement.",
     "wikiDescription": "IO Hotshot 1050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 2,
-        "roll_moonroller_die": 0,
-        "gain_io": 2,
-        "spend_io": 2,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 2,
-        "damage": 2,
-        "thruster": 2,
-        "shield": 2,
-        "crew": 2,
-        "flex": 2
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 69,
@@ -4113,49 +1294,7 @@
     "altPrint": false,
     "cardText": "Discard any Reactor from your hand to add 1 [IO] to this card. Remove 3 [IO] to add a Reactor+ to your discard.",
     "wikiDescription": "IO Hub mk2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 3,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 70,
@@ -4171,47 +1310,7 @@
     "altPrint": false,
     "cardText": "After a contract, add 1 [IO] for every unblocked Hazard. Remove 1 [IO] to re-roll a Hazard Die targeting you.",
     "wikiDescription": "IO Pivot H2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": null,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": null,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 71,
@@ -4228,49 +1327,7 @@
     "altPrint": false,
     "cardText": "Discard any Reactor from your hand to add 1 [IO] to this card. Remove 1 [IO] for +1 Action.",
     "wikiDescription": "IO Spark mk1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 72,
@@ -4287,49 +1344,7 @@
     "altPrint": false,
     "cardText": "Discard any Thruster from your hand to add 1 [IO] to this card. Remove 1 [IO] for +1 Card.",
     "wikiDescription": "IO Surge E2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "thruster"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 73,
@@ -4345,47 +1360,7 @@
     "altPrint": false,
     "cardText": "Once per contract, each ally may choose to give you 1 card from their hand. You may trash it, or place it into your hand.",
     "wikiDescription": "Magnetite M1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 74,
@@ -4401,47 +1376,7 @@
     "altPrint": false,
     "cardText": "Add 1 [IO] to this card for every Hazard you block. Remvoe 2 [IO] to deal 1 Damage.",
     "wikiDescription": "MG IO Charge is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": null,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 2,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 1,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 75,
@@ -4458,49 +1393,7 @@
     "altPrint": false,
     "cardText": "Discard 2 Damage cards from your hand to add 1 [IO] to this card. Remove 1 [IO] to deal 1 Damage.",
     "wikiDescription": "MG IO Core is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 1,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 76,
@@ -4516,49 +1409,7 @@
     "altPrint": false,
     "cardText": "Add 1 [IO] to this card every time you play a Damage 2. Remove 4 [IO] from this card to double your played Damage.",
     "wikiDescription": "MG IO Overkill is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 4,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": null,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 77,
@@ -4574,49 +1425,7 @@
     "altPrint": false,
     "cardText": "Once per contract, spend 1 additional Action when playing a Damage card to double it's Damage value.",
     "wikiDescription": "MG Overcharger is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": null,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 78,
@@ -4633,49 +1442,7 @@
     "altPrint": false,
     "cardText": "At the start of a contract, if there is a Miss in your hand, draw +2 Cards.",
     "wikiDescription": "MG Raid is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 2
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 79,
@@ -4697,48 +1464,6 @@
         "id": "MG_Reformer_rule_1",
         "description": "Trashed cards from any other means do not fulfill this requirement.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1091019673908281446"
-      }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": true,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -4762,54 +1487,6 @@
         "description": "[Unruled] Discarding and replacing cards from the Armory (using [[Credits]] or as a free action in the expansions) does not qualify for this [[Ship Part]].",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1059748915446026241"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "dark_matter",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -4826,49 +1503,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may trash a Damage from your hand and add a Damage+ to your discard pile.",
     "wikiDescription": "MG Upgrade Core is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 82,
@@ -4884,55 +1519,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you and an ally may trade 1 card from your hands.",
     "wikiDescription": "Modulator T3 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "dark_matter",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 1,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 83,
@@ -4949,47 +1536,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may take a card form your hand and give it to an ally. They must put that card into their hand.",
     "wikiDescription": "Phase Drive mk3 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 84,
@@ -5006,47 +1553,7 @@
     "altPrint": false,
     "cardText": "If there are 2 or more Hazard Dice targeting you, gain 1 Credit.",
     "wikiDescription": "Precari 4050 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": null,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 1,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 85,
@@ -5062,49 +1569,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may trash a Thruster from your hand and add a Thruster+ to your discard pile.",
     "wikiDescription": "Staged Burst E3 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "thruster"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 86,
@@ -5121,55 +1586,7 @@
     "altPrint": false,
     "cardText": "When discarding your cards at the end of a contract, you may add 1 of the discarded cards to the top of your draw pile.",
     "wikiDescription": "Tesselator mk1 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "dark_matter",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": true,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 87,
@@ -5185,55 +1602,7 @@
     "altPrint": false,
     "cardText": "Discard 2 cards to add 1 [IO] to this card. Spend 3 [IO] to add a copy of any action card in your hand to your discard pile.",
     "wikiDescription": "The Arbiter is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "dark_matter",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 3,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 88,
@@ -5251,47 +1620,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may trash a card from your hand to add 1 [IO] to this card. Remvove 4 [IO] for +1 Prestige.",
     "wikiDescription": "The Eternal is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 4,
-        "faction_rep": 0,
-        "prestiege": 1,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 89,
@@ -5307,55 +1636,7 @@
     "altPrint": false,
     "cardText": "Once per contract, discard the top card of your draw pile. If it isn't a Crew, add a copy of that card to your discard pile.",
     "wikiDescription": "The Mill is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "dark_matter",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 90,
@@ -5372,55 +1653,7 @@
     "altPrint": false,
     "cardText": "Anytime you trash a card, gain 2 Credits.",
     "wikiDescription": "The Reclaimer is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "dark_matter",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 2,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 91,
@@ -5437,47 +1670,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may trash 2 cards from your hand to subtract 3 from any 1 requirement",
     "wikiDescription": "The Tributor is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 3,
-        "damage": 3,
-        "thruster": 3,
-        "shield": 3,
-        "crew": 3,
-        "flex": 3
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 92,
@@ -5493,49 +1686,7 @@
     "altPrint": false,
     "cardText": "When playing any Thruster, you may discard the first card drawn and draw an additional card.",
     "wikiDescription": "Thrust Tuner E2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "thruster"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 93,
@@ -5551,47 +1702,7 @@
     "altPrint": false,
     "cardText": "Once per contract, look at the top card of your draw pile. Return this card back to the top of your draw pile or discard it.",
     "wikiDescription": "Twin Probe E2 is a [[Ship Part]] from the Overload expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": true,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 94,
@@ -5613,46 +1724,6 @@
         "description": "Head to head contracts would not be failed.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1096637344154648576"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 3,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -5669,49 +1740,7 @@
     "altPrint": false,
     "cardText": "You may discard a Crew to reduce Crew contract requirement by 2.",
     "wikiDescription": "The Automaton is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "crew"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 2,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 96,
@@ -5727,47 +1756,7 @@
     "altPrint": false,
     "cardText": "Once per turn, you may trash a card to gain +2 Actions.",
     "wikiDescription": "The Conductor is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 2,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 97,
@@ -5783,47 +1772,7 @@
     "altPrint": false,
     "cardText": "As Mission Leader, draw 5 contracts instead of 3 when you travel to a sector.",
     "wikiDescription": "The Decoder is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 98,
@@ -5839,49 +1788,7 @@
     "altPrint": false,
     "cardText": "Roll an additional Hazard Die every contract. All Thruster cards draw an additional card.",
     "wikiDescription": "The Icarus is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "thruster"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 99,
@@ -5897,55 +1804,7 @@
     "altPrint": false,
     "cardText": "Once per contract, discard 3 unique cards to reduce a contract requirement by 2.",
     "wikiDescription": "The Initiator is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "miss",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 2,
-        "damage": 2,
-        "thruster": 2,
-        "shield": 2,
-        "crew": 2,
-        "flex": 2
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 100,
@@ -5961,47 +1820,7 @@
     "altPrint": false,
     "cardText": "When drawing an Event, draw 3 and choose 1. Return the other 2 to the bottom of the Event deck.",
     "wikiDescription": "The Intrepid is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 101,
@@ -6017,47 +1836,7 @@
     "altPrint": false,
     "cardText": "At the start of a contract, draw and play the top card of your draw pile without using an Action.",
     "wikiDescription": "The Providence is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": true,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 102,
@@ -6073,47 +1852,7 @@
     "altPrint": false,
     "cardText": "If you are alone in a sector, reduce any contract requirement by 2.",
     "wikiDescription": "The Resolute is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 2,
-        "damage": 2,
-        "thruster": 2,
-        "shield": 2,
-        "crew": 2,
-        "flex": 2
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 103,
@@ -6129,47 +1868,7 @@
     "altPrint": false,
     "cardText": "Without changing the order, you may look at the top 2 cards in your draw pile at any time.",
     "wikiDescription": "The Seer is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": true,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 104,
@@ -6185,47 +1884,7 @@
     "altPrint": false,
     "cardText": "As Mission Leader or ally, you may travel freely to any sector including your current sector.",
     "wikiDescription": "The Spectre is a [[Ship Part]] from the Nomad expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 105,
@@ -6241,47 +1900,7 @@
     "altPrint": false,
     "cardText": "Draw +2 Cards everytime you roll a Double Hazard.",
     "wikiDescription": "Pandorum Box is a [[Ship Part]] from the Starfall expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": null,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 2
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 106,
@@ -6297,47 +1916,7 @@
     "altPrint": false,
     "cardText": "Subtract 1 from the result of every dice you roll.",
     "wikiDescription": "Panic Drones is a [[Ship Part]] from the Starfall expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": -1,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 107,
@@ -6353,47 +1932,7 @@
     "altPrint": false,
     "cardText": "Gain +1 Action every time an ally rolls a die.",
     "wikiDescription": "Spark Root is a [[Ship Part]] from the Starfall expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 108,
@@ -6409,47 +1948,7 @@
     "altPrint": false,
     "cardText": "Once per contract, you may re-roll any 1 of your dice that was rolled for any reason.",
     "wikiDescription": "STF Proto Field is a [[Ship Part]] from the Starfall expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": null,
-        "roll_moonroller_die": null,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 109,
@@ -6468,54 +1967,6 @@
         "id": "The_Oracle_rule_1",
         "description": "After guessing a card type, all allies draw one card. The one with this ship part then gains 1 [[Credit]] for each card drawn that matches the guessed type."
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "miss",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": null,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -6532,50 +1983,7 @@
     "altPrint": false,
     "cardText": "Trash 1 Shield to gain a Dark Matter card. Play a Dark Matter card to block 2 Hazard.",
     "wikiDescription": "Bulwark 5040 is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield",
-          "dark_matter"
-        ],
-        "block_hazard": 2,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 111,
@@ -6591,50 +1999,7 @@
     "altPrint": false,
     "cardText": "Trash 1 Reactor to gain a Dark Matter card. Play a Dark matter card to reduce Reactor requirements by 2.",
     "wikiDescription": "Fragmentor mk3 is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 2,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 112,
@@ -6650,50 +2015,7 @@
     "altPrint": false,
     "cardText": "Trash 1 Thruster to gain a Dark Matter card. Play a Dark Matter card to reduce Thruster requirements by 2.",
     "wikiDescription": "Injector T9 is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "thruster",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 2,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 113,
@@ -6709,50 +2031,7 @@
     "altPrint": false,
     "cardText": "Trash 1 Damage to gain a Dark Matter card. As 1 Action, play 2 Dark Matter cards to deal 6 Damage.",
     "wikiDescription": "LR-42 AUTO is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 6,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 114,
@@ -6768,50 +2047,7 @@
     "altPrint": false,
     "cardText": "Trash 1 Damage to gain a Dark Matter card. Play a Dark Matter card to deal 2 Damage.",
     "wikiDescription": "Photon Cannon is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 2,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 115,
@@ -6827,50 +2063,7 @@
     "altPrint": false,
     "cardText": "Trash 1 Thruster to gain a Dark Matter card. Play a Dark Matter card for +3 Cards.",
     "wikiDescription": "Pod Coils is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "thruster",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 3
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 116,
@@ -6886,50 +2079,7 @@
     "altPrint": false,
     "cardText": "Trash 1 Reactor to gain a Dark Matter card. Play a Dark Matter card for +3 Actions.",
     "wikiDescription": "Prism Canister is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 3,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 117,
@@ -6945,50 +2095,7 @@
     "altPrint": false,
     "cardText": "Trash 1 Shield to gain a Dark Matter card. Play a Dark Matter card to reduce Shield requirements by 2.",
     "wikiDescription": "Security Buffer is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 2,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 118,
@@ -7004,50 +2111,7 @@
     "altPrint": false,
     "cardText": "Trash a Miss to gain a Dark Matter card. For every Dark Matter card you play, +2 Credits.",
     "wikiDescription": "The Lattice is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "miss",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 2,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 119,
@@ -7063,50 +2127,7 @@
     "altPrint": false,
     "cardText": "Trash a Miss to gain a Dark Matter card. As 1 Action, play 2 Dark Matter cards to gain an Objective card.",
     "wikiDescription": "The Transponder is a [[Ship Part]] from the Dark Matter expansion. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "miss",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 1,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 120,
@@ -7120,49 +2141,7 @@
     "altPrint": false,
     "cardText": "At the start of a contract, roll a [[Moonrollers die]]. On [[Damage]], add a Damage 2 to your hand. On [[Wild]], you must trash a card.",
     "wikiDescription": "MG Impact Warheads is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Magnomi]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 1,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 121,
@@ -7176,47 +2155,7 @@
     "altPrint": false,
     "cardText": "Roll a [[Moonrollers die]] for each Hazard Dice targeting you. Block a Hazard Die for each [[Wild]] or [[Shield]] rolled.",
     "wikiDescription": "Octingency 8050 is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Henko]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": null,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": null,
-        "roll_moonroller_die": null,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 122,
@@ -7230,54 +2169,7 @@
     "altPrint": false,
     "cardText": "Once per contract, roll 2 [[Moonrollers dice]]. Play 1 matching card without using an Action. Play any card on [[Wild]] or Crew on [[Extra die]].",
     "wikiDescription": "Tertiary Drive mk1 is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Komek]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "damage",
-          "thruster",
-          "shield",
-          "crew",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 2,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 123,
@@ -7291,47 +2183,7 @@
     "altPrint": false,
     "cardText": "Once per contract, roll a [[Moonrollers die]]. Reduce a matching contract requirement by 2. Any requirement on [[Wild]] or [[Extra die]].",
     "wikiDescription": "The Hexahedron is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Sorelia]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 1,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 2,
-        "damage": 2,
-        "thruster": 2,
-        "shield": 2,
-        "crew": 2,
-        "flex": 2
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 124,
@@ -7345,46 +2197,6 @@
     "altPrint": false,
     "cardText": "Once per contract, roll 4 [[Moonrollers dice]]. Allies gain +1 Actions for each [[Reactor]] and draw +1 Cards for each [[Thruster]].",
     "wikiDescription": "Trajectory Array K4 is a [[Ship Part]] from the Intrepid expansion from Moonrollers. It was manufactured in the [[Ventus]] sector.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 4,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": null,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   }
 ]

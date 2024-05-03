@@ -10,7 +10,6 @@
     "type": "paladin",
     "height": "5'10\"",
     "holographic": true,
-    "goldHolographic": false,
     "altPrint": false,
     "cardText": "Play as a Shield. Re-roll any number of your Hazard Dice.",
     "wikiDescription": "[REDACTED] is a [[Crew]] card from the Base Game. They belong to the [[Henko]] faction.",
@@ -24,46 +23,6 @@
         "id": "[REDACTED]_rule_2",
         "description": "After being played, [REDACTED] trigger descriptions regarding [[Shield]] cards, including {{objectives/Shield Wall}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/764655440771940363"
-      }
-    ],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": null,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -81,47 +40,7 @@
     "altPrint": false,
     "cardText": "+3 Actions. Requirement for Reactor is 1 less.",
     "wikiDescription": "Ada Massa is a [[Crew]] card from the Base Game. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 3,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 1,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 3,
@@ -147,46 +66,6 @@
         "id": "AT-0K_rule_2",
         "description": "[[Damage 1]] and [[Damage 2]] can be \"played as\" by AT-0K. This is different from other crews like {{crew/Crusse Parke}} (D4), {{crew/Grinar Flok}} (D4), and {{crew/Ryan Rogal}} (D5) where these cards don't exist.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/789733930076995595"
-      }
-    ],
-    "play_as_id": 16,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": null,
-        "negate_hazard_die": 1,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -225,48 +104,6 @@
         "description": "[TBC] When {{crew/Metaxis}} is using B3-AR's ability, you cannot pick up {{crew/Metaxis}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1004598440489123950"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "crew"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": true,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -283,47 +120,7 @@
     "altPrint": true,
     "cardText": "Negate 1 Hazard. Requirements for Shield is 1 less. +1 Card or +1 Action.",
     "wikiDescription": "Bill Bendo is a [[Crew]] card from the Base Game. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 1,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 1,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 6,
@@ -355,46 +152,6 @@
         "description": "[TBC] You cannot play Crusse Parke using {{crew/Zardon the Enforcer}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/771451281088053298"
       }
-    ],
-    "play_as_id": 31,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": true,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -410,47 +167,7 @@
     "holographic": false,
     "altPrint": false,
     "cardText": "Play as a 1 Damage 3, +1 Action.",
-    "wikiDescription": "Dana Powalki is a [[Crew]] card from the Base Game. They belong to the [[Magnomi]] faction.",
-    "play_as_id": 3,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "wikiDescription": "Dana Powalki is a [[Crew]] card from the Base Game. They belong to the [[Magnomi]] faction."
   },
   {
     "id": 8,
@@ -465,47 +182,7 @@
     "holographic": false,
     "altPrint": false,
     "cardText": "+2 Cards. Optional: Trash 1 Card from your hand.",
-    "wikiDescription": "Kal Damar is a [[Crew]] card from the Base Game. They belong to the [[Ventus]] faction.",
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 2
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "wikiDescription": "Kal Damar is a [[Crew]] card from the Base Game. They belong to the [[Ventus]] faction."
   },
   {
     "id": 9,
@@ -547,48 +224,6 @@
         "description": "This ability does not apply to the 2 [[Damage 1]] cards played in {{shipParts/MG2 Laser Turrets}}.",
         "source": "https://boardgamegeek.com/thread/2554177/mg2-laser-turrets-kary-powak-interaction"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -611,46 +246,6 @@
         "description": "If there is no [[Card]] in your draw pile, you may shuffle your discard. If there are no cards in your draw or discard pile, this card only gives [[+1 Action]].",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/774483374643478568"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": true,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -672,48 +267,6 @@
         "id": "Lila_al_Bindar_rule_1",
         "description": "You may not trash Lila al Bindar.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/878779560592814161"
-      }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": true,
-        "discard_pile": true,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -742,46 +295,6 @@
         "description": "If this is played as the last card in your hand, you don't have to trash a card.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/878779560592814161"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 2,
-        "damage": 2,
-        "thruster": 2,
-        "shield": 2,
-        "crew": 2,
-        "flex": 2
-      }
     ]
   },
   {
@@ -805,46 +318,6 @@
         "description": "You have to decide which requirement to reduce on play.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/983801571492130906"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 2,
-        "damage": 2,
-        "thruster": 2,
-        "shield": 2,
-        "crew": 2,
-        "flex": 2
-      }
     ]
   },
   {
@@ -861,47 +334,7 @@
     "altPrint": false,
     "cardText": "Discard any number of Cards and draw an equal number. +1 Action.",
     "wikiDescription": "Myla Dystra is a [[Crew]] card from the Base Game. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 15,
@@ -917,47 +350,7 @@
     "altPrint": false,
     "cardText": "+3 Cards. Requirement for Thruster is 1 less.",
     "wikiDescription": "Nella van Daval is a [[Crew]] card from the Base Game. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 3
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 1,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 16,
@@ -984,48 +377,6 @@
         "description": "The played [[Damage]] has to be [[Damage 1/2/3]] and not other cards that can be played as a [[Damage]].",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/800156800724631553"
       }
-    ],
-    "play_as_id": 32,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 2
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1042,47 +393,7 @@
     "altPrint": false,
     "cardText": "Negate 2 Hazard or reduce Shield requirement by 2.",
     "wikiDescription": "Ryle al Wren is a [[Crew]] card from the Base Game. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 2,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 2,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 18,
@@ -1104,46 +415,6 @@
         "description": "You have to decide which requirement to reduce on play.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/983801571492130906"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 1,
-        "damage": 1,
-        "thruster": 1,
-        "shield": 1,
-        "crew": 1,
-        "flex": 1
-      }
     ]
   },
   {
@@ -1160,47 +431,7 @@
     "altPrint": false,
     "cardText": "Play as a Damage 2 or a Shield.",
     "wikiDescription": "Tantin al Vale is a [[Crew]] card from the Base Game. They belong to the [[Magnomi]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 17,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 20,
@@ -1227,53 +458,6 @@
         "description": "You cannot pair this with [[Ship Parts]] requiring an [[Action]] to activate.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/835643068987473951"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage",
-          "miss",
-          "reactor",
-          "shield",
-          "thruster",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": true,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1296,46 +480,6 @@
         "description": "If this is played as the last card in your hand, you don't have to trash a card and still gain the benefits.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/763050156446711869"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 3,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1352,47 +496,7 @@
     "altPrint": false,
     "cardText": "+3 Actions, or draw an Objective Card.",
     "wikiDescription": "Karma Kesa is a [[Crew]] card from the 1st Encounter micro expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 1,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 3,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 23,
@@ -1418,48 +522,6 @@
         "id": "Metaxis_rule_2",
         "description": "[TBC] When Metaxis is using {{crew/B3-AR}}'s ability, you cannot pick up Metaxis.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1004598440489123950"
-      }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "crew"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": true,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -1488,46 +550,6 @@
         "description": "[TBC] If you reach 10 [[Prestige]] (or 15 with alternative rules), you do [not] win until the contract is over and [[Hazard]] is resolved.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/764147177596649502"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 1,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1549,48 +571,6 @@
         "id": "Zardon_the_Enforcer_rule_1",
         "description": "You can play [[Crews]] that are played as [[Damage]], even if they are not [[Damage]] cards. This includes {{crew/Crusse Parke}}, {{crew/Ryan Rogal}}, {{crew/Grinar Flok}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/771459047596884008"
-      }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -1614,46 +594,6 @@
         "description": "The blocked [[Hazards]] count towards {{shipParts/Flare Shard}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/878779560592814161"
       }
-    ],
-    "play_as_id": 1,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 2,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1670,52 +610,7 @@
     "altPrint": false,
     "cardText": "Add a Reactor, Thruster, Shield, or Damage 1 to your hand from the supply.",
     "wikiDescription": "Jes Ofra is a [[Crew]] card from the Shard micro expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "thruster",
-          "shield",
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 28,
@@ -1737,48 +632,6 @@
         "description": "You may not discard [[Crews]] that are played as a [[Shield]], e.g. {{crew/[REDACTED]}}.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/854888337239048203"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -1795,47 +648,7 @@
     "altPrint": false,
     "cardText": "+2 Actions or pay 1 Credit for +4 Actions.",
     "wikiDescription": "Rez Vondu is a [[Crew]] card from the Shard micro expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": null,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": null,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 30,
@@ -1851,47 +664,7 @@
     "altPrint": false,
     "cardText": "+2 Cards or pay 1 Credit for +4 Cards.",
     "wikiDescription": "Sol Forst is a [[Crew]] card from the Shard micro expansion. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": null,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 31,
@@ -1907,49 +680,7 @@
     "altPrint": false,
     "cardText": "Every 2 Damage you play this contract can instead reduce another contract requirement by 1.",
     "wikiDescription": "Agamar is a [[Crew]] card from the Endless micro expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 1,
-        "damage": null,
-        "thruster": 1,
-        "shield": 1,
-        "crew": 1,
-        "flex": 1
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 32,
@@ -1965,49 +696,7 @@
     "altPrint": false,
     "cardText": "Play as a Reactor, gain +1 Card for every 2 Reactor cards already played, including this one.",
     "wikiDescription": "Aponi is a [[Crew]] card from the Endless micro expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 5,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 33,
@@ -2023,47 +712,7 @@
     "altPrint": false,
     "cardText": "Gain +2 Actions or block 2 Hazard. Reduce a contract requirement by 1.",
     "wikiDescription": "Belan is a [[Crew]] card from the Endless micro expansion. They belong to a [[Special]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 2,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 2,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 1,
-        "damage": 1,
-        "thruster": 1,
-        "shield": 1,
-        "crew": 1,
-        "flex": 1
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 34,
@@ -2077,53 +726,13 @@
     "height": "7'03\"",
     "holographic": false,
     "altPrint": false,
-    "cardText": "Trash a card from your hand to gain +3 Cards. You may instead trash the top card of your deck to also negate a Hazard Die.",
+    "cardText": "Trash a card from your hand to gain +3 Cards. You main instead trash the top card of your deck to also negate a Hazard Die.",
     "wikiDescription": "Isabel is a [[Crew]] card from the Endless micro expansion. They belong to a [[Special]] faction.",
     "ruleClarifications": [
       {
         "id": "Isabel_rule_1",
         "description": "You may not trash the top [[Card]] if there is no [[Hazard Die]] to negate.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1022352194994966558"
-      }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 1,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": true,
-        "hand": true,
-        "action": 0,
-        "card": 3
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -2147,46 +756,6 @@
         "description": "[TBC] If you are tied for the least [[Prestige]], the first player in turn order - starting from the Mission Leader - will get the other [[Objective]].",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/999541359646089288"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": null,
-        "credit": 0,
-        "allies": 1,
-        "objective_card": 2,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -2203,49 +772,7 @@
     "altPrint": false,
     "cardText": "Play as a Thruster, gain +1 Action for each Thruster card already played, including this one.",
     "wikiDescription": "Naka is a [[Crew]] card from the Endless micro expansion. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 22,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "thruster"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": null,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 37,
@@ -2261,49 +788,7 @@
     "altPrint": false,
     "cardText": "Play as a Shield, gain +1 Card for each Shield card already played, including this one.",
     "wikiDescription": "Namari is a [[Crew]] card from the Endless micro expansion. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "shield"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": null
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 38,
@@ -2319,47 +804,7 @@
     "altPrint": false,
     "cardText": "Roll a Hazard Die. Reduce any contract requirement by the number of Hazard rolled on this die. Negate a Hazard Die.",
     "wikiDescription": "Pentha is a [[Crew]] card from the Endless micro expansion. They belong to a [[Special]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 1,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 1,
-        "damage": 1,
-        "thruster": 1,
-        "shield": 1,
-        "crew": 1,
-        "flex": 1
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 39,
@@ -2386,53 +831,6 @@
         "description": "It still counts towards the [[Crew]] requirement if you decided to use the second part of the ability. (You will have to play it to activate its ability, then trash it after play.)",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1002413006405255249"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage",
-          "miss",
-          "reactor",
-          "shield",
-          "thruster",
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 1,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -2449,49 +847,7 @@
     "altPrint": false,
     "cardText": "Play as a Damage 2, +1 Action for each Damage card already played, including this one.",
     "wikiDescription": "Saghari is a [[Crew]] card from the Endless micro expansion. They belong to the [[Magnomi]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 2,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "damage"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": null,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 41,
@@ -2507,47 +863,7 @@
     "altPrint": false,
     "cardText": "Gain a Faction Rep with your lowest faction. +1 Action.",
     "wikiDescription": "Ark Tii is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 42,
@@ -2563,47 +879,7 @@
     "altPrint": false,
     "cardText": "+3 Actions. You may trash this card to gain a Faction Rep.",
     "wikiDescription": "Detra Lar is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 3,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 43,
@@ -2619,47 +895,7 @@
     "altPrint": false,
     "cardText": "You may spend any amount of Faction Rep to gain an equal number of Actions. +1 Action.",
     "wikiDescription": "Finneal Lee is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": null,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": null,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 44,
@@ -2681,46 +917,6 @@
         "description": "This action is mandatory.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1095066224582463521"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": null,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 4,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -2737,47 +933,7 @@
     "altPrint": false,
     "cardText": "+3 Cards. You may trash this card to gain a Faction Rep.",
     "wikiDescription": "Kinta Lar is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 3
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 46,
@@ -2793,47 +949,7 @@
     "altPrint": false,
     "cardText": "Play as a Damage 2. You may trash the top card of your draw pile to gain 2 Faction Rep.",
     "wikiDescription": "Kyas IV is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Magnomi]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 2,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 2,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": true,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 47,
@@ -2849,47 +965,7 @@
     "altPrint": false,
     "cardText": "Play as a Shield. You may spend 1 of your Faction Rep to gain 1 Faction Rep of any color.",
     "wikiDescription": "Linus Farno is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": null,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 48,
@@ -2905,47 +981,7 @@
     "altPrint": false,
     "cardText": "Play as a Shield. Roll an additional Hazard Die. +1 Faction Rep.",
     "wikiDescription": "Lynna Tragel is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 49,
@@ -2967,46 +1003,6 @@
         "description": "This action is mandatory.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/1095066224582463521"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": null,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 1,
-        "damage": 1,
-        "thruster": 1,
-        "shield": 1,
-        "crew": 1,
-        "flex": 1
-      }
     ]
   },
   {
@@ -3023,47 +1019,7 @@
     "altPrint": false,
     "cardText": "+2 Cards. +1 Faction Rep. All other players gain 1 Faction Rep in their Faction with the least Rep.",
     "wikiDescription": "The Warden is a [[Crew]] card from the Binding Ties expansion. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 1,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 2
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 51,
@@ -3079,47 +1035,7 @@
     "altPrint": false,
     "cardText": "+4 Cards. Discard 3 cards.",
     "wikiDescription": "Anka Kramer is a [[Crew]] card from the Overload expansion. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 4
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 52,
@@ -3135,47 +1051,7 @@
     "altPrint": false,
     "cardText": "Play as a Shield and +1 Action, or you may trash this card to subtract 3 Shields from a contract requirement.",
     "wikiDescription": "Armitage is a [[Crew]] card from the Overload expansion. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 3,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 53,
@@ -3191,47 +1067,7 @@
     "altPrint": false,
     "cardText": "Subtract 3 from any 1 requirement. Lose 1 Prestige.",
     "wikiDescription": "Dae Arum is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": -1,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 3,
-        "damage": 3,
-        "thruster": 3,
-        "shield": 3,
-        "crew": 3,
-        "flex": 3
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 54,
@@ -3247,47 +1083,7 @@
     "altPrint": false,
     "cardText": "Add or remove 1 [IO] to any of your ship parts. +1 Action.",
     "wikiDescription": "Domi is a [[Crew]] card from the Overload expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 1,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 55,
@@ -3303,49 +1099,7 @@
     "altPrint": false,
     "cardText": "Subtract 2 from any 1 requirement. Add 1 Miss from the supply to your hand.",
     "wikiDescription": "FT-1000 is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": true,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 2,
-        "damage": 2,
-        "thruster": 2,
-        "shield": 2,
-        "crew": 2,
-        "flex": 2
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 56,
@@ -3361,47 +1115,7 @@
     "altPrint": false,
     "cardText": "Play as a Damage 4. Roll an additional Hazard Dice.",
     "wikiDescription": "Grinar Flok is a [[Crew]] card from the Overload expansion. They belong to the [[Magnomi]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 31,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 57,
@@ -3428,48 +1142,6 @@
         "description": "[Unruled] You can only take [[Crews]] that are face-up.",
         "source": "https://discord.com/channels/611272410880016390/611286336141393940/946281706430824448"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "crew"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": true,
-        "trash": false,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -3491,46 +1163,6 @@
         "id": "IO_L1-ON_rule_1",
         "description": "You remove [[IO Spheres]] only when you choose to use its ability.",
         "source": "https://discord.com/channels/611272410880016390/905176125536354324/1000311373466697758"
-      }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 3,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -3554,46 +1186,6 @@
         "description": "You remove [[IO Spheres]] only when you choose to use its ability.",
         "source": "https://discord.com/channels/611272410880016390/905176125536354324/1000311373466697758"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 3,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -3615,46 +1207,6 @@
         "id": "IO_MK8_rule_1",
         "description": "You remove [[IO Spheres]] only when you choose to use its ability.",
         "source": "https://discord.com/channels/611272410880016390/905176125536354324/1000311373466697758"
-      }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 3,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
       }
     ]
   },
@@ -3678,46 +1230,6 @@
         "description": "You remove [[IO Spheres]] only when you choose to use its ability.",
         "source": "https://discord.com/channels/611272410880016390/905176125536354324/1000311373466697758"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 1,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 3,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -3740,46 +1252,6 @@
         "description": "You remove [[IO Spheres]] only when you choose to use its ability.",
         "source": "https://discord.com/channels/611272410880016390/905176125536354324/1000311373466697758"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 3,
-        "spend_io": 1,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 2,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -3796,47 +1268,7 @@
     "altPrint": false,
     "cardText": "Subtract 2 from any 1 requirement. Then, add this card to any other player's discard pile.",
     "wikiDescription": "Ivan Guyril is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 2,
-        "damage": 2,
-        "thruster": 2,
-        "shield": 2,
-        "crew": 2,
-        "flex": 2
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 64,
@@ -3852,47 +1284,7 @@
     "altPrint": false,
     "cardText": "Trash a card from your hand, gain 1 Credit.",
     "wikiDescription": "Kin Tobor is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 1,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 65,
@@ -3908,49 +1300,7 @@
     "altPrint": false,
     "cardText": "+2 Actions. If you have played 2 or more Reactor cards, +2 Cards.",
     "wikiDescription": "Kurt Bilar is a [[Crew]] card from the Overload expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 2,
-        "card": 2
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 66,
@@ -3977,52 +1327,6 @@
         "description": "[TBC] You may trash a [[Miss]] but you would add a [[Miss]] back.",
         "source": "https://discord.com/channels/611272410880016390/927599199678238780/945823524365434880"
       }
-    ],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "reactor",
-          "thruster",
-          "shield",
-          "damage",
-          "miss"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
     ]
   },
   {
@@ -4039,47 +1343,7 @@
     "altPrint": false,
     "cardText": "Block 3 Hazard. Then, add this card to any other player's discard pile.",
     "wikiDescription": "Lyantoba Ga is a [[Crew]] card from the Overload expansion. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 3,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": true,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 68,
@@ -4095,47 +1359,7 @@
     "altPrint": false,
     "cardText": "Subtract 1 additional Crew requirement. +1 Action.",
     "wikiDescription": "Miska Rose is a [[Crew]] card from the Overload expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 1,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 69,
@@ -4151,47 +1375,7 @@
     "altPrint": false,
     "cardText": "+3 cards. All players not on the contract draw +1 Card.",
     "wikiDescription": "Oleg Ali is a [[Crew]] card from the Overload expansion. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": null,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 3
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 70,
@@ -4207,47 +1391,7 @@
     "altPrint": false,
     "cardText": "Choose 2: +1 Action, +1 Card, Block 1 Hazard, Trash a card from your hand.",
     "wikiDescription": "Pat Nungar is a [[Crew]] card from the Overload expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 1,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": true,
-        "action": 1,
-        "card": 1
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 71,
@@ -4263,47 +1407,7 @@
     "altPrint": false,
     "cardText": "Roll a die: [[Hazard 0]] Play as a Damage 4. [[Hazard 1]] Play as a Damage 2. [[Hazard 2]] +1 Hazard.",
     "wikiDescription": "Amper is a [[Crew]] card from the Starfall expansion. They belong to the [[Magnomi]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 31,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 72,
@@ -4319,47 +1423,7 @@
     "altPrint": false,
     "cardText": "Roll a die: [[Hazard 0]] Gain a Prestige. [[Hazard 1]] Lose 1 Credit. [[Hazard 2]] Trash this card.",
     "wikiDescription": "Avari is a [[Crew]] card from the Starfall expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 1,
-        "credit": -1,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 73,
@@ -4375,47 +1439,7 @@
     "altPrint": false,
     "cardText": "Roll a die: [[Hazard 0]] Play as 2 Reactors. [[Hazard 1]] Play as a Reactor. [[Hazard 2]] Lose an Action.",
     "wikiDescription": "Salatar is a [[Crew]] card from the Starfall expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 20,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": -1,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 74,
@@ -4431,47 +1455,7 @@
     "altPrint": false,
     "cardText": "Roll a die: [[Hazard 0]] Block all of your Hazard. [[Hazard 1]] Play as a Shield. [[Hazard 2]] +1 Hazard.",
     "wikiDescription": "Thegor is a [[Crew]] card from the Starfall expansion. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 21,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": null,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 75,
@@ -4487,47 +1471,7 @@
     "altPrint": false,
     "cardText": "Roll a die: [[Hazard 0]] Play as 2 Thrusters. [[Hazard 1]] Play as a Thruster. [[Hazard 2]] Discard 2 cards.",
     "wikiDescription": "Yarcon is a [[Crew]] card from the Starfall expansion. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 22,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 1,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 76,
@@ -4543,49 +1487,7 @@
     "altPrint": false,
     "cardText": "Add a Dark Matter card to your discard pile, or trash a Dark Matter card to deal 6 Damage.",
     "wikiDescription": "Dr. Umbrage is a [[Crew]] card from the Dark Matter expansion. They belong to the [[Magnomi]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": true,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 6,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 77,
@@ -4601,49 +1503,7 @@
     "altPrint": false,
     "cardText": "Add a Dark Matter card to your discard pile, or trash 1 Dark Matter card to gain 5 Credits.",
     "wikiDescription": "HAZ3 is a [[Crew]] card from the Dark Matter expansion. They belong to a [[Special]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 5,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": true,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 78,
@@ -4659,49 +1519,7 @@
     "altPrint": false,
     "cardText": "Add a Dark Matter card to your discard pile, or trash 1 Dark Matter card to negate all of your Hazard Dice.",
     "wikiDescription": "Imdar Shade is a [[Crew]] card from the Dark Matter expansion. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": null,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": true,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 79,
@@ -4717,49 +1535,7 @@
     "altPrint": false,
     "cardText": "Add a Dark Matter card to your discard pile, or trash 2 Dark Matter cards to gain a Prestige.",
     "wikiDescription": "Vanta Sae is a [[Crew]] card from the Dark Matter expansion. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 1,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": true,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 80,
@@ -4775,49 +1551,7 @@
     "altPrint": false,
     "cardText": "Add a Dark Matter card to your discard pile, or trash a Dark Matter card to gain +3 Actions and +3 Cards.",
     "wikiDescription": "Vila Noir is a [[Crew]] card from the Dark Matter expansion. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": [
-          "dark_matter"
-        ],
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 0,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": true,
-        "discard": false,
-        "discard_pile": true,
-        "supply": true,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 3,
-        "card": 3
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 81,
@@ -4833,47 +1567,7 @@
     "altPrint": false,
     "cardText": "Roll 3 [[Moonrollers]] dice. Draw +2 Cards for each [[Thruster]] or [[Wild]]. Discard 2 cards for each [[Extra die]].",
     "wikiDescription": "AN-D3RS is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Ventus]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 3,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": true,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 6
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 82,
@@ -4889,47 +1583,7 @@
     "altPrint": false,
     "cardText": "All players may roll a [[Moonrollers]] die. Reduce a matching contract requirement by 1. Reduce any requirement by 1 on a [[Wild]] or [[Extra die]].",
     "wikiDescription": "Fortunatus is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Sorelia]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 1,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 1,
-        "damage": 1,
-        "thruster": 1,
-        "shield": 1,
-        "crew": 1,
-        "flex": 1
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 83,
@@ -4945,47 +1599,7 @@
     "altPrint": false,
     "cardText": "Roll 3 [[Moonrollers]] dice. +2 Actions for each Reactor. +2 Cards for each [[Thruster]]. +1 Card, +1 Action for each [[Wild]].",
     "wikiDescription": "Omnitus is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Komek]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 3,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 6,
-        "card": 6
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 84,
@@ -5001,47 +1615,7 @@
     "altPrint": false,
     "cardText": "Roll 5 [[Moonrollers]] dice. Deal 2 Damage for each [[Damage]]. Gain 1 Hazard for each [[Extra die]]. You may re-roll each dice once.",
     "wikiDescription": "Oparia is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Magnomi]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 0,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 5,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 10,
-        "thruster": 0,
-        "shield": 0,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   },
   {
     "id": 85,
@@ -5057,46 +1631,6 @@
     "altPrint": false,
     "cardText": "Roll 4 [[Moonrollers dice]]. Block 1 Hazard for each [[Wild]]. Reduce Shield requirements by 1 for each [[Shield]]. You may re-roll each dice once.",
     "wikiDescription": "S4-LADCAT is a [[Crew]] card from the Intrepid expansion from Moonrollers. They belong to the [[Henko]] faction.",
-    "ruleClarifications": [],
-    "play_as_id": 0,
-    "interact_id": [
-      {
-        "id": null,
-        "card_type": null,
-        "block_hazard": 4,
-        "block_hazard_die": 0,
-        "negate_hazard": 0,
-        "negate_hazard_die": 0,
-        "roll_hazard_die": 0,
-        "roll_moonroller_die": 4,
-        "gain_io": 0,
-        "spend_io": 0,
-        "faction_rep": 0,
-        "prestiege": 0,
-        "credit": 0,
-        "allies": 0,
-        "objective_card": 0,
-        "armory": false,
-        "trash": false,
-        "discard": false,
-        "discard_pile": false,
-        "supply": false,
-        "played": false,
-        "draw_pile": false,
-        "hand": false,
-        "action": 0,
-        "card": 0
-      }
-    ],
-    "requirements": [
-      {
-        "reactor": 0,
-        "damage": 0,
-        "thruster": 0,
-        "shield": 4,
-        "crew": 0,
-        "flex": 0
-      }
-    ]
+    "ruleClarifications": []
   }
 ]
