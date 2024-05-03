@@ -201,7 +201,7 @@ CREATE TABLE "crew" (
 	"faction" faction_type NOT NULL,
   "role" crew_role_type NOT NULL,
   "type" crew_type NOT NULL,
-  "height" INT NOT NULL, -- feet and inches converted to meters
+  "height" DECIMAL NOT NULL, -- feet and inches converted to meters
   "holographic" BOOLEAN NOT NULL DEFAULT false,
   "gold_holographic" BOOLEAN NOT NULL DEFAULT false,
   "alt_print" BOOLEAN NOT NULL DEFAULT false,
