@@ -5,7 +5,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Absorption_K2.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "reactor": 1
     },
@@ -63,7 +63,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Accelerator_mk3.jpg",
     "cost": 4,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor": 1
     },
@@ -121,7 +121,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Barrier_A3.jpg",
     "cost": 2,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "shield": 1
     },
@@ -179,7 +179,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Cloaking_Device.jpg",
     "cost": 5,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {},
     "holographic": true,
     "altPrint": false,
@@ -239,7 +239,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Daburu_mk1.jpg",
     "cost": 6,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {},
     "holographic": true,
     "altPrint": false,
@@ -293,7 +293,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Dark_Matter_mk3.jpg",
     "cost": 4,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "damage2": 1
     },
@@ -357,7 +357,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Defender_5000.jpg",
     "cost": 3,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -432,7 +432,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Duo_1000.jpg",
     "cost": 4,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -504,7 +504,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Emulator_mk2.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "shield": 1
     },
@@ -562,7 +562,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Escape_Jets_E1.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 1
     },
@@ -620,7 +620,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Flash.jpg",
     "cost": 6,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {},
     "holographic": true,
     "altPrint": false,
@@ -680,7 +680,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Jump_Jets_E2.jpg",
     "cost": 2,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 1
     },
@@ -736,7 +736,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/MG_Charge_Core.jpg",
     "cost": 3,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "reactor": 1
     },
@@ -806,7 +806,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/MG_Phase_core.jpg",
     "cost": 3,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "reactor": 1
     },
@@ -870,7 +870,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/MG_Support_Core.jpg",
     "cost": 3,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "reactor": 2
     },
@@ -928,7 +928,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/MG_Warp.jpg",
     "cost": 5,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "thruster": 1
     },
@@ -992,7 +992,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/MG1_Kinetic.jpg",
     "cost": 3,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage": 2,
       "miss": 1
@@ -1057,7 +1057,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/MG1_Rail_Gun.jpg",
     "cost": 3,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage2": 1,
       "miss": 1
@@ -1116,7 +1116,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/MG2_Laser_Turrets.jpg",
     "cost": 2,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage": 2
     },
@@ -1180,7 +1180,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/MG2_Quad_Laser.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage3": 1
     },
@@ -1238,7 +1238,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Multi_Stage_M1.jpg",
     "cost": 4,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 2
     },
@@ -1310,7 +1310,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Predator_mk1.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "damage2": 1,
       "miss": 1
@@ -1375,7 +1375,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Projector_S2.jpg",
     "cost": 4,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "shield": 2
     },
@@ -1431,7 +1431,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Pulsor_mk1.jpg",
     "cost": 2,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor": 1
     },
@@ -1487,7 +1487,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Replicator_mk1.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "thruster": 1
     },
@@ -1543,7 +1543,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Sapphire_mk2.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor": 1
     },
@@ -1599,7 +1599,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Swarm_mk1.jpg",
     "cost": 4,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "damage2": 1,
       "miss": 1
@@ -1658,7 +1658,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Symbiote_9000.jpg",
     "cost": 3,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -1720,7 +1720,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/The_Clone_Bay.jpg",
     "cost": 6,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {},
     "holographic": true,
     "altPrint": false,
@@ -1797,7 +1797,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/The_Dauntless.jpg",
     "cost": 6,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "shield": 2
     },
@@ -1861,7 +1861,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/The_Gatling_Laser.jpg",
     "cost": 5,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "damage3": 1,
       "miss": 1
@@ -1918,7 +1918,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/The_Leech.jpg",
     "cost": 5,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "reactor": 2
     },
@@ -1974,7 +1974,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/The_Pursuer.jpg",
     "cost": 6,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "thruster": 2
     },
@@ -2036,7 +2036,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/The_Quantum_Driver.jpg",
     "cost": 7,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "damage3": 1,
       "miss": 1
@@ -2095,7 +2095,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Titan_3000.jpg",
     "cost": 3,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -2151,7 +2151,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Twin_Jets_E4.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 1
     },
@@ -2207,7 +2207,7 @@
     "collection": "base_game",
     "image": "/ship_parts/base/Vector_Jets_E3.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 1
     },
@@ -2263,7 +2263,7 @@
     "collection": "1st_encounter",
     "image": "/ship_parts/1st_encounter/Doom.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage3": 1
     },
@@ -2319,7 +2319,7 @@
     "collection": "1st_encounter",
     "image": "/ship_parts/1st_encounter/Fission.jpg",
     "cost": 5,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor": 1
     },
@@ -2388,7 +2388,7 @@
     "collection": "1st_encounter",
     "image": "/ship_parts/1st_encounter/Ghost.jpg",
     "cost": 5,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 1
     },
@@ -2446,7 +2446,7 @@
     "collection": "1st_encounter",
     "image": "/ship_parts/1st_encounter/Siphon.jpg",
     "cost": 5,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -2504,7 +2504,7 @@
     "collection": "1st_encounter",
     "image": "/ship_parts/1st_encounter/SOS.jpg",
     "cost": 6,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "miss": 1
     },
@@ -2562,7 +2562,7 @@
     "collection": "shard",
     "image": "/ship_parts/shard/EM_-_TR4.jpg",
     "cost": 2,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {},
     "holographic": false,
     "altPrint": false,
@@ -2622,7 +2622,7 @@
     "collection": "shard",
     "image": "/ship_parts/shard/Flare_Shard.jpg",
     "cost": 4,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -2689,7 +2689,7 @@
     "collection": "shard",
     "image": "/ship_parts/shard/Hypershift.jpg",
     "cost": 4,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 1
     },
@@ -2751,7 +2751,7 @@
     "collection": "shard",
     "image": "/ship_parts/shard/Refractor.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor": 1
     },
@@ -2809,7 +2809,7 @@
     "collection": "shard",
     "image": "/ship_parts/shard/Shard_Spear.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage2": 1
     },
@@ -2872,7 +2872,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/Artifact_205-A.jpg",
     "cost": 4,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {},
     "holographic": false,
     "altPrint": false,
@@ -2926,7 +2926,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/Artifact_205-B.jpg",
     "cost": 4,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {},
     "holographic": false,
     "altPrint": false,
@@ -2980,7 +2980,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/Comms_Array_C5.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 1
     },
@@ -3036,7 +3036,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/Envoy_Shuttle.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "miss": 1
     },
@@ -3092,7 +3092,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/Flak_Mine.jpg",
     "cost": 2,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -3148,7 +3148,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/LR_Targeting_Core.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage2": 1
     },
@@ -3204,7 +3204,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/Proto_Warning_System.jpg",
     "cost": 3,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -3260,7 +3260,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/Pulse_Exchange.jpg",
     "cost": 2,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor": 1
     },
@@ -3316,7 +3316,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/Pulse_Recycler.jpg",
     "cost": 2,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor": 1
     },
@@ -3374,7 +3374,7 @@
     "collection": "binding_ties",
     "image": "/ship_parts/binding_ties/Radar_Repeater.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage2": 1
     },
@@ -3430,7 +3430,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Aclimator_6050.jpg",
     "cost": 6,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield+": 1,
       "shieldx": 1
@@ -3498,7 +3498,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Augmentor_2050.jpg",
     "cost": 4,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -3556,7 +3556,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Catalyzer_mk2.jpg",
     "cost": 5,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor+": 1
     },
@@ -3614,7 +3614,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Contributor_mk2.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "thruster+": 1
     },
@@ -3673,7 +3673,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Devotion_3050.jpg",
     "cost": 5,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield+": 1,
       "reactor+": 1,
@@ -3738,7 +3738,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Inverter_mk2.jpg",
     "cost": 4,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor": 1
     },
@@ -3796,7 +3796,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/IO_Buffer_2050.jpg",
     "cost": 3,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield+": 1
     },
@@ -3854,7 +3854,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/IO_Cache_3050.jpg",
     "cost": 4,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shieldx": 1
     },
@@ -3928,7 +3928,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/IO_Exhaust_E1.jpg",
     "cost": 4,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster+": 1
     },
@@ -3984,7 +3984,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/IO_Gen_mk1.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactorx": 1,
       "miss": 1
@@ -4048,7 +4048,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/IO_Hotshot_1050.jpg",
     "cost": 5,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield+": 1
     },
@@ -4104,7 +4104,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/IO_Hub_mk2.jpg",
     "cost": 4,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor+": 1,
       "miss": 1
@@ -4163,7 +4163,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/IO_Pivot_H2.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster+": 1
     },
@@ -4219,7 +4219,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/IO_Spark_mk1.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactorx": 1,
       "miss": 1
@@ -4278,7 +4278,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/IO_Surge_E2.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thrusterx": 1,
       "miss": 1
@@ -4337,7 +4337,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Magnetite_M1.jpg",
     "cost": 4,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thrusterx": 1
     },
@@ -4393,7 +4393,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/MG_IO_Charge.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage+": 1
     },
@@ -4449,7 +4449,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/MG_IO_Core.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage+": 1,
       "damage": 1
@@ -4508,7 +4508,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/MG_IO_Overkill.jpg",
     "cost": 5,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage2": 2
     },
@@ -4566,7 +4566,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/MG_Overcharger.jpg",
     "cost": 5,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage+": 1
     },
@@ -4624,7 +4624,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/MG_Raid.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "thruster+": 1,
       "miss": 2
@@ -4683,7 +4683,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/MG_Reformer.jpg",
     "cost": 3,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage+": 1,
       "miss": 1
@@ -4748,7 +4748,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/MG_Tractor_Beam.jpg",
     "cost": 3,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage+": 1
     },
@@ -4818,7 +4818,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/MG_Upgrade_Core.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "damage": 1
     },
@@ -4876,7 +4876,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Modulator_T3.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thrusterx": 1
     },
@@ -4940,7 +4940,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Phase_Drive_mk3.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor+": 1,
       "damage": 1
@@ -4997,7 +4997,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Precari_4050.jpg",
     "cost": 6,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield+": 1,
       "shieldx": 1
@@ -5054,7 +5054,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Staged_Burst_E3.jpg",
     "cost": 4,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 1
     },
@@ -5112,7 +5112,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Tesselator_mk1.jpg",
     "cost": 4,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactorx": 1,
       "miss": 1
@@ -5177,7 +5177,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/The_Arbiter.jpg",
     "cost": 5,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "miss": 1
     },
@@ -5241,7 +5241,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/The_Eternal.jpg",
     "cost": 5,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "damage+": 1,
       "damage": 2,
@@ -5299,7 +5299,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/The_Mill.jpg",
     "cost": 3,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "reactorx": 1
     },
@@ -5363,7 +5363,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/The_Reclaimer.jpg",
     "cost": 4,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "reactorx": 1,
       "miss": 1
@@ -5428,7 +5428,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/The_Tributor.jpg",
     "cost": 5,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "reactor+": 1,
       "miss": 4
@@ -5485,7 +5485,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Thrust_Tuner_E2.jpg",
     "cost": 4,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thrusterx": 1
     },
@@ -5543,7 +5543,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Twin_Probe_E2.jpg",
     "cost": 4,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thrusterx": 1
     },
@@ -5599,7 +5599,7 @@
     "collection": "overload",
     "image": "/ship_parts/overload/Underwriter_1050.jpg",
     "cost": 3,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield+": 1
     },
@@ -5661,7 +5661,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Automaton.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -5719,7 +5719,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Conductor.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -5775,7 +5775,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Decoder.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -5831,7 +5831,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Icarus.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -5889,7 +5889,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Initiator.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -5953,7 +5953,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Intrepid.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -6009,7 +6009,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Providence.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -6065,7 +6065,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Resolute.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -6121,7 +6121,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Seer.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -6177,7 +6177,7 @@
     "collection": "nomad",
     "image": "/ship_parts/nomad/The_Spectre.jpg",
     "cost": 0,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "flex": 1
     },
@@ -6233,7 +6233,7 @@
     "collection": "starfall",
     "image": "/ship_parts/starfall/Pandorum_Box.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "thruster": 1
     },
@@ -6289,7 +6289,7 @@
     "collection": "starfall",
     "image": "/ship_parts/starfall/Panic_Drones.jpg",
     "cost": 6,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "shield": 1
     },
@@ -6345,7 +6345,7 @@
     "collection": "starfall",
     "image": "/ship_parts/starfall/Spark_Root.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "reactor": 1
     },
@@ -6401,7 +6401,7 @@
     "collection": "starfall",
     "image": "/ship_parts/starfall/STF_Proto_Field.jpg",
     "cost": 3,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "miss": 1
     },
@@ -6457,7 +6457,7 @@
     "collection": "starfall",
     "image": "/ship_parts/starfall/The_Oracle.jpg",
     "cost": 4,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {},
     "holographic": true,
     "altPrint": false,
@@ -6524,7 +6524,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/Bulwark_5040.jpg",
     "cost": 4,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "darkMatter": 1
     },
@@ -6583,7 +6583,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/Fragmentor_mk3.jpg",
     "cost": 3,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "darkMatter": 1
     },
@@ -6642,7 +6642,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/Injector_T9.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "darkMatter": 1
     },
@@ -6701,7 +6701,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/LR-42_AUTO.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "darkMatter": 1
     },
@@ -6760,7 +6760,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/Photon_Cannon.jpg",
     "cost": 4,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {
       "darkMatter": 1
     },
@@ -6819,7 +6819,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/Pod_Coils.jpg",
     "cost": 4,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {
       "darkMatter": 1
     },
@@ -6878,7 +6878,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/Prism_Canister.jpg",
     "cost": 4,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {
       "darkMatter": 1
     },
@@ -6937,7 +6937,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/Security_Buffer.jpg",
     "cost": 3,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {
       "darkMatter": 1
     },
@@ -6996,7 +6996,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/The_Lattice.jpg",
     "cost": 5,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "darkMatter": 1
     },
@@ -7055,7 +7055,7 @@
     "collection": "dark_matter",
     "image": "/ship_parts/dark_matter/The_Transponder.jpg",
     "cost": 4,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {
       "darkMatter": 1
     },
@@ -7114,7 +7114,7 @@
     "collection": "intrepid",
     "image": "/ship_parts/intrepid/MG_Impact_Warheads.jpg",
     "cost": 3,
-    "faction": "Magnomi",
+    "faction": "magnomi",
     "cards": {},
     "holographic": true,
     "altPrint": false,
@@ -7170,7 +7170,7 @@
     "collection": "intrepid",
     "image": "/ship_parts/intrepid/Octingency_8050.jpg",
     "cost": 4,
-    "faction": "Henko",
+    "faction": "henko",
     "cards": {},
     "holographic": true,
     "altPrint": false,
@@ -7224,7 +7224,7 @@
     "collection": "intrepid",
     "image": "/ship_parts/intrepid/Tertiary_Drive_mk1.jpg",
     "cost": 4,
-    "faction": "Komek",
+    "faction": "komek",
     "cards": {},
     "holographic": true,
     "altPrint": false,
@@ -7285,7 +7285,7 @@
     "collection": "intrepid",
     "image": "/ship_parts/intrepid/The_Hexahedron.jpg",
     "cost": 5,
-    "faction": "Sorelia",
+    "faction": "sorelia",
     "cards": {},
     "holographic": true,
     "altPrint": false,
@@ -7339,7 +7339,7 @@
     "collection": "intrepid",
     "image": "/ship_parts/intrepid/Trajectory_Array_K4.jpg",
     "cost": 3,
-    "faction": "Ventus",
+    "faction": "ventus",
     "cards": {},
     "holographic": true,
     "altPrint": false,
