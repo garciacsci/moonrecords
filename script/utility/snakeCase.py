@@ -24,6 +24,8 @@ for filename in os.listdir(directory):
         object['collection'] = to_snake_case(object['collection'])
       if 'faction' in object:
         object['faction'] = to_snake_case(object['faction'])
+      if 'role' in object:
+        object['role'] = to_snake_case(object['role'])
 
     # Write the modified data back to the file
     with open(filepath, 'w') as f:
