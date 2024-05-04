@@ -1,6 +1,6 @@
 import json
 import psycopg2
-from jsonschema import validate
+from jsonschema import ValidationError, validate
 import os
 from dotenv import load_dotenv
 
@@ -12,14 +12,26 @@ def load_and_validate_json(filename, schema):
     with open(filename) as file:
         data = json.load(file)
 
-    # Validate the JSON data against the schema
+# Validate the JSON data against the schema
     try:
         validate(instance=data, schema=schema)
         print("JSON data is valid.")
-    except Exception as e:
+    except ValidationError as ve:
+        # Provide a detailed error message
         print("JSON data is invalid.")
+        print(f"Validation error in {ve.path}: {ve.message}")
+        exit(1)
+    except json.JSONDecodeError as je:
+        # Specific error if JSON is malformed
+        print(f"Error reading JSON file: {je.msg}")
+        exit(1)
+    except Exception as e:
+        # Catch-all for any other exceptions that may occur
+        print("An unexpected error occurred:")
         print(str(e))
         exit(1)
+
+    return data
 
     return data
 

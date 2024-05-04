@@ -108,7 +108,7 @@ CREATE TYPE "crew_role_type" AS ENUM(
   'ashbane',
   'kelvari',
   'symbiont',
-  'rift_bender'
+  'rift_bender',
 );
 
 CREATE TYPE "event_type" AS ENUM (
@@ -202,8 +202,8 @@ CREATE TABLE "crew" (
   "role" crew_role_type NOT NULL,
   "type" crew_type NOT NULL,
   "height" DECIMAL NOT NULL, -- feet and inches converted to meters
-  "holographic" BOOLEAN NOT NULL DEFAULT false,
-  "gold_holographic" BOOLEAN NOT NULL DEFAULT false,
+  "is_holographic" BOOLEAN NOT NULL DEFAULT false,
+  "is_gold_holographic" BOOLEAN NOT NULL DEFAULT false,
   "alt_print" BOOLEAN NOT NULL DEFAULT false,
   "wiki_description" VARCHAR(255),
   "rule_clarification" jsonb

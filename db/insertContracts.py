@@ -59,8 +59,6 @@ try:
     # Insert the data into the contract table
     for card in contract_data:
 
-
-
         # Insert card into card table first
         cursor.execute("""
             INSERT INTO card (name, collection, image, card_text)

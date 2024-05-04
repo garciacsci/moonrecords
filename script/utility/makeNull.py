@@ -1,6 +1,7 @@
 import json
 
-filePath = 'card/contractData.json'
+#filePath = 'card/contractData.json'
+filePath = 'card/crewData.json'
 
 def replace_empty_string_with_none(obj):
     if isinstance(obj, dict):
