@@ -13,7 +13,7 @@ contract_card_schema = {
             "image": {"type": "string"},
             "type": {"type": "string"},
             "contractId": {"type": "string"},
-            "cardText": {"type": "string"},
+            "cardText": {"type": ["string", "null"]},
             "sector": {"type": "string"},
             "holographic": {"type": "boolean"},
             "requirements": {
@@ -59,15 +59,16 @@ try:
     # Insert the data into the contract table
     for card in contract_data:
 
+
+
         # Insert card into card table first
         cursor.execute("""
             INSERT INTO card (name, collection, image, card_text)
             VALUES (%s, %s, %s, %s)
             RETURNING id
         """, (card['name'], card['collection'], card['image'], card['cardText']))
-        # Get the maximum id from the card table
-        cursor.execute("SELECT MAX(id) FROM card")
         card_id = cursor.fetchone()[0]
+
 
         # Check if an identical requirement exists
         cursor.execute("""

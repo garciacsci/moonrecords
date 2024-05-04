@@ -6,7 +6,7 @@
     "image": "/contracts/base/Abandoned_Vessel.jpg",
     "type": "explore",
     "contractId": "30794",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -34,7 +34,7 @@
     "image": "/contracts/base/Admirals_Flagship.jpg",
     "type": "kill",
     "contractId": "10068",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -62,7 +62,7 @@
     "image": "/contracts/base/Ancient_Ruins.jpg",
     "type": "explore",
     "contractId": "13583",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -90,7 +90,7 @@
     "image": "/contracts/base/Assault_on_Vilonia.jpg",
     "type": "kill",
     "contractId": "13893",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -118,7 +118,7 @@
     "image": "/contracts/base/Asteroid_Field.jpg",
     "type": "explore",
     "contractId": "12017",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -146,7 +146,7 @@
     "image": "/contracts/base/Black_Hole.jpg",
     "type": "explore",
     "contractId": "20070",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -174,7 +174,7 @@
     "image": "/contracts/base/Blockade_Run.jpg",
     "type": "delivery",
     "contractId": "31172",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -202,7 +202,7 @@
     "image": "/contracts/base/Bomber_Screen.jpg",
     "type": "kill",
     "contractId": "19371",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -230,7 +230,7 @@
     "image": "/contracts/base/Bounty_Hunters.jpg",
     "type": "kill",
     "contractId": "20320",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -258,7 +258,7 @@
     "image": "/contracts/base/Claim_Bounty.jpg",
     "type": "kill",
     "contractId": "21008",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -286,7 +286,7 @@
     "image": "/contracts/base/Core_World_Ace.jpg",
     "type": "kill",
     "contractId": "24273",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -314,7 +314,7 @@
     "image": "/contracts/base/Cryogenic_Pods.jpg",
     "type": "rescue",
     "contractId": "32186",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -342,7 +342,7 @@
     "image": "/contracts/base/Derelict_Planet.jpg",
     "type": "explore",
     "contractId": "30655",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -370,7 +370,7 @@
     "image": "/contracts/base/Distress_Beacon.jpg",
     "type": "explore",
     "contractId": "15325",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -398,7 +398,7 @@
     "image": "/contracts/base/Elite_Squadron.jpg",
     "type": "kill",
     "contractId": "14673",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -426,7 +426,7 @@
     "image": "/contracts/base/Emergency_Meds.jpg",
     "type": "delivery",
     "contractId": "15307",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -454,7 +454,7 @@
     "image": "/contracts/base/Envoy_in_Distress.jpg",
     "type": "rescue",
     "contractId": "34103",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -482,7 +482,7 @@
     "image": "/contracts/base/Escape_Pods.jpg",
     "type": "rescue",
     "contractId": "34402",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -510,7 +510,7 @@
     "image": "/contracts/base/Escort_Duty.jpg",
     "type": "delivery",
     "contractId": "10854",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -538,7 +538,7 @@
     "image": "/contracts/base/Fuel_Shortage.jpg",
     "type": "delivery",
     "contractId": "27016",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -566,7 +566,7 @@
     "image": "/contracts/base/Icarus_Run.jpg",
     "type": "rescue",
     "contractId": "23642",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -594,7 +594,7 @@
     "image": "/contracts/base/Kill_Slavers.jpg",
     "type": "kill",
     "contractId": "31673",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -622,7 +622,7 @@
     "image": "/contracts/base/Martial_Law.jpg",
     "type": "rescue",
     "contractId": "12305",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -650,7 +650,7 @@
     "image": "/contracts/base/Munitions_Stockpile.jpg",
     "type": "delivery",
     "contractId": "10514",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -678,7 +678,7 @@
     "image": "/contracts/base/Negotiation_Insurance.jpg",
     "type": "delivery",
     "contractId": "10866",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -706,7 +706,7 @@
     "image": "/contracts/base/Nova_Bloom.jpg",
     "type": "explore",
     "contractId": "20706",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -734,7 +734,7 @@
     "image": "/contracts/base/Pirate_Treasure.jpg",
     "type": "explore",
     "contractId": "34903",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -762,7 +762,7 @@
     "image": "/contracts/base/Prison_Moon.jpg",
     "type": "rescue",
     "contractId": "30513",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -790,7 +790,7 @@
     "image": "/contracts/base/Probe_Recovery.jpg",
     "type": "explore",
     "contractId": "24722",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -818,7 +818,7 @@
     "image": "/contracts/base/Proof_of_Life.jpg",
     "type": "delivery",
     "contractId": "32052",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -846,7 +846,7 @@
     "image": "/contracts/base/Reactor_Failure.jpg",
     "type": "rescue",
     "contractId": "18875",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -874,7 +874,7 @@
     "image": "/contracts/base/Refugee_Crisis.jpg",
     "type": "delivery",
     "contractId": "17576",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -902,7 +902,7 @@
     "image": "/contracts/base/Resistance_Leader.jpg",
     "type": "rescue",
     "contractId": "17217",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -930,7 +930,7 @@
     "image": "/contracts/base/Rival_Pirate_Gang.jpg",
     "type": "kill",
     "contractId": "29152",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -958,7 +958,7 @@
     "image": "/contracts/base/Royal_Cargo.jpg",
     "type": "delivery",
     "contractId": "17010",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -986,7 +986,7 @@
     "image": "/contracts/base/Scout_Cruiser.jpg",
     "type": "kill",
     "contractId": "30332",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -1014,7 +1014,7 @@
     "image": "/contracts/base/Space_Anomaly.jpg",
     "type": "explore",
     "contractId": "28043",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -1042,7 +1042,7 @@
     "image": "/contracts/base/Stim_Run.jpg",
     "type": "delivery",
     "contractId": "10089",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -1070,7 +1070,7 @@
     "image": "/contracts/base/Supernova_Escape.jpg",
     "type": "rescue",
     "contractId": "32169",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -1098,7 +1098,7 @@
     "image": "/contracts/base/Transport_Rescue.jpg",
     "type": "rescue",
     "contractId": "21014",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -1126,7 +1126,7 @@
     "image": "/contracts/1st_encounter/Boarding_Action.jpg",
     "type": "explore",
     "contractId": "20070",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -1154,7 +1154,7 @@
     "image": "/contracts/1st_encounter/Decoy_Target.jpg",
     "type": "rescue",
     "contractId": "56787",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -1182,7 +1182,7 @@
     "image": "/contracts/1st_encounter/First_Contact.jpg",
     "type": "explore",
     "contractId": "05765",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -1210,7 +1210,7 @@
     "image": "/contracts/1st_encounter/Focused_Fire.jpg",
     "type": "kill",
     "contractId": "23457",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -1238,7 +1238,7 @@
     "image": "/contracts/1st_encounter/Gauntlet_Run.jpg",
     "type": "delivery",
     "contractId": "13468",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -1266,7 +1266,7 @@
     "image": "/contracts/shard/Decoy_Convoy.jpg",
     "type": "rescue",
     "contractId": "23457",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -1294,7 +1294,7 @@
     "image": "/contracts/shard/Deep_Space_Scan.jpg",
     "type": "explore",
     "contractId": "56787",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -1322,7 +1322,7 @@
     "image": "/contracts/shard/Hostage_Extraction.jpg",
     "type": "rescue",
     "contractId": "20070",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -1350,7 +1350,7 @@
     "image": "/contracts/shard/Hunt_the_Hunter.jpg",
     "type": "kill",
     "contractId": "05765",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -1378,7 +1378,7 @@
     "image": "/contracts/shard/Illegal_Munitions.jpg",
     "type": "delivery",
     "contractId": "13468",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -1406,7 +1406,7 @@
     "image": "/contracts/binding_ties/Emergency_Council.jpg",
     "type": "delivery",
     "contractId": "78185",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -1434,7 +1434,7 @@
     "image": "/contracts/binding_ties/Infiltration_Plan.jpg",
     "type": "rescue",
     "contractId": "19728",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -1462,7 +1462,7 @@
     "image": "/contracts/binding_ties/Minil_Horde.jpg",
     "type": "kill",
     "contractId": "97531",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -1490,7 +1490,7 @@
     "image": "/contracts/binding_ties/Mythic_Monstrosity.jpg",
     "type": "kill",
     "contractId": "34985",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -1518,7 +1518,7 @@
     "image": "/contracts/binding_ties/Precious_Cargo.jpg",
     "type": "delivery",
     "contractId": "67910",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -1546,7 +1546,7 @@
     "image": "/contracts/binding_ties/Solar_Flares.jpg",
     "type": "explore",
     "contractId": "14716",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -1574,7 +1574,7 @@
     "image": "/contracts/binding_ties/Solar_Shield.jpg",
     "type": "rescue",
     "contractId": "53879",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -1602,7 +1602,7 @@
     "image": "/contracts/binding_ties/Starfall_Anomaly.jpg",
     "type": "rescue",
     "contractId": "33878",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -1630,7 +1630,7 @@
     "image": "/contracts/binding_ties/The_Veil.jpg",
     "type": "explore",
     "contractId": "65524",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -1658,7 +1658,7 @@
     "image": "/contracts/binding_ties/Traders_Peril.jpg",
     "type": "rescue",
     "contractId": "62844",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -1742,7 +1742,7 @@
     "image": "/contracts/overload/Concealed_Core.jpg",
     "type": "explore",
     "contractId": "39823",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -1770,7 +1770,7 @@
     "image": "/contracts/overload/Concealed_Parcel.jpg",
     "type": "delivery",
     "contractId": "94603",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -1798,7 +1798,7 @@
     "image": "/contracts/overload/Cryptic_Shadow.jpg",
     "type": "rescue",
     "contractId": "67075",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -1854,7 +1854,7 @@
     "image": "/contracts/overload/Guerilla_Ambush.jpg",
     "type": "kill",
     "contractId": "30098",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -1910,7 +1910,7 @@
     "image": "/contracts/overload/Nameless_Ruins.jpg",
     "type": "explore",
     "contractId": "59571",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -2050,7 +2050,7 @@
     "image": "/contracts/overload/The_Alpha_Nebula.jpg",
     "type": "explore",
     "contractId": "12896",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2078,7 +2078,7 @@
     "image": "/contracts/overload/The_Beta_Nebula.jpg",
     "type": "delivery",
     "contractId": "43079",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2106,7 +2106,7 @@
     "image": "/contracts/overload/The_Omega_Nebula.jpg",
     "type": "delivery",
     "contractId": "25076",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2134,7 +2134,7 @@
     "image": "/contracts/overload/Uncharted_Nebula.jpg",
     "type": "kill",
     "contractId": "85438",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2162,7 +2162,7 @@
     "image": "/contracts/overload/Undisclosed_Refuge.jpg",
     "type": "rescue",
     "contractId": "96370",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -2246,7 +2246,7 @@
     "image": "/contracts/nomad/Aggressive_Negotiation.jpg",
     "type": "redacted",
     "contractId": "68233",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2274,7 +2274,7 @@
     "image": "/contracts/nomad/Avoid_Entrapment.jpg",
     "type": "delivery",
     "contractId": "81458",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -2302,7 +2302,7 @@
     "image": "/contracts/nomad/Border_Skirmish.jpg",
     "type": "redacted",
     "contractId": "80497",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2330,7 +2330,7 @@
     "image": "/contracts/nomad/Bounty_Drones.jpg",
     "type": "kill",
     "contractId": "32067",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -2358,7 +2358,7 @@
     "image": "/contracts/nomad/Broadside_Cover.jpg",
     "type": "rescue",
     "contractId": "74001",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -2386,7 +2386,7 @@
     "image": "/contracts/nomad/Dignitary_Escort.jpg",
     "type": "redacted",
     "contractId": "26299",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2414,7 +2414,7 @@
     "image": "/contracts/nomad/Emergency_Orders.jpg",
     "type": "redacted",
     "contractId": "13802",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2442,7 +2442,7 @@
     "image": "/contracts/nomad/Fatal_Extraction.jpg",
     "type": "redacted",
     "contractId": "58023",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2470,7 +2470,7 @@
     "image": "/contracts/nomad/Feint_Attack.jpg",
     "type": "rescue",
     "contractId": "98398",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -2498,7 +2498,7 @@
     "image": "/contracts/nomad/Hostile_Arbitration.jpg",
     "type": "redacted",
     "contractId": "10321",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2526,7 +2526,7 @@
     "image": "/contracts/nomad/Moon_Defense.jpg",
     "type": "redacted",
     "contractId": "81691",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2554,7 +2554,7 @@
     "image": "/contracts/nomad/Nova_Scout.jpg",
     "type": "explore",
     "contractId": "35912",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -2582,7 +2582,7 @@
     "image": "/contracts/nomad/Orbital_Loop.jpg",
     "type": "delivery",
     "contractId": "10918",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -2610,7 +2610,7 @@
     "image": "/contracts/nomad/Path_to_Absolution.jpg",
     "type": "redacted",
     "contractId": "98707",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2638,7 +2638,7 @@
     "image": "/contracts/nomad/Patrol_Survey.jpg",
     "type": "redacted",
     "contractId": "51657",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2666,7 +2666,7 @@
     "image": "/contracts/nomad/Readiness_Drills.jpg",
     "type": "redacted",
     "contractId": "53813",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2694,7 +2694,7 @@
     "image": "/contracts/nomad/Sector_Infiltration.jpg",
     "type": "kill",
     "contractId": "90343",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -2722,7 +2722,7 @@
     "image": "/contracts/nomad/Sector_Scan.jpg",
     "type": "explore",
     "contractId": "81094",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -2750,7 +2750,7 @@
     "image": "/contracts/nomad/Supply_Raid.jpg",
     "type": "redacted",
     "contractId": "44200",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -2778,7 +2778,7 @@
     "image": "/contracts/nomad/The_Academy.jpg",
     "type": "redacted",
     "contractId": "15127",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -3086,7 +3086,7 @@
     "image": "/contracts/intrepid/Chaotic_Confluence.jpg",
     "type": "unstable",
     "contractId": "18745",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {
@@ -3115,7 +3115,7 @@
     "image": "/contracts/intrepid/Contingency_Shelter.jpg",
     "type": "rescue",
     "contractId": "90026",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -3144,7 +3144,7 @@
     "image": "/contracts/intrepid/Ethereal_Well.jpg",
     "type": "explore",
     "contractId": "06923",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -3173,7 +3173,7 @@
     "image": "/contracts/intrepid/Gossamer_Vault.jpg",
     "type": "explore",
     "contractId": "68566",
-    "cardText": "",
+    "cardText": null,
     "sector": "komek",
     "holographic": false,
     "requirements": {
@@ -3202,7 +3202,7 @@
     "image": "/contracts/intrepid/Helix_Guardian.jpg",
     "type": "kill",
     "contractId": "58346",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -3231,7 +3231,7 @@
     "image": "/contracts/intrepid/Imperial_Envoy.jpg",
     "type": "delivery",
     "contractId": "40441",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -3260,7 +3260,7 @@
     "image": "/contracts/intrepid/Lattice_Network.jpg",
     "type": "rescue",
     "contractId": "49589",
-    "cardText": "",
+    "cardText": null,
     "sector": "henko",
     "holographic": false,
     "requirements": {
@@ -3289,7 +3289,7 @@
     "image": "/contracts/intrepid/Rift_Watcher.jpg",
     "type": "kill",
     "contractId": "32401",
-    "cardText": "",
+    "cardText": null,
     "sector": "magnomi",
     "holographic": false,
     "requirements": {
@@ -3318,7 +3318,7 @@
     "image": "/contracts/intrepid/Semestral_Haul.jpg",
     "type": "delivery",
     "contractId": "23417",
-    "cardText": "",
+    "cardText": null,
     "sector": "ventus",
     "holographic": false,
     "requirements": {
@@ -3347,7 +3347,7 @@
     "image": "/contracts/intrepid/Tear_of_Convergence.jpg",
     "type": "unstable",
     "contractId": "78657",
-    "cardText": "",
+    "cardText": null,
     "sector": "sorelia",
     "holographic": false,
     "requirements": {

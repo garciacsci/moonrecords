@@ -54,9 +54,10 @@ try:
     for card in action_cards_data:
         # Insert card into card table
         cur.execute("""
-            INSERT INTO card (id, name, collection, image, card_text)
-            VALUES (%s, %s, %s, %s, %s)
-        """, (card['id'], card['name'], card['collection'], card['image'], card['cardText']))
+            INSERT INTO card (name, collection, image, card_text)
+            VALUES (%s, %s, %s, %s)
+            RETURNING id
+        """, (card['name'], card['collection'], card['image'], card['cardText']))
         card_id = cur.fetchone()[0]
 
         # Then insert into action_card table
