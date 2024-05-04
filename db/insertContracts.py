@@ -118,6 +118,10 @@ try:
             VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
         """, (card_id, card['type'], card['contractId'], card['sector'], card['holographic'], card['hazards'],
               requirement_id, reward_id))
+        
+        # Commit changes
+        connection.commit()
+        print("Data inserted successfully.")
 
 except Exception as e:
     connection.rollback() # Roll back transaction if error occurs
