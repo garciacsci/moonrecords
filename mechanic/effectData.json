@@ -1,6 +1,15 @@
 [
   {
     "id": 0,
+    "effect_type": "none",
+    "effect_value_numeric": null,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "No effect"
+  },
+  {
+    "id": 1,
     "effect_type": "deal_damage",
     "effect_value_numeric": 1,
     "effect_value_text": null,
@@ -9,7 +18,7 @@
     "info": "+1 Damage"
   },
   {
-    "id": 1,
+    "id": 2,
     "effect_type": "deal_damage",
     "effect_value_numeric": 2,
     "effect_value_text": null,
@@ -18,7 +27,7 @@
     "info": "+2 Damage"
   },
   {
-    "id": 2,
+    "id": 3,
     "effect_type": "deal_damage",
     "effect_value_numeric": 3,
     "effect_value_text": null,
@@ -27,7 +36,7 @@
     "info": "+3 Damage"
   },
   {
-    "id": 3,
+    "id": 4,
     "effect_type": "reduce_requirement",
     "effect_value_numeric": 1,
     "effect_value_text": "reactor",
@@ -36,7 +45,7 @@
     "info": "Reduce reactor requirement by one"
   },
   {
-    "id": 4,
+    "id": 5,
     "effect_type": "gain_action",
     "effect_value_numeric": 1,
     "effect_value_text": null,
@@ -45,16 +54,16 @@
     "info": "+1 Actions"
   },
   {
-    "id": 5,
+    "id": 6,
     "effect_type": "reduce_requirement",
     "effect_value_numeric": 1,
-    "effect_value_text": "reactor",
+    "effect_value_text": "shield",
     "is_variable_effect_value": false,
     "referenced_card_id": null,
     "info": "Reduce shield requirement by one"
   },
   {
-    "id": 6,
+    "id": 7,
     "effect_type": "block_hazard",
     "effect_value_numeric": 1,
     "effect_value_text": null,
@@ -63,7 +72,7 @@
     "info": "Block 1 Hazard"
   },
   {
-    "id": 7,
+    "id": 8,
     "effect_type": "reduce_requirement",
     "effect_value_numeric": 1,
     "effect_value_text": "thruster",
@@ -72,7 +81,7 @@
     "info": "Reduce thruster requirement by one"
   },
   {
-    "id": 8,
+    "id": 9,
     "effect_type": "draw_card",
     "effect_value_numeric": 2,
     "effect_value_text": null,
@@ -81,7 +90,7 @@
     "info": "+2 Cards"
   },
   {
-    "id": 9,
+    "id": 10,
     "effect_type": "draw_card",
     "effect_value_numeric": 1,
     "effect_value_text": null,
@@ -90,7 +99,7 @@
     "info": "+1 Card"
   },
   {
-    "id": 10,
+    "id": 11,
     "effect_type": "gain_action",
     "effect_value_numeric": 3,
     "effect_value_text": null,
@@ -99,7 +108,7 @@
     "info": "+3 Actions"
   },
   {
-    "id": 11,
+    "id": 12,
     "effect_type": "block_hazard",
     "effect_value_numeric": 2,
     "effect_value_text": null,
@@ -108,7 +117,7 @@
     "info": "Block 2 Hazard"
   },
   {
-    "id": 12,
+    "id": 13,
     "effect_type": "draw_card",
     "effect_value_numeric": 3,
     "effect_value_text": null,
@@ -117,7 +126,7 @@
     "info": "+3 Cards"
   },
   {
-    "id": 13,
+    "id": 14,
     "effect_type": "deal_damage",
     "effect_value_numeric": null,
     "effect_value_text": null,
@@ -126,7 +135,7 @@
     "info": "Deal a variable amount of damage"
   },
   {
-    "id": 14,
+    "id": 15,
     "effect_type": "deal_damage",
     "effect_value_numeric": 4,
     "effect_value_text": null,
@@ -135,7 +144,7 @@
     "info": "+4 Damage"
   },
   {
-    "id": 15,
+    "id": 16,
     "effect_type": "deal_damage",
     "effect_value_numeric": 5,
     "effect_value_text": null,
