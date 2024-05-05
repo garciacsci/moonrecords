@@ -47,11 +47,11 @@
   {
     "id": 5,
     "effect_type": "gain_action",
-    "effect_value_numeric": 1,
+    "effect_value_numeric": 2,
     "effect_value_text": null,
     "is_variable_effect_value": false,
     "referenced_card_id": null,
-    "info": "+1 Actions"
+    "info": "+2 Actions"
   },
   {
     "id": 6,
@@ -151,5 +151,14 @@
     "is_variable_effect_value": false,
     "referenced_card_id": null,
     "info": "+5 Damage"
+  },
+  {
+    "id": 17,
+    "effect_type": "gain_action",
+    "effect_value_numeric": 1,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+1 Action"
   }
 ]

@@ -1,0 +1,122 @@
+[
+  {
+    "card_name": "Damage",
+    "effect_info": "+1 Damage",
+    "card_id": 1,
+    "effect_id": 1
+  },
+  {
+    "card_name": "Damage 2",
+    "effect_info": "+2 Damage",
+    "card_id": 2,
+    "effect_id": 2
+  },
+  {
+    "card_name": "Damage 3",
+    "effect_info": "+3 Damage",
+    "card_id": 3,
+    "effect_id": 3
+  },
+  {
+    "card_name": "Miss",
+    "effect_info": "System Error",
+    "card_id": 4,
+    "effect_id": 0
+  },
+  {
+    "card_name": "Reactor",
+    "effect_info": "Reduce reactor requirement by one",
+    "card_id": 5,
+    "effect_id": 4
+  },
+  {
+    "card_name": "Reactor",
+    "effect_info": "+2 Actions",
+    "card_id": 5,
+    "effect_id": 5
+  },
+  {
+    "card_name": "Shield",
+    "effect_info": "Reduce shield requirement by one",
+    "card_id": 6,
+    "effect_id": 6
+  },
+  {
+    "card_name": "Shield",
+    "effect_info": "Block 1 Hazard",
+    "card_id": 6,
+    "effect_id": 7
+  },
+  {
+    "card_name": "Thruster",
+    "effect_info": "Reduce thruster requirement by one",
+    "card_id": 7,
+    "effect_id": 8
+  },
+  {
+    "card_name": "Thruster",
+    "effect_infor": "+2 Cards",
+    "card_id": 7,
+    "effect_id": 9
+  },
+  {
+    "card_name": "Damage+",
+    "effect_info": "+2 Damage",
+    "card_id": 8,
+    "effect_id": 2
+  },
+  {
+    "card_name": "Damage+",
+    "effect_info": "+1 Action",
+    "card_id": 8,
+    "effect_id": 17
+  },
+  {
+    "card_name": "Reactor+",
+    "effect_info": "Reduce reactor requirement by one",
+    "card_id": 9,
+    "effect_id": 4
+  },
+  {
+    "card_name": "Reactor+",
+    "effect_info": "+2 Actions",
+    "card_id": 9,
+    "effect_id": 5
+  },
+  {
+    "card_name": "Reactor+",
+    "effect_info": "+1 Card",
+    "card_id": 9,
+    "effect_id": 10
+  },
+  {
+    "card_name": "Reactorx",
+    "effect_info": "Reduce reactor requirement by one",
+    "card_id": 10,
+    "effect_id": 4
+  },
+  {
+    "card_name": "Reactorx",
+    "effect_infor": "+3 Actions",
+    "card_id": 10,
+    "effect_id": 11
+  },
+  {
+    "card_name": "Shield+",
+    "effect_info": "Reduce shield requirement by one",
+    "card_id": 11,
+    "effect_id": 6
+  },
+  {
+    "card_name": "Shield+",
+    "effect_info": "Block 1 Hazard",
+    "card_id": 11,
+    "effect_id": 7
+  },
+  {
+    "card_name": "Shield+",
+    "effect_info": "+1 Action",
+    "card_id": 11,
+    "effect_id": 17
+  }
+]
