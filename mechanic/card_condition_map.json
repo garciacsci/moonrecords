@@ -1,0 +1,23 @@
+[
+  {
+    "card_id": 1,
+    "effect_id": 0,
+    "card_name": "Damage"
+  },
+  {
+    "card_id": 2,
+    "effect_id": 1,
+    "file": "actionCardsData.json"
+  },
+  {
+    "card_id": 3,
+    "effect_id": 2,
+    "file": "actionCardsData.json"
+  },
+  {
+    "card_id": 4,
+    "effect_id": 3,
+    "file": "actionCardsData.json"
+  }
+  
+]
