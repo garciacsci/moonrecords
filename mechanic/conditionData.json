@@ -106,5 +106,14 @@
     "is_variable_condition_value": false,
     "referenced_card_id": null,
     "info": "First played Damage"
+  },
+  {
+    "id": 12,
+    "condition_type": "card_in_hand",
+    "condition_value_numeric": 0,
+    "condition_value_text": "reactor",
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "No Reactors in your hand"
   }
 ]
