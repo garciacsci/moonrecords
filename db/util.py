@@ -43,3 +43,23 @@ def connect_to_db():
         user=os.getenv("DB_USER"),
         password=os.getenv("DB_PASSWORD")
     )
+
+def get_card_name_by_id(json_filename, card_id):
+    """ Retrieve a card name from JSON data based on its id. """
+    # TODO: Make validation a function call based on filename
+    # cards = load_and_validate_json(json_filename)
+    with open(json_filename, 'r') as file:
+      cards = json.load(file)
+    for card in cards:
+        if card['id'] == card_id:            
+            return card['name']
+    return None
+
+def find_card_id_by_name(cursor, card_name):
+    """ Fetch the card ID from the database by card name. """
+    cursor.execute("SELECT id FROM card WHERE name = %s", (card_name,))
+    result = cursor.fetchone()
+    if result:
+        return result[0]
+    else:
+        return None

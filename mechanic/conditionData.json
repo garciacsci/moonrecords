@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "condition_type": "none",
+    "condition_value_numeric": null,
+    "condition_value_text": null,
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "No condition"
+  },
+  {
+    "id": 1,
+    "condition_type": "start_of_contract",
+    "condition_value_numeric": null,
+    "condition_value_text": null,
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "At the start of a contract"
+  },
+  {
+    "id": 2,
+    "condition_type": "first_played",
+    "condition_value_numeric": 1,
+    "condition_value_text": "reactor",
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "First Reactor played"
+  },
+  {
+    "id": 3,
+    "condition_type": "card_in_hand",
+    "condition_value_numeric": 0,
+    "condition_value_text": "shield",
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "No Shields in your hand"
+  },
+  {
+    "id": 4,
+    "condition_type": "discard",
+    "condition_value_numeric": 1,
+    "condition_value_text": "Damage 1",
+    "is_variable_condition_value": false,
+    "referenced_card_id": 1,
+    "info": "Discard a Damage 1"
+  },
+  {
+    "id": 5,
+    "condition_type": "discard",
+    "condition_value_numeric": 1,
+    "condition_value_text": "Damage 2",
+    "is_variable_condition_value": false,
+    "referenced_card_id": 2,
+    "info": "Discard a Damage 2"
+  },
+  {
+    "id": 6,
+    "condition_type": "as_one_action",
+    "condition_value_numeric": null,
+    "condition_value_text": null,
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "As 1 Action"
+  },
+  {
+    "id": 7,
+    "condition_type": "discard",
+    "condition_value_numeric": 2,
+    "condition_value_text": "any",
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "Discard any 2 cards"
+  },
+  {
+    "id": 8,
+    "condition_type": "first_played",
+    "condition_value_numeric": 1,
+    "condition_value_text": "Shield",
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "Your first played Shield"
+  },
+  {
+    "id": 9,
+    "condition_type": "card_in_hand",
+    "condition_value_numeric": 0,
+    "condition_value_text": "thruster",
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "No Thrusters in your hand"
+  },
+  {
+    "id": 10,
+    "condition_type": "play",
+    "condition_value_numeric": 1,
+    "condition_value_text": "Damage 1",
+    "is_variable_condition_value": false,
+    "referenced_card_id": 1,
+    "info": "Play a Damage 1"
+  },
+  {
+    "id": 11,
+    "condition_type": "first_played",
+    "condition_value_numeric": 1,
+    "condition_value_text": "damage",
+    "is_variable_condition_value": false,
+    "referenced_card_id": null,
+    "info": "First played Damage"
+  }
+]

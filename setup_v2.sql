@@ -184,6 +184,7 @@ CREATE TABLE "condition" (
   "condition_type" VARCHAR(50) NOT NULL,
   "condition_value_numeric" INTEGER,
   "condition_value_text" VARCHAR(50),
+  "is_variable_condition_value" BOOLEAN NOT NULL DEFAULT false,
   "referenced_card_id" INTEGER REFERENCES "card"("id") DEFAULT NULL,
   "info" TEXT
 );
