@@ -169,7 +169,7 @@ CREATE TABLE "effect" (
   "effect_value_numeric" INTEGER,
   "effect_value_text" INTEGER,
   "is_variable_effect_value" BOOLEAN NOT NULL DEFAULT false,
-  "referenced_card_id" INTEGER REFERENCES "card"("id") DEFAULT NULL,
+  "referenced_card_id" INTEGER REFERENCES "action_card"("id") DEFAULT NULL,
   "info" TEXT
 );
 
@@ -185,7 +185,7 @@ CREATE TABLE "condition" (
   "condition_value_numeric" INTEGER,
   "condition_value_text" VARCHAR(50),
   "is_variable_condition_value" BOOLEAN NOT NULL DEFAULT false,
-  "referenced_card_id" INTEGER REFERENCES "card"("id") DEFAULT NULL,
+  "referenced_card_id" INTEGER REFERENCES "action_card"("id") DEFAULT NULL,
   "info" TEXT
 );
 
