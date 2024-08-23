@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "name": "Damage",
+    "collection": "base_game",
+    "image": "/action_cards/base/Damage.jpg",
+    "cardText": "+1 Damage",
+    "cardType": "damage",
+    "is_discrete": true
+  },
+  {
+    "id": 2,
+    "name": "Damage 2",
+    "collection": "base_game",
+    "image": "/action_cards/base/Damage_2.jpg",
+    "cardText": "+2 Damage",
+    "cardType": "damage",
+    "is_discrete": true
+  },
+  {
+    "id": 3,
+    "name": "Damage 3",
+    "collection": "base_game",
+    "image": "/action_cards/base/Damage_3.jpg",
+    "cardText": "+3 Damage",
+    "cardType": "damage",
+    "is_discrete": true
+  },
+  {
+    "id": 4,
+    "name": "Miss",
+    "collection": "base_game",
+    "image": "/action_cards/base/Miss.jpg",
+    "cardText": "System Error",
+    "cardType": "miss",
+    "is_discrete": true
+  },
+  {
+    "id": 5,
+    "name": "Reactor",
+    "collection": "base_game",
+    "image": "/action_cards/base/Reactor.jpg",
+    "cardText": "+2 Actions",
+    "cardType": "reactor",
+    "is_discrete": true
+  },
+  {
+    "id": 6,
+    "name": "Shield",
+    "collection": "base_game",
+    "image": "/action_cards/base/Shield.jpg",
+    "cardText": "Block 1 Hazard",
+    "cardType": "shield",
+    "is_discrete": true
+  },
+  {
+    "id": 7,
+    "name": "Thruster",
+    "collection": "base_game",
+    "image": "/action_cards/base/Thruster.jpg",
+    "cardText": "+2 Cards",
+    "cardType": "thruster",
+    "is_discrete": true
+  },
+  {
+    "id": 8,
+    "name": "Damage+",
+    "collection": "overload",
+    "image": "/action_cards/overload/Damage_+.jpg",
+    "cardText": "+2 Damage, +1 Action",
+    "cardType": "damage",
+    "is_discrete": true
+  },
+  {
+    "id": 9,
+    "name": "Reactor+",
+    "collection": "overload",
+    "image": "/action_cards/overload/Reactor_+.jpg",
+    "cardText": "+2 Actions, +1 Card",
+    "cardType": "reactor",
+    "is_discrete": true
+  },
+  {
+    "id": 10,
+    "name": "Reactorx",
+    "collection": "overload",
+    "image": "/action_cards/overload/Reactor_X.jpg",
+    "cardText": "+3 Actions",
+    "cardType": "reactor",
+    "is_discrete": true
+  },
+  {
+    "id": 11,
+    "name": "Shield+",
+    "collection": "overload",
+    "image": "/action_cards/overload/Shield_+.jpg",
+    "cardText": "Block 1 Hazard, +1 Action",
+    "cardType": "shield",
+    "is_discrete": true
+  },
+  {
+    "id": 12,
+    "name": "Shieldx",
+    "collection": "overload",
+    "image": "/action_cards/overload/Shield_X.jpg",
+    "cardText": "Block 2 Hazard",
+    "cardType": "shield",
+    "is_discrete": true
+  },
+  {
+    "id": 13,
+    "name": "Thruster+",
+    "collection": "overload",
+    "image": "/action_cards/overload/Thruster_+.jpg",
+    "cardText": "+2 Cards, +1 Action",
+    "cardType": "thruster",
+    "is_discrete": true
+  },
+  {
+    "id": 14,
+    "name": "Thrusterx",
+    "collection": "overload",
+    "image": "/action_cards/overload/Thruster_X.jpg",
+    "cardText": "+3 Cards",
+    "cardType": "thruster",
+    "is_discrete": true
+  },
+  {
+    "id": 15,
+    "name": "Dark Matter",
+    "collection": "dark_matter",
+    "image": "/action_cards/dark_matter/Dark_Matter.jpg",
+    "cardText": "Idle Substance",
+    "cardType": "dark_matter",
+    "is_discrete": true
+  },
+  {
+    "id": 16,
+    "name": "Damage Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Damage.jpg",
+    "cardText": "Variable Damage",
+    "cardType": "damage",
+    "is_discrete": false
+  },
+  {
+    "id": 17,
+    "name": "Damage 1 Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Damage_1.jpg",
+    "cardText": "+1 Damage",
+    "cardType": "damage",
+    "is_discrete": false
+  },
+  {
+    "id": 18,
+    "name": "Damage 2 Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Damage_2.jpg",
+    "cardText": "+2 Damage",
+    "cardType": "damage",
+    "is_discrete": false
+  },
+  {
+    "id": 19,
+    "name": "Damage 3 Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Damage_3.jpg",
+    "cardText": "+3 Damage",
+    "cardType": "damage",
+    "is_discrete": false
+  },
+  {
+    "id": 20,
+    "name": "Miss Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Miss.jpg",
+    "cardText": "System Error",
+    "cardType": "miss",
+    "is_discrete": false
+  },
+  {
+    "id": 21,
+    "name": "Reactor Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Reactor.jpg",
+    "cardText": "+2 Actions",
+    "cardType": "reactor",
+    "is_discrete": false
+  },
+  {
+    "id": 22,
+    "name": "Shield Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Shield.jpg",
+    "cardText": "Block 1 Hazard",
+    "cardType": "shield",
+    "is_discrete": false
+  },
+  {
+    "id": 23,
+    "name": "Thruster Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Thruster.jpg",
+    "cardText": "+2 Cards",
+    "cardType": "thruster",
+    "is_discrete": false
+  },
+  {
+    "id": 24,
+    "name": "Damage+ Non-Discrete",
+    "collection": "overload",
+    "image": "/action_cards/overload/Damage_+.jpg",
+    "cardText": "+2 Damage, +1 Action",
+    "cardType": "damage",
+    "is_discrete": false
+  },
+  {
+    "id": 25,
+    "name": "Reactor+ Non-Discrete",
+    "collection": "overload",
+    "image": "/action_cards/overload/Reactor_+.jpg",
+    "cardText": "+2 Actions, +1 Card",
+    "cardType": "reactor",
+    "is_discrete": false
+  },
+  {
+    "id": 26,
+    "name": "Reactorx Non-Discrete",
+    "collection": "overload",
+    "image": "/action_cards/overload/Reactor_X.jpg",
+    "cardText": "+3 Actions",
+    "cardType": "reactor",
+    "is_discrete": false
+  },
+  {
+    "id": 27,
+    "name": "Shield+ Non-Discrete",
+    "collection": "overload",
+    "image": "/action_cards/overload/Shield_+.jpg",
+    "cardText": "Block 1 Hazard, +1 Action",
+    "cardType": "shield",
+    "is_discrete": false
+  },
+  {
+    "id": 28,
+    "name": "Shieldx Non-Discrete",
+    "collection": "overload",
+    "image": "/action_cards/overload/Shield_X.jpg",
+    "cardText": "Block 2 Hazard",
+    "cardType": "shield",
+    "is_discrete": false
+  },
+  {
+    "id": 29,
+    "name": "Thruster+ Non-Discrete",
+    "collection": "overload",
+    "image": "/action_cards/overload/Thruster_+.jpg",
+    "cardText": "+2 Cards, +1 Action",
+    "cardType": "thruster",
+    "is_discrete": false
+  },
+  {
+    "id": 30,
+    "name": "Thrusterx Non-Discrete",
+    "collection": "overload",
+    "image": "/action_cards/overload/Thruster_X.jpg",
+    "cardText": "+3 Cards",
+    "cardType": "thruster",
+    "is_discrete": false
+  },
+  {
+    "id": 31,
+    "name": "Dark Matter Non-Discrete",
+    "collection": "dark_matter",
+    "image": "/action_cards/dark_matter/Dark_Matter.jpg",
+    "cardText": "Idle Substance",
+    "cardType": "dark_matter",
+    "is_discrete": false
+  },
+  {
+    "id": 32,
+    "name": "Damage 4 Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Damage_3.jpg",
+    "cardText": "+4 Damage",
+    "cardType": "damage",
+    "is_discrete": false
+  },
+  {
+    "id": 33,
+    "name": "Damage 5 Non-Discrete",
+    "collection": "base_game",
+    "image": "/action_cards/base/Damage_3.jpg",
+    "cardText": "+5 Damage",
+    "cardType": "damage",
+    "is_discrete": false
+  }
+]

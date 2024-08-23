@@ -1,0 +1,254 @@
+[
+  {
+    "id": 0,
+    "effect_type": "none",
+    "effect_value_numeric": null,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "No effect"
+  },
+  {
+    "id": 1,
+    "effect_type": "deal_damage",
+    "effect_value_numeric": 1,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+1 Damage"
+  },
+  {
+    "id": 2,
+    "effect_type": "deal_damage",
+    "effect_value_numeric": 2,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id":null,
+    "info": "+2 Damage"
+  },
+  {
+    "id": 3,
+    "effect_type": "deal_damage",
+    "effect_value_numeric": 3,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+3 Damage"
+  },
+  {
+    "id": 4,
+    "effect_type": "reduce_requirement",
+    "effect_value_numeric": 1,
+    "effect_value_text": "reactor",
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "Reduce reactor requirement by one"
+  },
+  {
+    "id": 5,
+    "effect_type": "gain_action",
+    "effect_value_numeric": 2,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+2 Actions"
+  },
+  {
+    "id": 6,
+    "effect_type": "reduce_requirement",
+    "effect_value_numeric": 1,
+    "effect_value_text": "shield",
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "Reduce shield requirement by one"
+  },
+  {
+    "id": 7,
+    "effect_type": "block",
+    "effect_value_numeric": 1,
+    "effect_value_text": "hazard",
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "Block 1 Hazard"
+  },
+  {
+    "id": 8,
+    "effect_type": "reduce_requirement",
+    "effect_value_numeric": 1,
+    "effect_value_text": "thruster",
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "Reduce thruster requirement by one"
+  },
+  {
+    "id": 9,
+    "effect_type": "draw_card",
+    "effect_value_numeric": 2,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+2 Cards"
+  },
+  {
+    "id": 10,
+    "effect_type": "draw_card",
+    "effect_value_numeric": 1,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+1 Card"
+  },
+  {
+    "id": 11,
+    "effect_type": "gain_action",
+    "effect_value_numeric": 3,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+3 Actions"
+  },
+  {
+    "id": 12,
+    "effect_type": "block",
+    "effect_value_numeric": 2,
+    "effect_value_text": "hazard",
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "Block 2 Hazard"
+  },
+  {
+    "id": 13,
+    "effect_type": "draw_card",
+    "effect_value_numeric": 3,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+3 Cards"
+  },
+  {
+    "id": 14,
+    "effect_type": "deal_damage",
+    "effect_value_numeric": null,
+    "effect_value_text": null,
+    "is_variable_effect_value": true,
+    "referenced_card_id": null,
+    "info": "Deal a variable amount of damage"
+  },
+  {
+    "id": 15,
+    "effect_type": "deal_damage",
+    "effect_value_numeric": 4,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+4 Damage"
+  },
+  {
+    "id": 16,
+    "effect_type": "deal_damage",
+    "effect_value_numeric": 5,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+5 Damage"
+  },
+  {
+    "id": 17,
+    "effect_type": "gain_action",
+    "effect_value_numeric": 1,
+    "effect_value_text": null,
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "+1 Action"
+  },
+  {
+    "id": 18,
+    "effect_type": "play_as",
+    "effect_value_numeric": 1,
+    "effect_value_text": "shield",
+    "is_variable_effect_value": false,
+    "referenced_card_id": 6,
+    "info": "Play as a shield"
+  },
+  {
+    "id": 19,
+    "effect_type": "re-roll",
+    "effect_value_numeric": null,
+    "effect_value_text": "hazard_die",
+    "is_variable_effect_value": true,
+    "referenced_card_id": null,
+    "info": "Re-roll any number of your Hazard Dice"
+  },
+  {
+    "id": 20,
+    "effect_type": "negate",
+    "effect_value_numeric": 1,
+    "effect_value_text": "hazard_die",
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "Negate 1 Hazard Die"
+  },
+  {
+    "id": 21,
+    "effect_type": "deal_damage",
+    "effect_value_numeric": null,
+    "effect_value_text": "hazard_negated",
+    "is_variable_effect_value": true,
+    "referenced_card_id": null,
+    "info": "Deal damage equal to Hazard negated"
+  },
+  {
+    "id": 22,
+    "effect_type": "retrieve",
+    "effect_value_numeric": 1,
+    "effect_value_text": "crew_card",
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "Retrieve a Crew Member from your played or discarded Cards"
+  },
+  {
+    "id": 23,
+    "effect_type": "play_as",
+    "effect_value_numeric": 1,
+    "effect_value_text": "Damage 4 Non-Discrete",
+    "is_variable_effect_value": false,
+    "referenced_card_id": 32,
+    "info": "Play as Damage 4"
+  },
+  {
+    "id": 24,
+    "effect_type": "trash",
+    "effect_value_numeric": 1,
+    "effect_value_text": "draw_pile",
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "Trash the top card from your draw pile"
+  },
+  {
+    "id": 25,
+    "effect_type": "play_as",
+    "effect_value_numeric": 1,
+    "effect_value_text": "Damage 3",
+    "is_variable_effect_value": false,
+    "referenced_card_id": 3,
+    "info": "Play as 1 Damage 3"
+  },
+  {
+    "id": 26,
+    "effect_type": "trash",
+    "effect_value_numeric": 1,
+    "effect_value_text": "hand",
+    "is_variable_effect_value": false,
+    "referenced_card_id": null,
+    "info": "Trash 1 Card from your hand"
+  },
+  {
+    "id": 27,
+    "effect_type": "buff_damage",
+    "effect_value_numeric": null,
+    "effect_value_text": "damage_card",
+    "is_variable_effect_value": true,
+    "referenced_card_id": null,
+    "info": "All players Damage cards are +1 Damage"
+  }
+]
